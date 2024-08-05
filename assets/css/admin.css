@@ -1,0 +1,174 @@
+*{
+    border-radius: 0px !important;
+}
+html, body {
+    height: 100%;
+    min-height: -webkit-fill-available;
+}
+.form-signin {
+    max-width: 320px;
+    height: 100%;
+    display: flex;
+    flex-wrap: nowrap;  
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+.form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    width: 330px;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.error{
+    color: #ff0000;    
+}
+.error:last-child{
+    padding-bottom: 5px;
+}
+
+main {
+    height: 100vh;
+    height: -webkit-fill-available;
+    max-height: 100vh;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.nav-item .nav-link{
+    color: #fff;
+}
+.nav-item:hover .nav-link{
+    background-color: var(--bs-info-bg-subtle);
+    color: var(--bs-info-text-emphasis);
+}
+
+/*ImageManagerModal*/
+.image-manager-modal-dialog{
+    width: 90% !important;
+    margin: auto;
+}
+.image-manager-modal-dialog .modal-content .modal-body{
+    min-height: 80vh;
+}
+.image-manager-image-button{
+    cursor: pointer;
+}
+.image-manager-thumb-image{
+    width: 150px;
+    height: 150px;
+    margin: 2px;
+}
+.image-selected{
+    border: 5px solid #06969b;
+}
+.image-manager-info-frame{
+    border-left: 1px solid rgba(0,0,0,0.5) !important;
+    height: 80vh;
+}
+.text-right{
+    text-align: right !important;
+}
+.mobile{display:none;}
+.desktop{display:block;}
+
+@media(max-width:830px){
+    .desktop{display:none;}
+    .mobile{display:block;}
+    .col-lg-2{max-width: 75px !important;}
+    .dropdown-divider{ max-width: 50px !important; }
+    .nav-item-name{display:none !important;}
+}
+
+.scrollspy-messages{
+    height: 60vh !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    overflow-y: scroll;
+}
+.message-box{
+    max-width: 70%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    color: #000;
+    clear: both;
+    white-space: normal !important;
+}
+.userToAdmin{
+    background-color: #DCF8C6; /* Háttérszín a felhasználótól az adminnak */
+    float: left;
+}
+.adminToUser{
+    background-color: #E0E0E0; /* Háttérszín az admintól a felhasználónak */
+    float: right;
+}
+.message-meta{
+    font-size: 12px;
+    --color: rgba(0,0,0,0.65);
+    color: var(--color) !important;
+    border-top: 1px solid var(--color);
+    margin-top: 5px;
+    padding-top:5px;
+}
+.attachmentModal{
+    width: 720px !important;
+}
+.loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999; /* Ha más elemek is vannak az oldalon, a loader mindig legfelül lesz */
+  }
+  
+  .loader p {
+    color: white;
+    font-size: 24px;
+  }
+
+
+/*specific*/
+datalist {
+    position: absolute;
+    max-height: 20em;
+    border: 0 none;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+datalist option {
+    font-size: 0.8em;
+    padding: 0.3em 1em;
+    background-color: #ccc;
+    cursor: pointer;
+  }
+  
+  datalist option:hover, datalist option:focus {
+    color: #fff;
+    background-color: #036;
+    outline: 0 none;
+  }
+
+  .bb-1-solid
+  {
+    border-bottom: 1px solid transparent;
+  }
+
+  .bb-dark-75
+  {
+    border-bottom-color: rgba(0,0,0,0.75);
+  }
+  .text-right{text-align: right !important;}
