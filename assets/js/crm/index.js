@@ -134,6 +134,17 @@ const finishOrder = () => {
         $("#customerName").focus();
     }
 };
+const updateOrder = (id) => {
+    const toast = bootstrap.Toast.getOrCreateInstance($("#Toast"));
+    ajax("POST","Api/updateOrder", {id: id}).then((data) => {
+        if(data === "OK"){
+            $("#toastTitle").html('Sikeres módosítás');
+            $("#toastBody").html('A megrendelés sikeresen módosítva!');
+            toast.show();
+            drawItems();
+        }
+    })
+}
 
 const submitOrder = () => {
     ajax("POST", "Api/submitOrder").then((data) => {

@@ -44,6 +44,7 @@ class Main extends CI_Controller
 
     public function new_order()
     {
+        $this->cart->destroy();
         $this->data['p'] = "dashboard";
         $this->data['m'] = "new_order";
         $this->User->protect();
@@ -75,7 +76,28 @@ class Main extends CI_Controller
         if($id == -1){
             $this->data['m'] = "orders_list";
         }else{
+            $this->cart->destroy();
+            $this->data['order'] = $this->db->select('*')->from('orders')->where('id',$id)->get()->result_array()[0];
+            $this->data['customer'] = $this->db->select('*')->from('customers')->where('id',$this->data['order']['customerID'])->get()->result_array()[0]['name'];
             $this->data['m'] = "orders_detail";
+            $_prods = json_decode($this->data['order']['products'],true);
+            $this->data['prods'] = $_prods;
+            $cartData = [];
+            foreach($_prods as $product)
+            {
+                $item = array(
+                    "id" => $product['id'],
+                    "qty" => $product['qty'],
+                    "price" => $product['price'],
+                    "name" => $product['name'],
+                    'options' => array(
+                        'Cost' => $product['cost'],
+                        'Profit' => ($product['price'] - $product['price']) * $product['qty']
+                    )
+                );
+                array_push($cartData,$item);
+            };
+            $this->cart->insert($cartData);
         }
         $this->User->protect();
         $this->render();

@@ -10,6 +10,7 @@ $route['Api/getItems']['post'] = 'Rest/drawCartItems';
 $route['Api/updateItem']['post'] = 'Rest/updateItem';
 $route['Api/removeItem']['post'] = 'Rest/removeItem';
 $route['Api/finishOrder']['post'] = 'Rest/finishOrder';
+$route['Api/updateOrder']['post'] = 'Rest/updateOrder';
 $route['Api/submitOrder']['post'] = 'Rest/submitOrder';
 $route['Api/confirmOrder']['post'] = 'Rest/confirmOrder';
 $route['Api/modifyOrderStatus']['post'] = 'Rest/modifyOrderStatus';

@@ -114,8 +114,6 @@ class Rest extends CI_Controller {
             ];
             array_push($cartItems,$item);
         };
-        
-        
         $data = array(
             "customerID" => $cID,
             "orderCreated" => date("Y-m-d H:i:s"),
@@ -130,6 +128,45 @@ class Rest extends CI_Controller {
 
         $this->db->insert('orders',$data);
         $this->cart->destroy();
+
+        echo("OK");
+    }
+    public function updateOrder()
+    {
+        $id = $this->input->post('id');
+        $totalPay = 0;
+        $totalCost = 0;
+        $totalProfit = 0;
+
+        $cart = $this->cart->contents();
+        $cartItems = [];
+        foreach($cart as $k=>$v){
+            $_totalPay = ($v['price'] * $v['qty']);
+            $_totalCost = ($v['options']['Cost'] * $v['qty']);
+            $_totalProfit = $_totalPay - $_totalCost;
+            $totalPay += $_totalPay;
+            $totalCost += $_totalCost;
+            $totalProfit += $_totalProfit;
+            $item = [
+                "id" => $v['id'],
+                "name" => $v['name'],
+                "price" => $v['price'],
+                "cost" => $v['options']['Cost'],
+                "qty" => $v['qty']
+            ];
+            array_push($cartItems,$item);
+        };
+        $data = array(
+            "products" => json_encode($cartItems)
+        );
+
+        $this->db->set('products', json_encode($cartItems))
+        ->set('totalPay',$totalPay)
+        ->set('totalCost',$totalCost)
+        ->set('totalProfit',$totalProfit)
+        ->set('orderUpdated', date("Y-m-d H:i:s"))
+        ->where('id',$id)
+        ->update('orders');
 
         echo("OK");
     }
