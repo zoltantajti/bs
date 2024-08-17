@@ -16,6 +16,15 @@ $route['Api/confirmOrder']['post'] = 'Rest/confirmOrder';
 $route['Api/modifyOrderStatus']['post'] = 'Rest/modifyOrderStatus';
 $route['Api/setGroupStatus']['post'] = 'Rest/setGroupStatus';
 
+/*BSApi*/
+$route['BS/GetProduct/public']['post'] = 'BSApi/GetPublicProductNameAndPublicPrice';
+$route['BS/GetProduct/seller']['post'] = 'BSApi/GetPrivatePrice';
+
+/*Admim*/
+$route['admin/(:any)'] = 'Admin/$1';
+$route['admin/(:any)/(:any)'] = 'Admin/$1/$2';
+$route['admin/(:any)/(:any)/(:any)'] = 'Admin/$1/$2/$3';
+
 /*Frontend*/
 $route['(:any)'] = 'Main/$1';
 $route['(:any)/(:any)'] = 'Main/$1/$2';

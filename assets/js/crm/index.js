@@ -1,3 +1,7 @@
+$(document).ready(function(){
+    $("#spinner").hide();
+});
+
 $("#cartForm").ready(() => {
     drawItems();
 })
@@ -25,6 +29,7 @@ let fetchedProduct = null;
 const checkProductByCode = () => {
     let productCode = $("#productCode").val();
     if(productCode.length >= 4){
+        $("#spinner").show().center();
         ajax('POST','Api/getProductByCode',{code: productCode})
             .then((data) => {
                 data = $.parseJSON(data);
@@ -36,8 +41,24 @@ const checkProductByCode = () => {
                     $("#productPrice").val(data.details.price);
                     $("#productCost").val(data.details.cost);
                     $("#productQty").val(1);
+                    $("#spinner").hide();
+                }else if(data.product === "not-found"){
+                    ajax('POST','BS/GetProduct/public',{code: productCode})
+                    .then((data) => {
+                        data = $.parseJSON(data);
+                        $("#productName").val(data.name);
+                        $("#productPrice").val(data.price);
+                        $("#productQty").val(1);
+                        $("#spinner").hide();
+                    }).catch((err) => {console.error(err); $("#spinner").hide();});
                 }
             })
+    }else if(productCode.length == 0){
+        $("#productCode").addClass('is-invalid').removeClass('is-valid');
+        $("#productName").val('');
+        $("#productPrice").val('');
+        $("#productQty").val('');
+        $("#spinner").hide();
     }else{
         $("#productCode").addClass('is-invalid').removeClass('is-valid');
     }
@@ -50,8 +71,7 @@ const addProductToList = () => {
         let price = $("#productPrice").val();
         let cost = $("#productCost").val();
         let qty = $("#productQty").val();        
-        updateProductIfNeed(code,name,price,cost);        
-        
+        updateProductIfNeed(code,name,price,cost);
         let item = new Product(code,name,price,cost,qty);
         ajax('POST','Api/addToCart',{item: JSON.stringify(item)})
             .then((result) => {
@@ -192,3 +212,12 @@ const updateProductIfNeed = (code,name,price,cost) => {if(fetchedProduct === nul
 const ajax = (type, url, data) => {return new Promise((resolve,reject) => {$.ajax({type: type,url: url,data: data,success: (data) => { resolve(data); },error: (error) => { reject(error); }});});}
 const formatNumber = (number) => {return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");}
 class Product{constructor(code,name,price,cost,qty){this.code = code;this.name = name;this.price = price;this.cost = cost;this.qty = qty;this.profit = (price - cost) * qty;}}
+
+jQuery.fn.center = function () {
+    this.css("position","absolute");
+    this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) + 
+                                                $(window).scrollTop()) + "px");
+    this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + 
+                                                $(window).scrollLeft()) + "px");
+    return this;
+}

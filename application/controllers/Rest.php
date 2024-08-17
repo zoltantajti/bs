@@ -34,6 +34,7 @@ class Rest extends CI_Controller {
     public function updateProduct()
     {
         $request = $this->input->post();
+        $request['sellerID'] = $this->Sess->get('id','user');
         if($this->db->select('prodCode')->from('products')->where('prodCode',$request['prodCode'])->count_all_results() == 1)
         {//UPDATE
             $this->db->update('products', $request, array('prodCode' => $request['prodCode']));
@@ -87,8 +88,10 @@ class Rest extends CI_Controller {
     {
         //Make or select customer from name
         $customerName = $this->input->post('customer');
-        if($this->db->select('id')->from('customers')->where('name',$customerName)->count_all_results() == 0){ $this->db->insert('customers',array('name' => $customerName)); };
-        $cID = $this->db->select('id')->from('customers')->where('name',$customerName)->get()->result_array()[0]['id'];
+        if($this->db->select('id')->from('customers')->where('name',$customerName)->where('sellerID',$this->Sess->get('id','user'))->count_all_results() == 0){
+            $this->db->insert('customers',array('name' => $customerName, 'sellerID' => $this->Sess->get('id','user'))); 
+        };
+        $cID = $this->db->select('id')->from('customers')->where('name',$customerName)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0]['id'];
         
         //handle pay values
         $totalPay = 0;
@@ -115,6 +118,7 @@ class Rest extends CI_Controller {
             array_push($cartItems,$item);
         };
         $data = array(
+            "sellerID" => $this->Sess->get('id','user'),
             "customerID" => $cID,
             "orderCreated" => date("Y-m-d H:i:s"),
             "ordered" => 0,
@@ -166,6 +170,7 @@ class Rest extends CI_Controller {
         ->set('totalProfit',$totalProfit)
         ->set('orderUpdated', date("Y-m-d H:i:s"))
         ->where('id',$id)
+        ->where('sellerID',$this->Sess->get('id','user'))
         ->update('orders');
 
         echo("OK");
@@ -178,12 +183,13 @@ class Rest extends CI_Controller {
         
         /*Create package info*/
         $orderIDs = [];
-        foreach($this->db->select('id')->from('orders')->where('ordered',0)->where('orderCreated >=', $first)->where('orderCreated <= ', $last)->get()->result_array() as $order)
+        foreach($this->db->select('id')->from('orders')->where('ordered',0)->where('orderCreated >=', $first)->where('orderCreated <= ', $last)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array() as $order)
         {
             $a = $order['id'];
             array_push($orderIDs, $a);
         };
         $struct = [
+            'sellerID' => $this->Sess->get('id','user'),
             'packageID' => uniqid(),
             'orders' => json_encode($orderIDs),
             'createdAt' => date("Y-m-d H:i:s")
@@ -195,40 +201,41 @@ class Rest extends CI_Controller {
             'ordered' => 1,
             'status' => 'ordered',
             'orderSubmitted' => date("Y-m-d H:i:s")
-        ))->where('ordered',0)->where('orderCreated >=', $first)->where('orderCreated <= ', $last)->update('orders');
+        ))->where('ordered',0)->where('orderCreated >=', $first)->where('orderCreated <= ', $last)->where('sellerID',$this->Sess->get('id','user'))
+        ->update('orders');
         echo("OK");
     }
 
     public function confirmOrder()
     {
         $id = $this->input->post('ID');
-        $pack = $this->db->select('orders')->from('packages')->where('packageID',$id)->get()->result_array()[0]['orders'];
+        $pack = $this->db->select('orders')->from('packages')->where('packageID',$id)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0]['orders'];
         foreach(json_decode($pack,true) as $order)
         {
-            $this->db->set(array('status' => 'awaitPayment'))->where('id',$order)->where_not_in('status','cancelled')->update('orders');
+            $this->db->set(array('status' => 'awaitPayment'))->where('sellerID',$this->Sess->get('id','user'))->where('id',$order)->where_not_in('status','cancelled')->update('orders');
         };
-        $this->db->update('packages',array('receivedAt' => date('Y-m-d H:i:s')), array('packageID' => $id));
+        $this->db->update('packages',array('receivedAt' => date('Y-m-d H:i:s')), array('packageID' => $id, 'sellerID' => $this->Sess->get('id','user')));
         echo("OK");
     }
     public function modifyOrderStatus()
     {
         $target = $this->input->post('target');
         $id = $this->input->post('id');
-        $this->db->set(array('status'=>$target))->where('id',$id)->update('orders');
+        $this->db->set(array('status'=>$target))->where('id',$id)->where('sellerID',$this->Sess->get('id','user'))->update('orders');
         echo("OK");
     }
     public function setGroupStatus()
     {
         $target = $this->input->post('target');
         $id = $this->input->post('id');
-        $orders = $this->db->select('orders')->from('packages')->where('id',$id)->get()->result_array()[0]['orders'];
+        $orders = $this->db->select('orders')->from('packages')->where('id',$id)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0]['orders'];
         foreach(json_decode($orders,true) as $order)
         {
-            $this->db->set(array('status' => $target))->where('id',$order)->where_not_in('status','cancelled')->update('orders');
+            $this->db->set(array('status' => $target))->where('id',$order)->where('sellerID',$this->Sess->get('id','user'))->where_not_in('status','cancelled')->update('orders');
         };
-        $this->db->set(array('status' => $target))->where('id',$id)->update('packages');
+        $this->db->set(array('status' => $target))->where('id',$id)->where('sellerID',$this->Sess->get('id','user'))->update('packages');
         if($target == "awaitPayment"){
-            $this->db->set(array('receivedAt' => date("Y-m-d H:i:s")))->where('id',$id)->update('packages');
+            $this->db->set(array('receivedAt' => date("Y-m-d H:i:s")))->where('id',$id)->where('sellerID',$this->Sess->get('id','user'))->update('packages');
         };
         echo("OK");   
     }

@@ -28,7 +28,6 @@
             <span class="nav-item-name">Rendelés összegző</span>
         </a>
     </li>
-
     <li class="nav-item">
         <a href="<?=site_url('packages')?>" class="nav-link" aria-current="page">
             <i class="fa-sharp fa-thin fa-cart-shopping-fast"></i>
@@ -36,6 +35,17 @@
         </a>
     </li>
 </ul>
+<?php if($this->User->getPermission() >= 2){ ?>
+<hr>
+<ul class="nav nav-pills flex-column">
+    <li class="nav-item">
+        <a href="<?=site_url('admin/sellers')?>" class="nav-link" aria-current="page">
+            <i class="fa-sharp fa-regular fa-users"></i>
+            <span class="nav-item-name">Eladói profilok</span>
+        </a>
+    </li>
+</ul>
+<?php }; ?>
 <hr>
 <div class="dropdown">
     <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">

@@ -8,7 +8,7 @@
                 <div class="card-body text-center">
                     <i class="fa-sharp fa-solid fa-cart-circle-exclamation fa-4x"></i><br/>
                     Függőben lévő megrendelések<br/>
-                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',0)->count_all_results()?> db</span>
+                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',0)->where('sellerID',$this->Sess->get('id','user'))->count_all_results()?> db</span>
                 </div>
             </div>
         </div>
@@ -17,7 +17,7 @@
                 <div class="card-body text-center">
                     <i class="fa-sharp fa-solid fa-cart-circle-arrow-up fa-4x"></i><br/>
                     Elküldött megrendelések<br/>
-                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','ordered')->count_all_results()?> db</span>
+                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','ordered')->where('sellerID',$this->Sess->get('id','user'))->count_all_results()?> db</span>
                     <a href="<?=site_url('packages')?>" class="stretched-link"></a>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                 <div class="card-body text-center">
                     <i class="fa-sharp fa-solid fa-cart-shopping-fast fa-4x"></i><br/>
                     Szállítás alatt lévő csomagok<br/>
-                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','shipping')->count_all_results()?> db</span>
+                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','shipping')->where('sellerID',$this->Sess->get('id','user'))->count_all_results()?> db</span>
                 </div>
             </div>
         </div>
@@ -36,7 +36,7 @@
                 <div class="card-body text-center">
                     <i class="fa-sharp fa-solid fa-cart-circle-arrow-down fa-4x"></i><br/>
                     Átvételre váró csomagok<br/>
-                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','awaitPayment')->count_all_results()?> db</span>
+                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','awaitPayment')->where('sellerID',$this->Sess->get('id','user'))->count_all_results()?> db</span>
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@
                 <div class="card-body text-center">
                     <i class="fa-sharp fa-solid fa-cart-circle-check fa-4x"></i><br/>
                     Teljesített megrendelések<br/>
-                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','completed')->count_all_results()?> db</span>
+                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','completed')->where('sellerID',$this->Sess->get('id','user'))->count_all_results()?> db</span>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
                 <div class="card-body text-center">
                     <i class="fa-sharp fa-solid fa-cart-circle-xmark fa-4x"></i><br/>
                     Meghiúsult megrendelések<br/>
-                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','cancelled')->count_all_results()?> db</span>
+                    <span class="badge bg-warning text-black"><?=$this->db->select('id')->from('orders')->where('ordered',1)->where('status','cancelled')->where('sellerID',$this->Sess->get('id','user'))->count_all_results()?> db</span>
                 </div>
             </div>
         </div>

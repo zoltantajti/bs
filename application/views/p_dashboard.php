@@ -3,6 +3,10 @@
         <?php $this->load->view('_global/sidebar'); ?>
     </aside>
     <main class="col-md-10 ms-sm-auto col-lg-10 px-md-4">
-        <?php $this->load->view('crm/' . $m); ?>
+        <?php 
+            if(isset($m)){ $this->load->view('crm/' . $m); };
+            if(isset($a)){ $this->load->view('admin/' . $a); };
+        ?>
     </main>
 </section>
+<div id="spinner"><i class="fa-solid fa-spinner fa-spin fa-4x"></i></div>

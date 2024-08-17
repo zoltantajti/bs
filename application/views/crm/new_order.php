@@ -81,8 +81,8 @@
         </div>
     </form>
 </div>
-<datalist id="customers"><?php foreach($this->db->select('name')->from('customers')->order_by('name','ASC')->get()->result_array() as $c){?><option><?=$c['name']?></option><?php }; ?></datalist>
-<datalist id="products"><?php foreach($this->db->select('prodCode')->from('products')->order_by('prodCode','ASC')->get()->result_array() as $c){?><option><?=$c['prodCode']?></option><?php }; ?></datalist>
+<datalist id="customers"><?php foreach($this->db->select('name')->from('customers')->order_by('name','ASC')->where('sellerID',$this->Sess->get('id','user'))->get()->result_array() as $c){?><option><?=$c['name']?></option><?php }; ?></datalist>
+<datalist id="products"><?php foreach($this->db->select('prodCode')->from('products')->order_by('prodCode','ASC')->where('sellerID',$this->Sess->get('id','user'))->get()->result_array() as $c){?><option><?=$c['prodCode']?></option><?php }; ?></datalist>
 <div class="toast-container top-0 end-0 p-3">
 <div id="Toast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
   <div class="toast-header">

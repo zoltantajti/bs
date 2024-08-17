@@ -17,7 +17,7 @@
                 </thead>
                 <tbody>
                 <?php 
-                foreach($this->db->select('*')->from('orders')->order_by('payed','ASC')->order_by('status','ASC')->order_by('ordered','ASC')->get()->result_array() as $k=>$v){
+                foreach($this->db->select('*')->from('orders')->order_by('payed','ASC')->order_by('status','ASC')->order_by('ordered','ASC')->where('sellerID',$this->Sess->get('id','user'))->get()->result_array() as $k=>$v){
                 $class = $this->Orders->getClassByStatus($v['status']);    
                 ?>
                 <tr>
