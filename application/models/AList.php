@@ -1,13 +1,20 @@
 <?php
 class Alist extends CI_Model {
+    private $adminPrefix = "admin/";
+
     public function __construct(){ parent::__construct(); }
+    public function makeAdmin($isAdmin)
+    {
+        $this->adminPrefix = ($isAdmin) ? "admin/" : false;
+    }
+
 
     public function render($title, $db, $path, $hasNewButton = true, $cond = array(), $order = array(), $buttons = array(), $original = true)
     {
         return [
             "title" => $title,
             "hasnewbtn" => $hasNewButton,
-            "newbtn" => '<a href="admin/' . $path . '/create/-1" class="btn btn-outline-secondary"><i class="fa fa-fw fa-plus"></i> Új</a>',
+            "newbtn" => '<a href="' . $this->adminPrefix . $path . '/create/-1" class="btn btn-outline-secondary"><i class="fa fa-fw fa-plus"></i> Új</a>',
             "html" => $this->createTableStructure($db, $path, $cond, $order, $buttons, $original)
         ];
     }
@@ -64,11 +71,11 @@ class Alist extends CI_Model {
     {
         $html = '';
         if($showOriginal){
-            $html .= '<a href="admin/'.$path.'/edit/'.$id.'" class="btn btn-outline-warning"><i class="fa fa-fw fa-pencil"></i></a>';
-            $html .= '<a href="admin/'.$path.'/delete/'.$id.'" class="btn btn-outline-danger"><i class="fa fa-fw fa-trash"></i></a>';
+            $html .= '<a href="' . $this->adminPrefix .$path.'/edit/'.$id.'" class="btn btn-outline-warning"><i class="fa fa-fw fa-pencil"></i></a>';
+            $html .= '<a href="' . $this->adminPrefix .$path.'/delete/'.$id.'" class="btn btn-outline-danger"><i class="fa fa-fw fa-trash"></i></a>';
         };
         foreach($buttons as $button){
-            $html .= '<a href="admin/'.$path.'/'.$button[0].'/'.$id.'" class="btn btn-outline-'.$button[1].'"><i class="fa fa-fw fa-'.$button[2].'"></i></a>';
+            $html .= '<a href="' . $this->adminPrefix .$path.'/'.$button[0].'/'.$id.'" class="btn btn-outline-'.$button[1].'"><i class="fa fa-fw fa-'.$button[2].'"></i></a>';
         }
 
         return $html;

@@ -12,6 +12,18 @@
     </li>
     <?php if(@$sidebar){ ?>
     <li class="nav-item">
+        <a href="<?=site_url('customers')?>" class="nav-link" aria-current="page">
+            <i class="fa-sharp fa-regular fa-users"></i>
+            <span class="nav-item-name">Vevők</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="<?=site_url('products')?>" class="nav-link" aria-current="page">
+            <i class="fa-solid fa-bars"></i>
+            <span class="nav-item-name">Termékek</span>
+        </a>
+    </li>
+    <li class="nav-item">
         <a href="<?=site_url('new_order')?>" class="nav-link" aria-current="page">
             <i class="fa-sharp fa-solid fa-cart-plus"></i>
             <span class="nav-item-name">Új rendelés</span>
@@ -31,7 +43,7 @@
     </li>
     <li class="nav-item">
         <a href="<?=site_url('packages')?>" class="nav-link" aria-current="page">
-            <i class="fa-sharp fa-thin fa-cart-shopping-fast"></i>
+            <i class="fa-sharp fa-regular fa-box"></i>
             <span class="nav-item-name">Várt csomagok</span>
         </a>
     </li>

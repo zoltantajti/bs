@@ -213,10 +213,122 @@ class Main extends CI_Controller
         $this->User->protect();
         $this->render();
     }
+    public function customers($f = "list", $id = -1)
+    {
+        if($f == "list" && $id == -1)
+        {
+            $this->load->model('Alist');
+            $this->data['m'] = "dynlist";
+            $this->Alist->makeAdmin(false);
+            $this->data['alist'] = $this->Alist->render('Vevők', 'customers', 'customers', true, array('sellerID' => $this->Sess->get('id','user')), array(), array(array('edit','info','edit'),array('delete','danger','trash-alt')), false);
+        }
+        elseif($f == "create" && $id == -1)
+        {
+            $this->form_validation->set_rules('name', 'Név', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('postcode', 'Irányítószám', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('city', 'Város', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('address', 'Cím', 'trim', $this->errors);
+            $this->form_validation->set_rules('phone', 'Telefonszám', 'trim', $this->errors);
+            if(!$this->form_validation->run()){
+                $this->data['m'] = 'dynform';
+                $this->load->model('AForm');
+                $this->data['form'] = $this->AForm->render('Új vevő','customers',array('method'=>'POST','action'=>'','btnText' => 'Létrehozás'));
+            }else{
+                $this->Customer->create();
+            }
+        }
+        elseif($f == "edit" && $id != -1)
+        {
+            $this->form_validation->set_rules('name', 'Név', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('postcode', 'Irányítószám', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('city', 'Város', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('address', 'Cím', 'trim', $this->errors);
+            $this->form_validation->set_rules('phone', 'Telefonszám', 'trim', $this->errors);
+            if(!$this->form_validation->run()){
+                $this->data['m'] = 'dynform';
+                $this->load->model('AForm');
+                $values = $this->db->select('*')->from('customers')->where('id',$id)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0];
+                $this->data['form'] = $this->AForm->render('Új vevő','customers',array('method'=>'POST','action'=>'','btnText' => 'Létrehozás'),$values);
+            }else{
+                $this->Customer->update($id);
+            }
+        }elseif($f == "delete" && $id != -1)
+        {
+            $this->form_validation->set_rules('yes','Megerősítés','callback_confirmation',$this->errors);
+            if(!$this->form_validation->run()){
+                $this->data['q'] = '<div class="alert alert-danger">A törlés visszavonhatatlan következményekkel jár!<br/>Valóban ezt szeretnéd?</div>';            
+                $this->data['m'] = "dynquestion";
+                $this->data['link'] = 'customers';
+            }else{
+                $this->Customer->delete($id);
+            }
+        }
 
+        $this->data['p'] = 'dashboard';
+        $this->render();
+    }
+    public function products($f = "list", $id = -1)
+    {
+        if($f == "list" && $id == -1)
+        {
+            $this->load->model('Alist');
+            $this->data['m'] = "dynlist";
+            $this->Alist->makeAdmin(false);
+            $this->data['alist'] = $this->Alist->render('Termékek', 'products', 'products', true, array('sellerID' => $this->Sess->get('id','user')), array(), array(array('edit','info','edit'),array('delete','danger','trash-alt')), false);
+        }
+        elseif($f == "create" && $id == -1)
+        {
+            $this->form_validation->set_rules('prodCode', 'Termékkód', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('name', 'Terméknév', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('price', 'Eladási ár', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('cost', 'Beszerzési ár', 'trim|required', $this->errors);
+            if(!$this->form_validation->run()){
+                $this->data['m'] = 'dynform';
+                $this->load->model('AForm');
+                $this->data['form'] = $this->AForm->render('Új termék','products',array('method'=>'POST','action'=>'','btnText' => 'Létrehozás'));
+            }else{
+                $this->Products->create();
+            }
+        }
+        elseif($f == "edit" && $id != -1)
+        {
+            $this->form_validation->set_rules('prodCode', 'Termékkód', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('name', 'Terméknév', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('price', 'Eladási ár', 'trim|required', $this->errors);
+            $this->form_validation->set_rules('cost', 'Beszerzési ár', 'trim|required', $this->errors);
+            if(!$this->form_validation->run()){
+                $this->data['m'] = 'dynform';
+                $this->load->model('AForm');
+                $values = $this->db->select('*')->from('products')->where('id',$id)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0];
+                $this->data['form'] = $this->AForm->render('Termék szerkesztése','products',array('method'=>'POST','action'=>'','btnText' => 'Létrehozás'),$values);
+            }else{
+                $this->Products->update($id);
+            }
+        }elseif($f == "delete" && $id != -1)
+        {
+            $this->form_validation->set_rules('yes','Megerősítés','callback_confirmation',$this->errors);
+            if(!$this->form_validation->run()){
+                $this->data['q'] = '<div class="alert alert-danger">A törlés visszavonhatatlan következményekkel jár!<br/>Valóban ezt szeretnéd?</div>';            
+                $this->data['m'] = "dynquestion";
+                $this->data['link'] = 'products';
+            }else{
+                $this->Products->delete($id);
+            }
+        }
+
+        $this->data['p'] = 'dashboard';
+        $this->render();
+    }
 
     private function render()
     {
         $this->load->view('index', $this->data);
+    }
+    public function confirmation()
+    {
+        if(isset($_POST['yes'])) return true;
+        $this->Msg->set('Kérlek erősítsd meg, hogy valóban ezt szeretnéd, vagy lépj vissza!','warning');
+        $this->form_validation->set_message('yes','Kérlek erősítsd meg, hogy valóban ezt szeretnéd, vagy lépj vissza!');
+        return false;
     }
 }

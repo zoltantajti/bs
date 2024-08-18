@@ -15,4 +15,4 @@ $autoload['config'] = array();
 
 $autoload['language'] = array();
 
-$autoload['model'] = array('Sess','Msg','User','Orders','Finance');
+$autoload['model'] = array('Sess','Msg','User','Orders','Finance','Customer','Products');
