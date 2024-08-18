@@ -3,7 +3,8 @@ class Admin extends CI_Controller {
     private $data = [
         "p" => null,
         "navbar" => false,
-        "folder" => "admin"
+        "folder" => "admin",
+        "sidebar" => true,
     ];
     private $errors = [
         'required' => 'A %s mező kitöltése kötelező!',

@@ -239,5 +239,37 @@ class Rest extends CI_Controller {
         };
         echo("OK");   
     }
+
+
+
+    /*Subscribe*/
+    public function getPriceById()
+    {
+        $id = $this->input->post('id');
+        $item = $this->db->select('price')->from('subscribe_packs')->where('id',$id)->get()->result_array()[0]['price'];
+        echo(number_format($item,0,"",""));
+    }
+    public function checkCoupon()
+    {
+        $code = $this->input->post('code');
+        if($this->db->select('id')->from('subscribe_coupons')->where('code',$code)->count_all_results() == 1){
+            $item = $this->db->select("from,to,maxUse,used,discount")->from('subscribe_coupons')->where('code',$code)->get()->result_array()[0];
+            $ma = date("Y-m-d");
+            if($item['from'] <= $ma && $item['to'] >= $ma){
+                if($item['maxUse'] > $item['used']){
+                    echo(json_encode(array(
+                        "success" => true,
+                        "discount" => number_format($item['discount'],0,"","")
+                    )));
+                }else{
+                    echo(json_encode(array("success"=>false, "msg" => "Ezt a kupont márt felhasználták!")));        
+                }
+            }else{
+                echo(json_encode(array("success"=>false, "msg" => "A kupon lejárt!")));    
+            }
+        }else{
+            echo(json_encode(array("success"=>false)));
+        }
+    }
 }; 
 ?>

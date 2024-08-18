@@ -88,6 +88,18 @@ class User extends CI_Model
         $row = $this->db->select('ip,expire')->from('banns')->where('ip',$_SERVER['REMOTE_ADDR'])->get()->result_array()[0];
         return $row;
     }
+    public function checkHaveSubscription()
+    {
+        $ae = $this->db->select('accessExpire')->from('users')->where('id',$this->Sess->get('id','user'))->get()->result_array()[0]['accessExpire'];
+        if($ae < date("Y-m-d"))
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+    }
     
     /*Admin segment*/
     public function create()

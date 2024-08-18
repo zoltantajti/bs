@@ -10,6 +10,7 @@
             <span class="nav-item-name">Kezdőlap</span>
         </a>
     </li>
+    <?php if(@$sidebar){ ?>
     <li class="nav-item">
         <a href="<?=site_url('new_order')?>" class="nav-link" aria-current="page">
             <i class="fa-sharp fa-solid fa-cart-plus"></i>
@@ -34,8 +35,16 @@
             <span class="nav-item-name">Várt csomagok</span>
         </a>
     </li>
+    <?php }else{ ?>
+    <li class="nav-item">
+        <a href="<?=site_url('subscribe')?>" class="nav-link" aria-current="page">
+            <i class="fa-thin fa-stars"></i>
+            <span class="nav-item-name">Előfizetés</span>
+        </a>
+    </li>
+    <?php }; ?>
 </ul>
-<?php if($this->User->getPermission() >= 2){ ?>
+<?php if($this->User->getPermission() >= 2 && @$sidebar){ ?>
 <hr>
 <ul class="nav nav-pills flex-column">
     <li class="nav-item">

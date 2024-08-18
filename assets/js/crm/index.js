@@ -204,6 +204,48 @@ const setGroupStatus = (target, id) => {
         setTimeout(() => location.reload(), 3000);
     })
 }
+let price = 0;
+let discount = 0;
+const calcPrice = () => {
+    let val = $("#months").val();
+    if(val > 0){
+        ajax("POST", "Api/getPriceById", {id: val}).then((data) => {
+            price = data;
+            if(discount > 0){
+                let _discount = price * (discount / 100);
+                let _price = price - _discount;
+                $("#price").val(_price);
+            }else{
+                $("#price").val(price);
+            }
+        });
+    };
+}
+const checkCoupon = () => {
+    let code = $("#coupon").val();
+    if(code.length >= 6){
+        ajax("POST","Api/checkCoupon",{code:code}).then((data)=>{
+            data = $.parseJSON(data);
+            if(data.success){
+                discount = data.discount;
+                $("#coupon").addClass("is-valid").removeClass("is-invalid");
+                calcPrice();
+            }else{
+                if(data.msg){
+                    const toast = bootstrap.Toast.getOrCreateInstance($("#Toast"));
+                    $("#toastTitle").html('Hiba!');
+                    $("#toastBody").html(data.msg);
+                    toast.show();
+                    $("#coupon").addClass("is-invalid").removeClass("is-valid");
+                }
+            }
+        });
+    }else{
+        discount = 0;
+        $("#coupon").removeClass("is-valid").removeClass("is-invalid");
+        calcPrice();
+    }
+}
 
 const plusOne = (rowid) => {ajax("POST","Api/updateItem",{'method': '+', 'rowid': rowid}).then(() => drawItems());}
 const minusOne = (rowid) => {ajax("POST","Api/updateItem",{'method': '-', 'rowid': rowid}).then(() => drawItems());}
@@ -212,12 +254,4 @@ const updateProductIfNeed = (code,name,price,cost) => {if(fetchedProduct === nul
 const ajax = (type, url, data) => {return new Promise((resolve,reject) => {$.ajax({type: type,url: url,data: data,success: (data) => { resolve(data); },error: (error) => { reject(error); }});});}
 const formatNumber = (number) => {return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");}
 class Product{constructor(code,name,price,cost,qty){this.code = code;this.name = name;this.price = price;this.cost = cost;this.qty = qty;this.profit = (price - cost) * qty;}}
-
-jQuery.fn.center = function () {
-    this.css("position","absolute");
-    this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) + 
-                                                $(window).scrollTop()) + "px");
-    this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + 
-                                                $(window).scrollLeft()) + "px");
-    return this;
-}
+jQuery.fn.center = function () {this.css("position","absolute");this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) + $(window).scrollTop()) + "px");this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + $(window).scrollLeft()) + "px");return this;}

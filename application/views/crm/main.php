@@ -3,6 +3,8 @@
 </div>
 <div class="container">
     <div class="row mb-3">
+        <?=@$notice?>
+        <?php if(!@$notice){ ?>
         <div class="col-md-2">
             <div class="card">
                 <div class="card-body text-center">
@@ -120,4 +122,5 @@
             </div>
         </div>
     </div>
+    <?php }; ?>
 </div>

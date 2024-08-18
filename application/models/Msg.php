@@ -7,9 +7,11 @@ class Msg extends CI_Model {
     public function set($msg, $class = "info"){
         $this->Sess->set("msg", array('message'=>$msg,'css'=>$class), "system");        
     }
-
+    public function has(){
+        return ($this->Sess->has("msg","system")) ? true : false;
+    }
     public function get(){
-        if($this->Sess->has("msg","system")){
+        if($this->has()){
             $msg = str_replace(array("{msg}","{class}"), array($this->Sess->get("message", "system/msg"),$this->Sess->get("css","system/msg")), $this->pattern);
             unset($_SESSION['system']['msg']);            
             return $msg;
