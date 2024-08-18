@@ -16,8 +16,16 @@ const checkCustomerName = () => {
                 if(data.customer === "found"){
                     $("#customerMark").html('<i class="fa-sharp fa-solid fa-user-tie"></i>');
                     $("#customerName").removeClass('is-invalid').addClass('is-valid');
+                    $("#postCode").val(data.data.postcode).prop('readonly',true);
+                    $("#city").val(data.data.city).prop('readonly',true);
+                    $("#address").val(data.data.address).prop('readonly',true);
+                    $("#phone").val(data.data.phone).prop('readonly',true);
                 }else{
                     $("#customerMark").html('<i class="fa-sharp fa-solid fa-user-plus"></i>');
+                    $("#postCode").prop('readonly',false).removeClass('is-valid');
+                    $("#city").prop('readonly',false).removeClass('is-valid');
+                    $("#address").prop('readonly',false).removeClass('is-valid');
+                    $("#phone").prop('readonly',false).removeClass('is-valid');
                 };
             }, (error) => {console.error(error)});
     }else{
@@ -135,10 +143,14 @@ const drawItems = () => {
 
 const finishOrder = () => {
     let cName = $("#customerName").val();
+    let postCode = $("#postCode").val();
+    let city = $("#city").val();
+    let addr = $("#address").val();
+    let phone = $("#phone").val();
     const toast = bootstrap.Toast.getOrCreateInstance($("#Toast"));
     if(cName.length > 6)
     {
-        ajax("POST", "Api/finishOrder", {customer: cName}).then((data) => {
+        ajax("POST", "Api/finishOrder", {customer: cName, postCode: postCode, city: city, addr: addr, phone: phone}).then((data) => {
             if(data === "OK"){                
                 $("#toastTitle").html('Sikeres rögzítés');
                 $("#toastBody").html('A megrendelés sikeresen rögzítve!');

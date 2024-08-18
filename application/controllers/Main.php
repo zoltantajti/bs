@@ -189,7 +189,7 @@ class Main extends CI_Controller
         }else{
             $this->cart->destroy();
             $this->data['order'] = $this->db->select('*')->from('orders')->where('id',$id)->get()->result_array()[0];
-            $this->data['customer'] = $this->db->select('*')->from('customers')->where('id',$this->data['order']['customerID'])->get()->result_array()[0]['name'];
+            $this->data['customer'] = $this->db->select('*')->from('customers')->where('id',$this->data['order']['customerID'])->get()->result_array()[0];
             $this->data['m'] = "orders_detail";
             $_prods = json_decode($this->data['order']['products'],true);
             $this->data['prods'] = $_prods;

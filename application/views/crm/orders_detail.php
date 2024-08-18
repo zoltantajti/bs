@@ -4,10 +4,16 @@
 <div class="container">
     <form method="POST" action="" <?=($order['ordered'] == 1) ? 'id="cartForm"' : ''?>>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-12">
                 <div class="input-group mb-3">
                     <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-user"></i></span>
-                    <input type="text" class="form-control disabled is-invalid" redonly value="<?=$customer?>"/> 
+                    <input type="text" class="form-control disabled is-invalid" redonly value="<?=$customer['name']?>"/> 
+                    <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-city"></i></span>
+                    <input type="number" min="1000" max="9999" step="1" class="form-control" id="postCode" readonly value="<?=$customer['postcode']?>"/>
+                    <input type="text" class="form-control" id="city" readonly value="<?=$customer['city']?>"/>
+                    <input type="text" class="form-control" id="address" readonly value="<?=$customer['address']?>"/>
+                    <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-phone"></i></span>
+                    <input type="text" class="form-control" id="phone" readonly value="<?=$customer['phone']?>"/>
                 </div>
             </div>
         </div>

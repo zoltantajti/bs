@@ -4,8 +4,12 @@ class Rest extends CI_Controller {
     public function getCustomerName()
     {
         $request = $this->input->post('name');
-        if($this->db->select('name')->from('customers')->where('name',$request)->count_all_results() == 1){
-            echo(json_encode(['customer'=>'found']));
+        if($this->db->select('name')->from('customers')->where('name',$request)->where('sellerID',$this->Sess->get('id','user'))->count_all_results() == 1){
+            $data = $this->db->select('name,postcode,city,address,phone')->from('customers')->where('name',$request)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0];
+            echo(json_encode([
+                'customer'=>'found',
+                'data' => $data
+            ]));
         }else{
             echo(json_encode(['customer'=>'not-found']));
         };
@@ -13,9 +17,9 @@ class Rest extends CI_Controller {
     public function getProductByCode()
     {
         $request = $this->input->post('code');
-        if($this->db->select('prodCode')->from('products')->where('prodCode',$request)->count_all_results() == 1)
+        if($this->db->select('prodCode')->from('products')->where('prodCode',$request)->where('sellerID',$this->Sess->get('id','user'))->count_all_results() == 1)
         {  
-            $product = $this->db->select('*')->from('products')->where('prodCode',$request)->get()->result_array()[0];
+            $product = $this->db->select('*')->from('products')->where('prodCode',$request)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0];
             echo(json_encode([
                 'product' => 'found',
                 'details' => [
@@ -88,8 +92,12 @@ class Rest extends CI_Controller {
     {
         //Make or select customer from name
         $customerName = $this->input->post('customer');
+        $postCode = $this->input->post('postCode');
+        $city = $this->input->post('city');
+        $addr = $this->input->post('addr');
+        $phone = $this->input->post('phone');
         if($this->db->select('id')->from('customers')->where('name',$customerName)->where('sellerID',$this->Sess->get('id','user'))->count_all_results() == 0){
-            $this->db->insert('customers',array('name' => $customerName, 'sellerID' => $this->Sess->get('id','user'))); 
+            $this->db->insert('customers',array('name' => $customerName, 'sellerID' => $this->Sess->get('id','user'),'postcode' => $postCode,'city' => $city,'address' => $addr,'phone' => $phone)); 
         };
         $cID = $this->db->select('id')->from('customers')->where('name',$customerName)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0]['id'];
         

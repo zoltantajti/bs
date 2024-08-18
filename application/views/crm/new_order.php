@@ -4,10 +4,16 @@
 <div class="container">
     <form method="POST" action="" id="cartForm">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-12">
                 <div class="input-group mb-3">
                     <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-user"></i></span>
                     <input type="text" class="form-control is-invalid" list="customers" onKeyUp="checkCustomerName();" placeholder="Megrendelő neve" name="customerName" id="customerName" /> 
+                    <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-city"></i></span>
+                    <input type="number" min="1000" max="9999" step="1" class="form-control" id="postCode" readonly />
+                    <input type="text" class="form-control" id="city" readonly />
+                    <input type="text" class="form-control" id="address" readonly />
+                    <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-phone"></i></span>
+                    <input type="text" class="form-control" id="phone" readonly />
                 </div>
             </div>
         </div>
