@@ -41948,73 +41948,6035 @@ INFO - 2024-08-19 23:23:34 --> Model "Products" initialized
 INFO - 2024-08-19 23:23:34 --> Controller Class Initialized
 INFO - 2024-08-19 23:23:34 --> Final output sent to browser
 DEBUG - 2024-08-19 23:23:34 --> Total execution time: 0.0975
-INFO - 2024-08-19 23:31:56 --> Config Class Initialized
-INFO - 2024-08-19 23:31:56 --> Hooks Class Initialized
-DEBUG - 2024-08-19 23:31:56 --> UTF-8 Support Enabled
-INFO - 2024-08-19 23:31:56 --> Utf8 Class Initialized
-INFO - 2024-08-19 23:31:56 --> URI Class Initialized
-INFO - 2024-08-19 23:31:56 --> Router Class Initialized
-INFO - 2024-08-19 23:31:56 --> Output Class Initialized
-INFO - 2024-08-19 23:31:56 --> Security Class Initialized
-DEBUG - 2024-08-19 23:31:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2024-08-19 23:31:56 --> Input Class Initialized
-INFO - 2024-08-19 23:31:56 --> Language Class Initialized
-INFO - 2024-08-19 23:31:56 --> Loader Class Initialized
-INFO - 2024-08-19 23:31:56 --> Helper loaded: typography_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: captcha_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: date_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: form_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: email_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: inflector_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: number_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: html_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: cookie_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: url_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: array_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: security_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: string_helper
-INFO - 2024-08-19 23:31:56 --> Helper loaded: text_helper
-DEBUG - 2024-08-19 23:31:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
-INFO - 2024-08-19 23:31:56 --> Session: Class initialized using 'files' driver.
-DEBUG - 2024-08-19 23:31:56 --> Encryption: Auto-configured driver 'openssl'.
-INFO - 2024-08-19 23:31:56 --> Encryption: OpenSSL initialized with method AES-128-CBC.
-INFO - 2024-08-19 23:31:56 --> Encryption Class Initialized
-INFO - 2024-08-19 23:31:56 --> Form Validation Class Initialized
-INFO - 2024-08-19 23:31:56 --> Parser Class Initialized
-INFO - 2024-08-19 23:31:56 --> Email Class Initialized
-INFO - 2024-08-19 23:31:56 --> Image Lib Class Initialized
-INFO - 2024-08-19 23:31:56 --> Jquery Class Initialized
-INFO - 2024-08-19 23:31:56 --> Javascript Class Initialized and loaded. Driver used: jquery
-INFO - 2024-08-19 23:31:56 --> Language file loaded: language/english/pagination_lang.php
-INFO - 2024-08-19 23:31:56 --> Pagination Class Initialized
-INFO - 2024-08-19 23:31:56 --> Table Class Initialized
-INFO - 2024-08-19 23:31:56 --> Trackback Class Initialized
-INFO - 2024-08-19 23:31:56 --> User Agent Class Initialized
-INFO - 2024-08-19 23:31:56 --> XML-RPC Class Initialized
-DEBUG - 2024-08-19 23:31:56 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
-DEBUG - 2024-08-19 23:31:56 --> Session class already loaded. Second attempt ignored.
-INFO - 2024-08-19 23:31:56 --> Cart Class Initialized
-INFO - 2024-08-19 23:31:56 --> Model "Sess" initialized
-INFO - 2024-08-19 23:31:56 --> Model "Msg" initialized
-INFO - 2024-08-19 23:31:56 --> Model "User" initialized
-INFO - 2024-08-19 23:31:56 --> Database Driver Class Initialized
-INFO - 2024-08-19 23:31:56 --> Model "Orders" initialized
-INFO - 2024-08-19 23:31:56 --> Model "Finance" initialized
-INFO - 2024-08-19 23:31:56 --> Model "Customer" initialized
-INFO - 2024-08-19 23:31:56 --> Model "Products" initialized
-INFO - 2024-08-19 23:31:56 --> Controller Class Initialized
-INFO - 2024-08-19 23:31:56 --> File loaded: G:\xampp\htdocs\bs\application\views\login.php
-INFO - 2024-08-19 23:31:56 --> Final output sent to browser
-DEBUG - 2024-08-19 23:31:56 --> Total execution time: 0.0897
-INFO - 2024-08-19 23:31:57 --> Config Class Initialized
-INFO - 2024-08-19 23:31:57 --> Hooks Class Initialized
-DEBUG - 2024-08-19 23:31:57 --> UTF-8 Support Enabled
-INFO - 2024-08-19 23:31:57 --> Utf8 Class Initialized
-INFO - 2024-08-19 23:31:57 --> URI Class Initialized
-INFO - 2024-08-19 23:31:57 --> Router Class Initialized
-INFO - 2024-08-19 23:31:57 --> Output Class Initialized
-INFO - 2024-08-19 23:31:57 --> Security Class Initialized
-DEBUG - 2024-08-19 23:31:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2024-08-19 23:31:57 --> Input Class Initialized
-INFO - 2024-08-19 23:31:57 --> Language Class Initialized
-ERROR - 2024-08-19 23:31:57 --> 404 Page Not Found: Main/assets
+INFO - 2024-08-19 23:27:42 --> Config Class Initialized
+INFO - 2024-08-19 23:27:42 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:27:42 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:27:42 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:27:42 --> URI Class Initialized
+DEBUG - 2024-08-19 23:27:42 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:27:42 --> Router Class Initialized
+INFO - 2024-08-19 23:27:42 --> Output Class Initialized
+INFO - 2024-08-19 23:27:42 --> Security Class Initialized
+DEBUG - 2024-08-19 23:27:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:27:42 --> Input Class Initialized
+INFO - 2024-08-19 23:27:42 --> Language Class Initialized
+INFO - 2024-08-19 23:27:42 --> Loader Class Initialized
+INFO - 2024-08-19 23:27:42 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:27:42 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:27:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:27:42 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:27:42 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:27:42 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:27:42 --> Encryption Class Initialized
+INFO - 2024-08-19 23:27:42 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:27:42 --> Parser Class Initialized
+INFO - 2024-08-19 23:27:42 --> Email Class Initialized
+INFO - 2024-08-19 23:27:42 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:27:42 --> Jquery Class Initialized
+INFO - 2024-08-19 23:27:42 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:27:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:27:42 --> Pagination Class Initialized
+INFO - 2024-08-19 23:27:42 --> Table Class Initialized
+INFO - 2024-08-19 23:27:42 --> Trackback Class Initialized
+INFO - 2024-08-19 23:27:42 --> User Agent Class Initialized
+INFO - 2024-08-19 23:27:42 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:27:42 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:27:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:27:42 --> Cart Class Initialized
+INFO - 2024-08-19 23:27:42 --> Model "Sess" initialized
+INFO - 2024-08-19 23:27:42 --> Model "Msg" initialized
+INFO - 2024-08-19 23:27:42 --> Model "User" initialized
+INFO - 2024-08-19 23:27:42 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:27:42 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:27:42 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:27:42 --> Unable to connect to the database
+INFO - 2024-08-19 23:27:42 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:27:44 --> Config Class Initialized
+INFO - 2024-08-19 23:27:44 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:27:44 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:27:44 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:27:44 --> URI Class Initialized
+DEBUG - 2024-08-19 23:27:44 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:27:44 --> Router Class Initialized
+INFO - 2024-08-19 23:27:44 --> Output Class Initialized
+INFO - 2024-08-19 23:27:44 --> Security Class Initialized
+DEBUG - 2024-08-19 23:27:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:27:44 --> Input Class Initialized
+INFO - 2024-08-19 23:27:44 --> Language Class Initialized
+INFO - 2024-08-19 23:27:44 --> Loader Class Initialized
+INFO - 2024-08-19 23:27:44 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:27:44 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:27:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:27:44 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:27:44 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:27:44 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:27:44 --> Encryption Class Initialized
+INFO - 2024-08-19 23:27:44 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:27:44 --> Parser Class Initialized
+INFO - 2024-08-19 23:27:44 --> Email Class Initialized
+INFO - 2024-08-19 23:27:44 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:27:44 --> Jquery Class Initialized
+INFO - 2024-08-19 23:27:44 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:27:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:27:44 --> Pagination Class Initialized
+INFO - 2024-08-19 23:27:44 --> Table Class Initialized
+INFO - 2024-08-19 23:27:44 --> Trackback Class Initialized
+INFO - 2024-08-19 23:27:44 --> User Agent Class Initialized
+INFO - 2024-08-19 23:27:44 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:27:44 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:27:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:27:44 --> Cart Class Initialized
+INFO - 2024-08-19 23:27:44 --> Model "Sess" initialized
+INFO - 2024-08-19 23:27:44 --> Model "Msg" initialized
+INFO - 2024-08-19 23:27:44 --> Model "User" initialized
+INFO - 2024-08-19 23:27:44 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:27:44 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:27:44 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:27:44 --> Unable to connect to the database
+INFO - 2024-08-19 23:27:44 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:27:51 --> Config Class Initialized
+INFO - 2024-08-19 23:27:51 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:27:51 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:27:51 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:27:51 --> URI Class Initialized
+DEBUG - 2024-08-19 23:27:51 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:27:51 --> Router Class Initialized
+INFO - 2024-08-19 23:27:51 --> Output Class Initialized
+INFO - 2024-08-19 23:27:51 --> Security Class Initialized
+DEBUG - 2024-08-19 23:27:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:27:51 --> Input Class Initialized
+INFO - 2024-08-19 23:27:51 --> Language Class Initialized
+INFO - 2024-08-19 23:27:51 --> Loader Class Initialized
+INFO - 2024-08-19 23:27:51 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:27:51 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:27:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:27:51 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:27:51 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:27:51 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:27:51 --> Encryption Class Initialized
+INFO - 2024-08-19 23:27:51 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:27:51 --> Parser Class Initialized
+INFO - 2024-08-19 23:27:51 --> Email Class Initialized
+INFO - 2024-08-19 23:27:51 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:27:51 --> Jquery Class Initialized
+INFO - 2024-08-19 23:27:51 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:27:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:27:51 --> Pagination Class Initialized
+INFO - 2024-08-19 23:27:51 --> Table Class Initialized
+INFO - 2024-08-19 23:27:51 --> Trackback Class Initialized
+INFO - 2024-08-19 23:27:51 --> User Agent Class Initialized
+INFO - 2024-08-19 23:27:51 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:27:51 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:27:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:27:51 --> Cart Class Initialized
+INFO - 2024-08-19 23:27:51 --> Model "Sess" initialized
+INFO - 2024-08-19 23:27:51 --> Model "Msg" initialized
+INFO - 2024-08-19 23:27:51 --> Model "User" initialized
+INFO - 2024-08-19 23:27:51 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:27:51 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:27:51 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:27:51 --> Unable to connect to the database
+INFO - 2024-08-19 23:27:51 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:27:52 --> Config Class Initialized
+INFO - 2024-08-19 23:27:52 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:27:52 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:27:52 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:27:52 --> URI Class Initialized
+DEBUG - 2024-08-19 23:27:52 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:27:52 --> Router Class Initialized
+INFO - 2024-08-19 23:27:52 --> Output Class Initialized
+INFO - 2024-08-19 23:27:52 --> Security Class Initialized
+DEBUG - 2024-08-19 23:27:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:27:52 --> Input Class Initialized
+INFO - 2024-08-19 23:27:52 --> Language Class Initialized
+INFO - 2024-08-19 23:27:52 --> Loader Class Initialized
+INFO - 2024-08-19 23:27:52 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:27:52 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:27:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:27:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:27:52 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:27:52 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:27:52 --> Encryption Class Initialized
+INFO - 2024-08-19 23:27:52 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:27:52 --> Parser Class Initialized
+INFO - 2024-08-19 23:27:52 --> Email Class Initialized
+INFO - 2024-08-19 23:27:52 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:27:52 --> Jquery Class Initialized
+INFO - 2024-08-19 23:27:52 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:27:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:27:52 --> Pagination Class Initialized
+INFO - 2024-08-19 23:27:52 --> Table Class Initialized
+INFO - 2024-08-19 23:27:52 --> Trackback Class Initialized
+INFO - 2024-08-19 23:27:52 --> User Agent Class Initialized
+INFO - 2024-08-19 23:27:52 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:27:52 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:27:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:27:52 --> Cart Class Initialized
+INFO - 2024-08-19 23:27:52 --> Model "Sess" initialized
+INFO - 2024-08-19 23:27:52 --> Model "Msg" initialized
+INFO - 2024-08-19 23:27:52 --> Model "User" initialized
+INFO - 2024-08-19 23:27:52 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:27:52 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:27:52 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:27:52 --> Unable to connect to the database
+INFO - 2024-08-19 23:27:52 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:27:53 --> Config Class Initialized
+INFO - 2024-08-19 23:27:53 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:27:53 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:27:53 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:27:53 --> URI Class Initialized
+INFO - 2024-08-19 23:27:53 --> Router Class Initialized
+INFO - 2024-08-19 23:27:53 --> Output Class Initialized
+INFO - 2024-08-19 23:27:53 --> Security Class Initialized
+DEBUG - 2024-08-19 23:27:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:27:53 --> Input Class Initialized
+INFO - 2024-08-19 23:27:53 --> Language Class Initialized
+ERROR - 2024-08-19 23:27:53 --> 404 Page Not Found: Main/favicon.ico
+INFO - 2024-08-19 23:27:54 --> Config Class Initialized
+INFO - 2024-08-19 23:27:54 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:27:54 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:27:54 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:27:54 --> URI Class Initialized
+DEBUG - 2024-08-19 23:27:54 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:27:54 --> Router Class Initialized
+INFO - 2024-08-19 23:27:54 --> Output Class Initialized
+INFO - 2024-08-19 23:27:54 --> Security Class Initialized
+DEBUG - 2024-08-19 23:27:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:27:54 --> Input Class Initialized
+INFO - 2024-08-19 23:27:54 --> Language Class Initialized
+INFO - 2024-08-19 23:27:54 --> Loader Class Initialized
+INFO - 2024-08-19 23:27:54 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:27:54 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:27:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:27:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:27:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:27:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:27:54 --> Encryption Class Initialized
+INFO - 2024-08-19 23:27:54 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:27:54 --> Parser Class Initialized
+INFO - 2024-08-19 23:27:54 --> Email Class Initialized
+INFO - 2024-08-19 23:27:54 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:27:54 --> Jquery Class Initialized
+INFO - 2024-08-19 23:27:54 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:27:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:27:54 --> Pagination Class Initialized
+INFO - 2024-08-19 23:27:54 --> Table Class Initialized
+INFO - 2024-08-19 23:27:54 --> Trackback Class Initialized
+INFO - 2024-08-19 23:27:54 --> User Agent Class Initialized
+INFO - 2024-08-19 23:27:54 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:27:54 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:27:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:27:54 --> Cart Class Initialized
+INFO - 2024-08-19 23:27:54 --> Model "Sess" initialized
+INFO - 2024-08-19 23:27:54 --> Model "Msg" initialized
+INFO - 2024-08-19 23:27:54 --> Model "User" initialized
+INFO - 2024-08-19 23:27:54 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:27:54 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:27:54 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:27:54 --> Unable to connect to the database
+INFO - 2024-08-19 23:27:54 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:28:06 --> Config Class Initialized
+INFO - 2024-08-19 23:28:06 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:28:06 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:28:06 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:28:06 --> URI Class Initialized
+DEBUG - 2024-08-19 23:28:06 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:28:06 --> Router Class Initialized
+INFO - 2024-08-19 23:28:06 --> Output Class Initialized
+INFO - 2024-08-19 23:28:06 --> Security Class Initialized
+DEBUG - 2024-08-19 23:28:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:28:06 --> Input Class Initialized
+INFO - 2024-08-19 23:28:06 --> Language Class Initialized
+INFO - 2024-08-19 23:28:06 --> Loader Class Initialized
+INFO - 2024-08-19 23:28:06 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:28:06 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:28:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:28:06 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:28:06 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:28:06 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:28:06 --> Encryption Class Initialized
+INFO - 2024-08-19 23:28:06 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:28:06 --> Parser Class Initialized
+INFO - 2024-08-19 23:28:06 --> Email Class Initialized
+INFO - 2024-08-19 23:28:06 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:28:06 --> Jquery Class Initialized
+INFO - 2024-08-19 23:28:06 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:28:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:28:06 --> Pagination Class Initialized
+INFO - 2024-08-19 23:28:06 --> Table Class Initialized
+INFO - 2024-08-19 23:28:06 --> Trackback Class Initialized
+INFO - 2024-08-19 23:28:06 --> User Agent Class Initialized
+INFO - 2024-08-19 23:28:06 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:28:06 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:28:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:28:06 --> Cart Class Initialized
+INFO - 2024-08-19 23:28:06 --> Model "Sess" initialized
+INFO - 2024-08-19 23:28:06 --> Model "Msg" initialized
+INFO - 2024-08-19 23:28:06 --> Model "User" initialized
+INFO - 2024-08-19 23:28:06 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:28:06 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:28:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:28:06 --> Unable to connect to the database
+INFO - 2024-08-19 23:28:06 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:28:07 --> Config Class Initialized
+INFO - 2024-08-19 23:28:07 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:28:07 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:28:07 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:28:07 --> URI Class Initialized
+INFO - 2024-08-19 23:28:07 --> Router Class Initialized
+INFO - 2024-08-19 23:28:07 --> Output Class Initialized
+INFO - 2024-08-19 23:28:07 --> Security Class Initialized
+DEBUG - 2024-08-19 23:28:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:28:07 --> Input Class Initialized
+INFO - 2024-08-19 23:28:07 --> Language Class Initialized
+ERROR - 2024-08-19 23:28:07 --> 404 Page Not Found: Main/favicon.ico
+INFO - 2024-08-19 23:28:26 --> Config Class Initialized
+INFO - 2024-08-19 23:28:26 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:28:26 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:28:26 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:28:26 --> URI Class Initialized
+DEBUG - 2024-08-19 23:28:26 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:28:26 --> Router Class Initialized
+INFO - 2024-08-19 23:28:26 --> Output Class Initialized
+INFO - 2024-08-19 23:28:26 --> Security Class Initialized
+DEBUG - 2024-08-19 23:28:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:28:26 --> Input Class Initialized
+INFO - 2024-08-19 23:28:26 --> Language Class Initialized
+INFO - 2024-08-19 23:28:26 --> Loader Class Initialized
+INFO - 2024-08-19 23:28:26 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:28:26 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:28:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:28:26 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:28:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:28:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:28:26 --> Encryption Class Initialized
+INFO - 2024-08-19 23:28:26 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:28:26 --> Parser Class Initialized
+INFO - 2024-08-19 23:28:26 --> Email Class Initialized
+INFO - 2024-08-19 23:28:26 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:28:26 --> Jquery Class Initialized
+INFO - 2024-08-19 23:28:26 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:28:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:28:26 --> Pagination Class Initialized
+INFO - 2024-08-19 23:28:26 --> Table Class Initialized
+INFO - 2024-08-19 23:28:26 --> Trackback Class Initialized
+INFO - 2024-08-19 23:28:26 --> User Agent Class Initialized
+INFO - 2024-08-19 23:28:26 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:28:26 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:28:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:28:26 --> Cart Class Initialized
+INFO - 2024-08-19 23:28:26 --> Model "Sess" initialized
+INFO - 2024-08-19 23:28:26 --> Model "Msg" initialized
+INFO - 2024-08-19 23:28:26 --> Model "User" initialized
+INFO - 2024-08-19 23:28:26 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:28:26 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:28:26 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:28:26 --> Unable to connect to the database
+INFO - 2024-08-19 23:28:26 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:28:27 --> Config Class Initialized
+INFO - 2024-08-19 23:28:27 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:28:27 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:28:27 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:28:27 --> URI Class Initialized
+DEBUG - 2024-08-19 23:28:27 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:28:27 --> Router Class Initialized
+INFO - 2024-08-19 23:28:27 --> Output Class Initialized
+INFO - 2024-08-19 23:28:27 --> Security Class Initialized
+DEBUG - 2024-08-19 23:28:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:28:27 --> Input Class Initialized
+INFO - 2024-08-19 23:28:27 --> Language Class Initialized
+INFO - 2024-08-19 23:28:27 --> Loader Class Initialized
+INFO - 2024-08-19 23:28:27 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:28:27 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:28:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:28:27 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:28:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:28:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:28:27 --> Encryption Class Initialized
+INFO - 2024-08-19 23:28:27 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:28:27 --> Parser Class Initialized
+INFO - 2024-08-19 23:28:27 --> Email Class Initialized
+INFO - 2024-08-19 23:28:27 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:28:27 --> Jquery Class Initialized
+INFO - 2024-08-19 23:28:27 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:28:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:28:27 --> Pagination Class Initialized
+INFO - 2024-08-19 23:28:27 --> Table Class Initialized
+INFO - 2024-08-19 23:28:27 --> Trackback Class Initialized
+INFO - 2024-08-19 23:28:27 --> User Agent Class Initialized
+INFO - 2024-08-19 23:28:27 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:28:27 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:28:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:28:27 --> Cart Class Initialized
+INFO - 2024-08-19 23:28:27 --> Model "Sess" initialized
+INFO - 2024-08-19 23:28:27 --> Model "Msg" initialized
+INFO - 2024-08-19 23:28:27 --> Model "User" initialized
+INFO - 2024-08-19 23:28:27 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:28:27 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:28:27 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:28:27 --> Unable to connect to the database
+INFO - 2024-08-19 23:28:27 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:28:31 --> Config Class Initialized
+INFO - 2024-08-19 23:28:31 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:28:31 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:28:31 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:28:31 --> URI Class Initialized
+DEBUG - 2024-08-19 23:28:31 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:28:31 --> Router Class Initialized
+INFO - 2024-08-19 23:28:31 --> Output Class Initialized
+INFO - 2024-08-19 23:28:31 --> Security Class Initialized
+DEBUG - 2024-08-19 23:28:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:28:31 --> Input Class Initialized
+INFO - 2024-08-19 23:28:31 --> Language Class Initialized
+INFO - 2024-08-19 23:28:31 --> Loader Class Initialized
+INFO - 2024-08-19 23:28:31 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:28:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:28:31 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:28:31 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:28:31 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:28:31 --> Encryption Class Initialized
+INFO - 2024-08-19 23:28:31 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:28:31 --> Parser Class Initialized
+INFO - 2024-08-19 23:28:31 --> Email Class Initialized
+INFO - 2024-08-19 23:28:31 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:28:31 --> Jquery Class Initialized
+INFO - 2024-08-19 23:28:31 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:28:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:28:31 --> Pagination Class Initialized
+INFO - 2024-08-19 23:28:31 --> Table Class Initialized
+INFO - 2024-08-19 23:28:31 --> Trackback Class Initialized
+INFO - 2024-08-19 23:28:31 --> User Agent Class Initialized
+INFO - 2024-08-19 23:28:31 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:28:31 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:28:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:28:31 --> Cart Class Initialized
+INFO - 2024-08-19 23:28:31 --> Model "Sess" initialized
+INFO - 2024-08-19 23:28:31 --> Model "Msg" initialized
+INFO - 2024-08-19 23:28:31 --> Model "User" initialized
+INFO - 2024-08-19 23:28:31 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:28:31 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:28:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:28:31 --> Unable to connect to the database
+INFO - 2024-08-19 23:28:31 --> Language file loaded: language/english/db_lang.php
+ERROR - 2024-08-19 23:28:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Exceptions.php:272) /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Common.php 571
+INFO - 2024-08-19 23:28:31 --> Config Class Initialized
+INFO - 2024-08-19 23:28:31 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:28:31 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:28:31 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:28:31 --> URI Class Initialized
+DEBUG - 2024-08-19 23:28:31 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:28:31 --> Router Class Initialized
+INFO - 2024-08-19 23:28:31 --> Output Class Initialized
+INFO - 2024-08-19 23:28:31 --> Security Class Initialized
+DEBUG - 2024-08-19 23:28:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:28:31 --> Input Class Initialized
+INFO - 2024-08-19 23:28:31 --> Language Class Initialized
+INFO - 2024-08-19 23:28:31 --> Loader Class Initialized
+INFO - 2024-08-19 23:28:31 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:28:31 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:28:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:28:31 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:28:31 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:28:31 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:28:31 --> Encryption Class Initialized
+INFO - 2024-08-19 23:28:31 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:28:31 --> Parser Class Initialized
+INFO - 2024-08-19 23:28:31 --> Email Class Initialized
+INFO - 2024-08-19 23:28:31 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:28:31 --> Jquery Class Initialized
+INFO - 2024-08-19 23:28:31 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:28:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:28:31 --> Pagination Class Initialized
+INFO - 2024-08-19 23:28:31 --> Table Class Initialized
+INFO - 2024-08-19 23:28:31 --> Trackback Class Initialized
+INFO - 2024-08-19 23:28:31 --> User Agent Class Initialized
+INFO - 2024-08-19 23:28:31 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:28:31 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:28:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:28:31 --> Cart Class Initialized
+INFO - 2024-08-19 23:28:31 --> Model "Sess" initialized
+INFO - 2024-08-19 23:28:31 --> Model "Msg" initialized
+INFO - 2024-08-19 23:28:31 --> Model "User" initialized
+INFO - 2024-08-19 23:28:31 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:28:31 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:28:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:28:31 --> Unable to connect to the database
+INFO - 2024-08-19 23:28:31 --> Language file loaded: language/english/db_lang.php
+ERROR - 2024-08-19 23:28:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Exceptions.php:272) /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Common.php 571
+INFO - 2024-08-19 23:28:35 --> Config Class Initialized
+INFO - 2024-08-19 23:28:35 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:28:35 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:28:35 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:28:35 --> URI Class Initialized
+DEBUG - 2024-08-19 23:28:35 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:28:35 --> Router Class Initialized
+INFO - 2024-08-19 23:28:35 --> Output Class Initialized
+INFO - 2024-08-19 23:28:35 --> Security Class Initialized
+DEBUG - 2024-08-19 23:28:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:28:35 --> Input Class Initialized
+INFO - 2024-08-19 23:28:35 --> Language Class Initialized
+INFO - 2024-08-19 23:28:35 --> Loader Class Initialized
+INFO - 2024-08-19 23:28:35 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:28:35 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:28:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:28:35 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:28:35 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:28:35 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:28:35 --> Encryption Class Initialized
+INFO - 2024-08-19 23:28:35 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:28:35 --> Parser Class Initialized
+INFO - 2024-08-19 23:28:35 --> Email Class Initialized
+INFO - 2024-08-19 23:28:35 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:28:35 --> Jquery Class Initialized
+INFO - 2024-08-19 23:28:35 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:28:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:28:35 --> Pagination Class Initialized
+INFO - 2024-08-19 23:28:35 --> Table Class Initialized
+INFO - 2024-08-19 23:28:35 --> Trackback Class Initialized
+INFO - 2024-08-19 23:28:35 --> User Agent Class Initialized
+INFO - 2024-08-19 23:28:35 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:28:35 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:28:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:28:35 --> Cart Class Initialized
+INFO - 2024-08-19 23:28:35 --> Model "Sess" initialized
+INFO - 2024-08-19 23:28:35 --> Model "Msg" initialized
+INFO - 2024-08-19 23:28:35 --> Model "User" initialized
+INFO - 2024-08-19 23:28:35 --> Database Driver Class Initialized
+ERROR - 2024-08-19 23:28:35 --> Severity: Notice --> Uninitialized string offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 128
+ERROR - 2024-08-19 23:28:35 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /home/clanwebh/bscrm.tajtizoltan.hu/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-08-19 23:28:35 --> Unable to connect to the database
+INFO - 2024-08-19 23:28:35 --> Language file loaded: language/english/db_lang.php
+ERROR - 2024-08-19 23:28:35 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Exceptions.php:272) /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Common.php 571
+INFO - 2024-08-19 23:29:54 --> Config Class Initialized
+INFO - 2024-08-19 23:29:54 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:29:54 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:29:54 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:29:54 --> URI Class Initialized
+DEBUG - 2024-08-19 23:29:54 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:29:54 --> Router Class Initialized
+INFO - 2024-08-19 23:29:54 --> Output Class Initialized
+INFO - 2024-08-19 23:29:54 --> Security Class Initialized
+DEBUG - 2024-08-19 23:29:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:29:54 --> Input Class Initialized
+INFO - 2024-08-19 23:29:54 --> Language Class Initialized
+INFO - 2024-08-19 23:29:54 --> Loader Class Initialized
+INFO - 2024-08-19 23:29:54 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:29:54 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:29:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:29:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:29:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:29:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:29:54 --> Encryption Class Initialized
+INFO - 2024-08-19 23:29:54 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:29:54 --> Parser Class Initialized
+INFO - 2024-08-19 23:29:54 --> Email Class Initialized
+INFO - 2024-08-19 23:29:54 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:29:54 --> Jquery Class Initialized
+INFO - 2024-08-19 23:29:54 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:29:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:29:54 --> Pagination Class Initialized
+INFO - 2024-08-19 23:29:54 --> Table Class Initialized
+INFO - 2024-08-19 23:29:54 --> Trackback Class Initialized
+INFO - 2024-08-19 23:29:54 --> User Agent Class Initialized
+INFO - 2024-08-19 23:29:54 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:29:54 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:29:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:29:54 --> Cart Class Initialized
+INFO - 2024-08-19 23:29:54 --> Model "Sess" initialized
+INFO - 2024-08-19 23:29:54 --> Model "Msg" initialized
+INFO - 2024-08-19 23:29:54 --> Model "User" initialized
+INFO - 2024-08-19 23:29:54 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:29:54 --> Model "Orders" initialized
+INFO - 2024-08-19 23:29:54 --> Model "Finance" initialized
+INFO - 2024-08-19 23:29:54 --> Model "Customer" initialized
+INFO - 2024-08-19 23:29:54 --> Model "Products" initialized
+INFO - 2024-08-19 23:29:54 --> Controller Class Initialized
+ERROR - 2024-08-19 23:29:54 --> Query error: Table 'clanwebh_wp170.users' doesn't exist - Invalid query: SELECT `accessExpire`
+FROM `users`
+WHERE `id` = 0
+INFO - 2024-08-19 23:29:54 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-08-19 23:29:54 --> Config Class Initialized
+INFO - 2024-08-19 23:29:54 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:29:54 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:29:54 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:29:54 --> URI Class Initialized
+INFO - 2024-08-19 23:29:54 --> Router Class Initialized
+INFO - 2024-08-19 23:29:54 --> Output Class Initialized
+INFO - 2024-08-19 23:29:54 --> Security Class Initialized
+DEBUG - 2024-08-19 23:29:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:29:54 --> Input Class Initialized
+INFO - 2024-08-19 23:29:54 --> Language Class Initialized
+ERROR - 2024-08-19 23:29:54 --> 404 Page Not Found: Main/favicon.ico
+INFO - 2024-08-19 23:30:25 --> Config Class Initialized
+INFO - 2024-08-19 23:30:25 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:30:25 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:30:25 --> URI Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:30:25 --> Router Class Initialized
+INFO - 2024-08-19 23:30:25 --> Output Class Initialized
+INFO - 2024-08-19 23:30:25 --> Security Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:30:25 --> Input Class Initialized
+INFO - 2024-08-19 23:30:25 --> Language Class Initialized
+INFO - 2024-08-19 23:30:25 --> Loader Class Initialized
+INFO - 2024-08-19 23:30:25 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:30:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:30:25 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:30:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:30:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:30:25 --> Encryption Class Initialized
+INFO - 2024-08-19 23:30:25 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:30:25 --> Parser Class Initialized
+INFO - 2024-08-19 23:30:25 --> Email Class Initialized
+INFO - 2024-08-19 23:30:25 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:30:25 --> Jquery Class Initialized
+INFO - 2024-08-19 23:30:25 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:30:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:30:25 --> Pagination Class Initialized
+INFO - 2024-08-19 23:30:25 --> Table Class Initialized
+INFO - 2024-08-19 23:30:25 --> Trackback Class Initialized
+INFO - 2024-08-19 23:30:25 --> User Agent Class Initialized
+INFO - 2024-08-19 23:30:25 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:30:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:30:25 --> Cart Class Initialized
+INFO - 2024-08-19 23:30:25 --> Model "Sess" initialized
+INFO - 2024-08-19 23:30:25 --> Model "Msg" initialized
+INFO - 2024-08-19 23:30:25 --> Model "User" initialized
+INFO - 2024-08-19 23:30:25 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:30:25 --> Model "Orders" initialized
+INFO - 2024-08-19 23:30:25 --> Model "Finance" initialized
+INFO - 2024-08-19 23:30:25 --> Model "Customer" initialized
+INFO - 2024-08-19 23:30:25 --> Model "Products" initialized
+INFO - 2024-08-19 23:30:25 --> Controller Class Initialized
+ERROR - 2024-08-19 23:30:25 --> Severity: Notice --> Undefined offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:30:25 --> Config Class Initialized
+INFO - 2024-08-19 23:30:25 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:30:25 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:30:25 --> URI Class Initialized
+INFO - 2024-08-19 23:30:25 --> Router Class Initialized
+INFO - 2024-08-19 23:30:25 --> Output Class Initialized
+INFO - 2024-08-19 23:30:25 --> Security Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:30:25 --> Input Class Initialized
+INFO - 2024-08-19 23:30:25 --> Language Class Initialized
+INFO - 2024-08-19 23:30:25 --> Loader Class Initialized
+INFO - 2024-08-19 23:30:25 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:30:25 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:30:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:30:25 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:30:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:30:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:30:25 --> Encryption Class Initialized
+INFO - 2024-08-19 23:30:25 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:30:25 --> Parser Class Initialized
+INFO - 2024-08-19 23:30:25 --> Email Class Initialized
+INFO - 2024-08-19 23:30:25 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:30:25 --> Jquery Class Initialized
+INFO - 2024-08-19 23:30:25 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:30:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:30:25 --> Pagination Class Initialized
+INFO - 2024-08-19 23:30:25 --> Table Class Initialized
+INFO - 2024-08-19 23:30:25 --> Trackback Class Initialized
+INFO - 2024-08-19 23:30:25 --> User Agent Class Initialized
+INFO - 2024-08-19 23:30:25 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:30:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:30:25 --> Cart Class Initialized
+INFO - 2024-08-19 23:30:25 --> Model "Sess" initialized
+INFO - 2024-08-19 23:30:25 --> Model "Msg" initialized
+INFO - 2024-08-19 23:30:25 --> Model "User" initialized
+INFO - 2024-08-19 23:30:25 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:30:25 --> Model "Orders" initialized
+INFO - 2024-08-19 23:30:25 --> Model "Finance" initialized
+INFO - 2024-08-19 23:30:25 --> Model "Customer" initialized
+INFO - 2024-08-19 23:30:25 --> Model "Products" initialized
+INFO - 2024-08-19 23:30:25 --> Controller Class Initialized
+INFO - 2024-08-19 23:30:25 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:30:25 --> Final output sent to browser
+DEBUG - 2024-08-19 23:30:25 --> Total execution time: 0.0077
+INFO - 2024-08-19 23:30:25 --> Config Class Initialized
+INFO - 2024-08-19 23:30:25 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:30:25 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:30:25 --> URI Class Initialized
+INFO - 2024-08-19 23:30:25 --> Router Class Initialized
+INFO - 2024-08-19 23:30:25 --> Output Class Initialized
+INFO - 2024-08-19 23:30:25 --> Security Class Initialized
+DEBUG - 2024-08-19 23:30:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:30:25 --> Input Class Initialized
+INFO - 2024-08-19 23:30:25 --> Language Class Initialized
+ERROR - 2024-08-19 23:30:25 --> 404 Page Not Found: Main/assets
+INFO - 2024-08-19 23:30:27 --> Config Class Initialized
+INFO - 2024-08-19 23:30:27 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:30:27 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:30:27 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:30:27 --> URI Class Initialized
+INFO - 2024-08-19 23:30:27 --> Router Class Initialized
+INFO - 2024-08-19 23:30:27 --> Output Class Initialized
+INFO - 2024-08-19 23:30:27 --> Security Class Initialized
+DEBUG - 2024-08-19 23:30:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:30:27 --> Input Class Initialized
+INFO - 2024-08-19 23:30:27 --> Language Class Initialized
+ERROR - 2024-08-19 23:30:27 --> 404 Page Not Found: Main/favicon.ico
+INFO - 2024-08-19 23:30:54 --> Config Class Initialized
+INFO - 2024-08-19 23:30:54 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:30:54 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:30:54 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:30:54 --> URI Class Initialized
+INFO - 2024-08-19 23:30:54 --> Router Class Initialized
+INFO - 2024-08-19 23:30:54 --> Output Class Initialized
+INFO - 2024-08-19 23:30:54 --> Security Class Initialized
+DEBUG - 2024-08-19 23:30:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:30:54 --> Input Class Initialized
+INFO - 2024-08-19 23:30:54 --> Language Class Initialized
+INFO - 2024-08-19 23:30:54 --> Loader Class Initialized
+INFO - 2024-08-19 23:30:54 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:30:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:30:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:30:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:30:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:30:54 --> Encryption Class Initialized
+INFO - 2024-08-19 23:30:54 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:30:54 --> Parser Class Initialized
+INFO - 2024-08-19 23:30:54 --> Email Class Initialized
+INFO - 2024-08-19 23:30:54 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:30:54 --> Jquery Class Initialized
+INFO - 2024-08-19 23:30:54 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:30:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:30:54 --> Pagination Class Initialized
+INFO - 2024-08-19 23:30:54 --> Table Class Initialized
+INFO - 2024-08-19 23:30:54 --> Trackback Class Initialized
+INFO - 2024-08-19 23:30:54 --> User Agent Class Initialized
+INFO - 2024-08-19 23:30:54 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:30:54 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:30:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:30:54 --> Cart Class Initialized
+INFO - 2024-08-19 23:30:54 --> Model "Sess" initialized
+INFO - 2024-08-19 23:30:54 --> Model "Msg" initialized
+INFO - 2024-08-19 23:30:54 --> Model "User" initialized
+INFO - 2024-08-19 23:30:54 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:30:54 --> Model "Orders" initialized
+INFO - 2024-08-19 23:30:54 --> Model "Finance" initialized
+INFO - 2024-08-19 23:30:54 --> Model "Customer" initialized
+INFO - 2024-08-19 23:30:54 --> Model "Products" initialized
+INFO - 2024-08-19 23:30:54 --> Controller Class Initialized
+INFO - 2024-08-19 23:30:54 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2024-08-19 23:30:54 --> Severity: Warning --> hash(): Unknown hashing algorithm: SHA512/256 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 59
+INFO - 2024-08-19 23:30:54 --> Config Class Initialized
+INFO - 2024-08-19 23:30:54 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:30:54 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:30:54 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:30:54 --> URI Class Initialized
+INFO - 2024-08-19 23:30:54 --> Router Class Initialized
+INFO - 2024-08-19 23:30:54 --> Output Class Initialized
+INFO - 2024-08-19 23:30:54 --> Security Class Initialized
+DEBUG - 2024-08-19 23:30:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:30:54 --> Input Class Initialized
+INFO - 2024-08-19 23:30:54 --> Language Class Initialized
+INFO - 2024-08-19 23:30:54 --> Loader Class Initialized
+INFO - 2024-08-19 23:30:54 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:30:54 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:30:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:30:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:30:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:30:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:30:54 --> Encryption Class Initialized
+INFO - 2024-08-19 23:30:54 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:30:54 --> Parser Class Initialized
+INFO - 2024-08-19 23:30:54 --> Email Class Initialized
+INFO - 2024-08-19 23:30:54 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:30:54 --> Jquery Class Initialized
+INFO - 2024-08-19 23:30:54 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:30:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:30:54 --> Pagination Class Initialized
+INFO - 2024-08-19 23:30:54 --> Table Class Initialized
+INFO - 2024-08-19 23:30:54 --> Trackback Class Initialized
+INFO - 2024-08-19 23:30:54 --> User Agent Class Initialized
+INFO - 2024-08-19 23:30:54 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:30:54 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:30:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:30:54 --> Cart Class Initialized
+INFO - 2024-08-19 23:30:54 --> Model "Sess" initialized
+INFO - 2024-08-19 23:30:54 --> Model "Msg" initialized
+INFO - 2024-08-19 23:30:54 --> Model "User" initialized
+INFO - 2024-08-19 23:30:54 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:30:54 --> Model "Orders" initialized
+INFO - 2024-08-19 23:30:54 --> Model "Finance" initialized
+INFO - 2024-08-19 23:30:54 --> Model "Customer" initialized
+INFO - 2024-08-19 23:30:54 --> Model "Products" initialized
+INFO - 2024-08-19 23:30:54 --> Controller Class Initialized
+INFO - 2024-08-19 23:30:54 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:30:54 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:30:54 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/main.php
+INFO - 2024-08-19 23:30:54 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:30:54 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:30:54 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:30:54 --> Final output sent to browser
+DEBUG - 2024-08-19 23:30:54 --> Total execution time: 0.0129
+INFO - 2024-08-19 23:30:57 --> Config Class Initialized
+INFO - 2024-08-19 23:30:57 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:30:57 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:30:57 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:30:57 --> URI Class Initialized
+INFO - 2024-08-19 23:30:57 --> Router Class Initialized
+INFO - 2024-08-19 23:30:57 --> Output Class Initialized
+INFO - 2024-08-19 23:30:57 --> Security Class Initialized
+DEBUG - 2024-08-19 23:30:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:30:57 --> Input Class Initialized
+INFO - 2024-08-19 23:30:57 --> Language Class Initialized
+INFO - 2024-08-19 23:30:57 --> Loader Class Initialized
+INFO - 2024-08-19 23:30:57 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:30:57 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:30:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:30:57 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:30:57 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:30:57 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:30:57 --> Encryption Class Initialized
+INFO - 2024-08-19 23:30:57 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:30:57 --> Parser Class Initialized
+INFO - 2024-08-19 23:30:57 --> Email Class Initialized
+INFO - 2024-08-19 23:30:57 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:30:57 --> Jquery Class Initialized
+INFO - 2024-08-19 23:30:57 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:30:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:30:57 --> Pagination Class Initialized
+INFO - 2024-08-19 23:30:57 --> Table Class Initialized
+INFO - 2024-08-19 23:30:57 --> Trackback Class Initialized
+INFO - 2024-08-19 23:30:57 --> User Agent Class Initialized
+INFO - 2024-08-19 23:30:57 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:30:57 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:30:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:30:57 --> Cart Class Initialized
+INFO - 2024-08-19 23:30:57 --> Model "Sess" initialized
+INFO - 2024-08-19 23:30:57 --> Model "Msg" initialized
+INFO - 2024-08-19 23:30:57 --> Model "User" initialized
+INFO - 2024-08-19 23:30:57 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:30:57 --> Model "Orders" initialized
+INFO - 2024-08-19 23:30:57 --> Model "Finance" initialized
+INFO - 2024-08-19 23:30:57 --> Model "Customer" initialized
+INFO - 2024-08-19 23:30:57 --> Model "Products" initialized
+INFO - 2024-08-19 23:30:57 --> Controller Class Initialized
+INFO - 2024-08-19 23:30:57 --> Final output sent to browser
+DEBUG - 2024-08-19 23:30:57 --> Total execution time: 0.0109
+INFO - 2024-08-19 23:31:08 --> Config Class Initialized
+INFO - 2024-08-19 23:31:08 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:08 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:08 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:08 --> URI Class Initialized
+DEBUG - 2024-08-19 23:31:08 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:31:08 --> Router Class Initialized
+INFO - 2024-08-19 23:31:08 --> Output Class Initialized
+INFO - 2024-08-19 23:31:08 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:08 --> Input Class Initialized
+INFO - 2024-08-19 23:31:08 --> Language Class Initialized
+INFO - 2024-08-19 23:31:08 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:08 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:08 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:08 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:08 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:08 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:08 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:08 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:08 --> Email Class Initialized
+INFO - 2024-08-19 23:31:08 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:08 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:08 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:08 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:08 --> Table Class Initialized
+INFO - 2024-08-19 23:31:08 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:08 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:08 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:08 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:08 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:08 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:08 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:08 --> Model "User" initialized
+INFO - 2024-08-19 23:31:08 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:08 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:08 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:08 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:08 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:08 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:08 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:31:08 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:31:08 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/main.php
+INFO - 2024-08-19 23:31:08 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:31:08 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:31:08 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:31:08 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:08 --> Total execution time: 0.0122
+INFO - 2024-08-19 23:31:08 --> Config Class Initialized
+INFO - 2024-08-19 23:31:08 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:08 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:08 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:08 --> URI Class Initialized
+INFO - 2024-08-19 23:31:08 --> Router Class Initialized
+INFO - 2024-08-19 23:31:08 --> Output Class Initialized
+INFO - 2024-08-19 23:31:08 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:08 --> Input Class Initialized
+INFO - 2024-08-19 23:31:08 --> Language Class Initialized
+INFO - 2024-08-19 23:31:08 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:08 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:08 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:08 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:08 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:08 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:08 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:08 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:08 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:08 --> Email Class Initialized
+INFO - 2024-08-19 23:31:08 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:08 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:08 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:08 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:08 --> Table Class Initialized
+INFO - 2024-08-19 23:31:08 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:08 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:08 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:08 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:08 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:08 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:08 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:08 --> Model "User" initialized
+INFO - 2024-08-19 23:31:08 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:08 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:08 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:08 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:08 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:08 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:08 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:08 --> Total execution time: 0.0055
+INFO - 2024-08-19 23:31:10 --> Config Class Initialized
+INFO - 2024-08-19 23:31:10 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:10 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:10 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:10 --> URI Class Initialized
+INFO - 2024-08-19 23:31:10 --> Router Class Initialized
+INFO - 2024-08-19 23:31:10 --> Output Class Initialized
+INFO - 2024-08-19 23:31:10 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:10 --> Input Class Initialized
+INFO - 2024-08-19 23:31:10 --> Language Class Initialized
+INFO - 2024-08-19 23:31:10 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:10 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:10 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:10 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:10 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:10 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:10 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:10 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:10 --> Email Class Initialized
+INFO - 2024-08-19 23:31:10 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:10 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:10 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:10 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:10 --> Table Class Initialized
+INFO - 2024-08-19 23:31:10 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:10 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:10 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:10 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:10 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:10 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:10 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:10 --> Model "User" initialized
+INFO - 2024-08-19 23:31:10 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:10 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:10 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:10 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:10 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:10 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:10 --> Config Class Initialized
+INFO - 2024-08-19 23:31:10 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:10 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:10 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:10 --> URI Class Initialized
+INFO - 2024-08-19 23:31:10 --> Router Class Initialized
+INFO - 2024-08-19 23:31:10 --> Output Class Initialized
+INFO - 2024-08-19 23:31:10 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:10 --> Input Class Initialized
+INFO - 2024-08-19 23:31:10 --> Language Class Initialized
+INFO - 2024-08-19 23:31:10 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:10 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:10 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:10 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:10 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:10 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:10 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:10 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:10 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:10 --> Email Class Initialized
+INFO - 2024-08-19 23:31:10 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:10 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:10 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:10 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:10 --> Table Class Initialized
+INFO - 2024-08-19 23:31:10 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:10 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:10 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:10 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:10 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:10 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:10 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:10 --> Model "User" initialized
+INFO - 2024-08-19 23:31:10 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:10 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:10 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:10 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:10 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:10 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:10 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:10 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:10 --> Total execution time: 0.0073
+INFO - 2024-08-19 23:31:14 --> Config Class Initialized
+INFO - 2024-08-19 23:31:14 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:14 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:14 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:14 --> URI Class Initialized
+DEBUG - 2024-08-19 23:31:14 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:31:14 --> Router Class Initialized
+INFO - 2024-08-19 23:31:14 --> Output Class Initialized
+INFO - 2024-08-19 23:31:14 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:14 --> Input Class Initialized
+INFO - 2024-08-19 23:31:14 --> Language Class Initialized
+INFO - 2024-08-19 23:31:14 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:14 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:14 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:14 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:14 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:14 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:14 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:14 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:14 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:14 --> Email Class Initialized
+INFO - 2024-08-19 23:31:14 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:14 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:14 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:14 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:14 --> Table Class Initialized
+INFO - 2024-08-19 23:31:14 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:14 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:14 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:14 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:14 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:14 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:14 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:14 --> Model "User" initialized
+INFO - 2024-08-19 23:31:14 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:14 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:14 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:14 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:14 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:14 --> Controller Class Initialized
+ERROR - 2024-08-19 23:31:14 --> Severity: Notice --> Undefined offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:31:15 --> Config Class Initialized
+INFO - 2024-08-19 23:31:15 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:15 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:15 --> URI Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:31:15 --> Router Class Initialized
+INFO - 2024-08-19 23:31:15 --> Output Class Initialized
+INFO - 2024-08-19 23:31:15 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:15 --> Input Class Initialized
+INFO - 2024-08-19 23:31:15 --> Language Class Initialized
+INFO - 2024-08-19 23:31:15 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:15 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:15 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:15 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:15 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:15 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:15 --> Email Class Initialized
+INFO - 2024-08-19 23:31:15 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:15 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:15 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:15 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:15 --> Table Class Initialized
+INFO - 2024-08-19 23:31:15 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:15 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:15 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:15 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:15 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:15 --> Model "User" initialized
+INFO - 2024-08-19 23:31:15 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:15 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:15 --> Controller Class Initialized
+ERROR - 2024-08-19 23:31:15 --> Severity: Notice --> Undefined offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:31:15 --> Config Class Initialized
+INFO - 2024-08-19 23:31:15 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:15 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:15 --> URI Class Initialized
+INFO - 2024-08-19 23:31:15 --> Router Class Initialized
+INFO - 2024-08-19 23:31:15 --> Output Class Initialized
+INFO - 2024-08-19 23:31:15 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:15 --> Input Class Initialized
+INFO - 2024-08-19 23:31:15 --> Language Class Initialized
+INFO - 2024-08-19 23:31:15 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:15 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:15 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:15 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:15 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:15 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:15 --> Email Class Initialized
+INFO - 2024-08-19 23:31:15 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:15 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:15 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:15 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:15 --> Table Class Initialized
+INFO - 2024-08-19 23:31:15 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:15 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:15 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:15 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:15 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:15 --> Model "User" initialized
+INFO - 2024-08-19 23:31:15 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:15 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:15 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:15 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2024-08-19 23:31:15 --> Severity: Warning --> hash(): Unknown hashing algorithm: SHA512/256 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 59
+INFO - 2024-08-19 23:31:15 --> Config Class Initialized
+INFO - 2024-08-19 23:31:15 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:15 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:15 --> URI Class Initialized
+INFO - 2024-08-19 23:31:15 --> Router Class Initialized
+INFO - 2024-08-19 23:31:15 --> Output Class Initialized
+INFO - 2024-08-19 23:31:15 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:15 --> Input Class Initialized
+INFO - 2024-08-19 23:31:15 --> Language Class Initialized
+INFO - 2024-08-19 23:31:15 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:15 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:15 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:15 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:15 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:15 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:15 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:15 --> Email Class Initialized
+INFO - 2024-08-19 23:31:15 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:15 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:15 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:15 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:15 --> Table Class Initialized
+INFO - 2024-08-19 23:31:15 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:15 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:15 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:15 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:15 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:15 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:15 --> Model "User" initialized
+INFO - 2024-08-19 23:31:15 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:15 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:15 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:15 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:15 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:15 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:15 --> Total execution time: 0.0061
+INFO - 2024-08-19 23:31:19 --> Config Class Initialized
+INFO - 2024-08-19 23:31:19 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:19 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:19 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:19 --> URI Class Initialized
+INFO - 2024-08-19 23:31:19 --> Router Class Initialized
+INFO - 2024-08-19 23:31:19 --> Output Class Initialized
+INFO - 2024-08-19 23:31:19 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:19 --> Input Class Initialized
+INFO - 2024-08-19 23:31:19 --> Language Class Initialized
+INFO - 2024-08-19 23:31:19 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:19 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:19 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:19 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:19 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:19 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:19 --> Email Class Initialized
+INFO - 2024-08-19 23:31:19 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:19 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:19 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:19 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:19 --> Table Class Initialized
+INFO - 2024-08-19 23:31:19 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:19 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:19 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:19 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:19 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:19 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:19 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:19 --> Model "User" initialized
+INFO - 2024-08-19 23:31:19 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:19 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:19 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:19 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:19 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:19 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:19 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2024-08-19 23:31:19 --> Severity: Warning --> hash(): Unknown hashing algorithm: SHA512/256 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 59
+INFO - 2024-08-19 23:31:19 --> Config Class Initialized
+INFO - 2024-08-19 23:31:19 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:19 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:19 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:19 --> URI Class Initialized
+INFO - 2024-08-19 23:31:19 --> Router Class Initialized
+INFO - 2024-08-19 23:31:19 --> Output Class Initialized
+INFO - 2024-08-19 23:31:19 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:19 --> Input Class Initialized
+INFO - 2024-08-19 23:31:19 --> Language Class Initialized
+INFO - 2024-08-19 23:31:19 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:19 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:19 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:19 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:19 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:19 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:19 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:19 --> Email Class Initialized
+INFO - 2024-08-19 23:31:19 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:19 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:19 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:19 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:19 --> Table Class Initialized
+INFO - 2024-08-19 23:31:19 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:19 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:19 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:19 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:19 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:19 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:19 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:19 --> Model "User" initialized
+INFO - 2024-08-19 23:31:19 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:19 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:19 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:19 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:19 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:19 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:19 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:19 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:19 --> Total execution time: 0.0055
+INFO - 2024-08-19 23:31:26 --> Config Class Initialized
+INFO - 2024-08-19 23:31:26 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:26 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:26 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:26 --> URI Class Initialized
+INFO - 2024-08-19 23:31:26 --> Router Class Initialized
+INFO - 2024-08-19 23:31:26 --> Output Class Initialized
+INFO - 2024-08-19 23:31:26 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:26 --> Input Class Initialized
+INFO - 2024-08-19 23:31:26 --> Language Class Initialized
+INFO - 2024-08-19 23:31:26 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:26 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:26 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:26 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:26 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:26 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:26 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:26 --> Email Class Initialized
+INFO - 2024-08-19 23:31:26 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:26 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:26 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:26 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:26 --> Table Class Initialized
+INFO - 2024-08-19 23:31:26 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:26 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:26 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:26 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:26 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:26 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:26 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:26 --> Model "User" initialized
+INFO - 2024-08-19 23:31:26 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:26 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:26 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:26 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:26 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:26 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:26 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:26 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:26 --> Total execution time: 0.0052
+INFO - 2024-08-19 23:31:27 --> Config Class Initialized
+INFO - 2024-08-19 23:31:27 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:27 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:27 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:27 --> URI Class Initialized
+INFO - 2024-08-19 23:31:27 --> Router Class Initialized
+INFO - 2024-08-19 23:31:27 --> Output Class Initialized
+INFO - 2024-08-19 23:31:27 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:27 --> Input Class Initialized
+INFO - 2024-08-19 23:31:27 --> Language Class Initialized
+ERROR - 2024-08-19 23:31:27 --> 404 Page Not Found: Main/assets
+INFO - 2024-08-19 23:31:28 --> Config Class Initialized
+INFO - 2024-08-19 23:31:28 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:28 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:28 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:28 --> URI Class Initialized
+DEBUG - 2024-08-19 23:31:28 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:31:28 --> Router Class Initialized
+INFO - 2024-08-19 23:31:28 --> Output Class Initialized
+INFO - 2024-08-19 23:31:28 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:28 --> Input Class Initialized
+INFO - 2024-08-19 23:31:28 --> Language Class Initialized
+INFO - 2024-08-19 23:31:28 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:28 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:28 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:28 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:28 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:28 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:28 --> Email Class Initialized
+INFO - 2024-08-19 23:31:28 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:28 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:28 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:28 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:28 --> Table Class Initialized
+INFO - 2024-08-19 23:31:28 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:28 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:28 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:28 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:28 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:28 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:28 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:28 --> Model "User" initialized
+INFO - 2024-08-19 23:31:28 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:28 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:28 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:28 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:28 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:28 --> Controller Class Initialized
+ERROR - 2024-08-19 23:31:28 --> Severity: Notice --> Undefined offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:31:28 --> Config Class Initialized
+INFO - 2024-08-19 23:31:28 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:28 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:28 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:28 --> URI Class Initialized
+INFO - 2024-08-19 23:31:28 --> Router Class Initialized
+INFO - 2024-08-19 23:31:28 --> Output Class Initialized
+INFO - 2024-08-19 23:31:28 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:28 --> Input Class Initialized
+INFO - 2024-08-19 23:31:28 --> Language Class Initialized
+INFO - 2024-08-19 23:31:28 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:28 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:28 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:28 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:28 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:28 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:28 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:28 --> Email Class Initialized
+INFO - 2024-08-19 23:31:28 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:28 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:28 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:28 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:28 --> Table Class Initialized
+INFO - 2024-08-19 23:31:28 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:28 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:28 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:28 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:28 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:28 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:28 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:28 --> Model "User" initialized
+INFO - 2024-08-19 23:31:28 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:28 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:28 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:28 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:28 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:28 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:28 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:28 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:28 --> Total execution time: 0.0060
+INFO - 2024-08-19 23:31:29 --> Config Class Initialized
+INFO - 2024-08-19 23:31:29 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:29 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:29 --> URI Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:31:29 --> Router Class Initialized
+INFO - 2024-08-19 23:31:29 --> Output Class Initialized
+INFO - 2024-08-19 23:31:29 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:29 --> Input Class Initialized
+INFO - 2024-08-19 23:31:29 --> Language Class Initialized
+INFO - 2024-08-19 23:31:29 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:29 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:29 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:29 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:29 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:29 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:29 --> Email Class Initialized
+INFO - 2024-08-19 23:31:29 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:29 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:29 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:29 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:29 --> Table Class Initialized
+INFO - 2024-08-19 23:31:29 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:29 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:29 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:29 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:29 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:29 --> Model "User" initialized
+INFO - 2024-08-19 23:31:29 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:29 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:29 --> Controller Class Initialized
+ERROR - 2024-08-19 23:31:29 --> Severity: Notice --> Undefined offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:31:29 --> Config Class Initialized
+INFO - 2024-08-19 23:31:29 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:29 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:29 --> URI Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:31:29 --> Router Class Initialized
+INFO - 2024-08-19 23:31:29 --> Output Class Initialized
+INFO - 2024-08-19 23:31:29 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:29 --> Input Class Initialized
+INFO - 2024-08-19 23:31:29 --> Language Class Initialized
+INFO - 2024-08-19 23:31:29 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:29 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:29 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:29 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:29 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:29 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:29 --> Email Class Initialized
+INFO - 2024-08-19 23:31:29 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:29 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:29 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:29 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:29 --> Table Class Initialized
+INFO - 2024-08-19 23:31:29 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:29 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:29 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:29 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:29 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:29 --> Model "User" initialized
+INFO - 2024-08-19 23:31:29 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:29 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:29 --> Controller Class Initialized
+ERROR - 2024-08-19 23:31:29 --> Severity: Notice --> Undefined offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:31:29 --> Config Class Initialized
+INFO - 2024-08-19 23:31:29 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:29 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:29 --> URI Class Initialized
+INFO - 2024-08-19 23:31:29 --> Router Class Initialized
+INFO - 2024-08-19 23:31:29 --> Output Class Initialized
+INFO - 2024-08-19 23:31:29 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:29 --> Input Class Initialized
+INFO - 2024-08-19 23:31:29 --> Language Class Initialized
+INFO - 2024-08-19 23:31:29 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:29 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:29 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:29 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:29 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:29 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:29 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:29 --> Email Class Initialized
+INFO - 2024-08-19 23:31:29 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:29 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:29 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:29 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:29 --> Table Class Initialized
+INFO - 2024-08-19 23:31:29 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:29 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:29 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:29 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:29 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:29 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:29 --> Model "User" initialized
+INFO - 2024-08-19 23:31:29 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:29 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:29 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:29 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:29 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:29 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:29 --> Total execution time: 0.0066
+INFO - 2024-08-19 23:31:30 --> Config Class Initialized
+INFO - 2024-08-19 23:31:30 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:30 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:30 --> URI Class Initialized
+INFO - 2024-08-19 23:31:30 --> Router Class Initialized
+INFO - 2024-08-19 23:31:30 --> Output Class Initialized
+INFO - 2024-08-19 23:31:30 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:30 --> Input Class Initialized
+INFO - 2024-08-19 23:31:30 --> Language Class Initialized
+INFO - 2024-08-19 23:31:30 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:30 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:30 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:30 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:30 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:30 --> Email Class Initialized
+INFO - 2024-08-19 23:31:30 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:30 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:30 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:30 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:30 --> Table Class Initialized
+INFO - 2024-08-19 23:31:30 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:30 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:30 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:30 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:30 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:30 --> Model "User" initialized
+INFO - 2024-08-19 23:31:30 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:30 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:30 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:30 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:30 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:30 --> Total execution time: 0.0122
+INFO - 2024-08-19 23:31:30 --> Config Class Initialized
+INFO - 2024-08-19 23:31:30 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:30 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:30 --> URI Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:31:30 --> Router Class Initialized
+INFO - 2024-08-19 23:31:30 --> Output Class Initialized
+INFO - 2024-08-19 23:31:30 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:30 --> Input Class Initialized
+INFO - 2024-08-19 23:31:30 --> Language Class Initialized
+INFO - 2024-08-19 23:31:30 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:30 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:30 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:30 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:30 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:30 --> Email Class Initialized
+INFO - 2024-08-19 23:31:30 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:30 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:30 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:30 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:30 --> Table Class Initialized
+INFO - 2024-08-19 23:31:30 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:30 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:30 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:30 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:30 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:30 --> Model "User" initialized
+INFO - 2024-08-19 23:31:30 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:30 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:30 --> Controller Class Initialized
+ERROR - 2024-08-19 23:31:30 --> Severity: Notice --> Undefined offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:31:30 --> Config Class Initialized
+INFO - 2024-08-19 23:31:30 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:30 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:30 --> URI Class Initialized
+INFO - 2024-08-19 23:31:30 --> Router Class Initialized
+INFO - 2024-08-19 23:31:30 --> Output Class Initialized
+INFO - 2024-08-19 23:31:30 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:30 --> Input Class Initialized
+INFO - 2024-08-19 23:31:30 --> Language Class Initialized
+ERROR - 2024-08-19 23:31:30 --> 404 Page Not Found: Main/assets
+INFO - 2024-08-19 23:31:30 --> Config Class Initialized
+INFO - 2024-08-19 23:31:30 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:30 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:30 --> URI Class Initialized
+INFO - 2024-08-19 23:31:30 --> Router Class Initialized
+INFO - 2024-08-19 23:31:30 --> Output Class Initialized
+INFO - 2024-08-19 23:31:30 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:30 --> Input Class Initialized
+INFO - 2024-08-19 23:31:30 --> Language Class Initialized
+INFO - 2024-08-19 23:31:30 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:30 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:30 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:30 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:30 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:30 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:30 --> Email Class Initialized
+INFO - 2024-08-19 23:31:30 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:30 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:30 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:30 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:30 --> Table Class Initialized
+INFO - 2024-08-19 23:31:30 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:30 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:30 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:30 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:30 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:30 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:30 --> Model "User" initialized
+INFO - 2024-08-19 23:31:30 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:30 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:30 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:30 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:30 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:30 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:30 --> Total execution time: 0.0055
+INFO - 2024-08-19 23:31:33 --> Config Class Initialized
+INFO - 2024-08-19 23:31:33 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:33 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:33 --> URI Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:31:33 --> Router Class Initialized
+INFO - 2024-08-19 23:31:33 --> Output Class Initialized
+INFO - 2024-08-19 23:31:33 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:33 --> Input Class Initialized
+INFO - 2024-08-19 23:31:33 --> Language Class Initialized
+INFO - 2024-08-19 23:31:33 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:33 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:33 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:33 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:33 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:33 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:33 --> Email Class Initialized
+INFO - 2024-08-19 23:31:33 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:33 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:33 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:33 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:33 --> Table Class Initialized
+INFO - 2024-08-19 23:31:33 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:33 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:33 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:33 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:33 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:33 --> Model "User" initialized
+INFO - 2024-08-19 23:31:33 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:33 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:33 --> Controller Class Initialized
+ERROR - 2024-08-19 23:31:33 --> Severity: Notice --> Undefined offset: 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:31:33 --> Config Class Initialized
+INFO - 2024-08-19 23:31:33 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:33 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:33 --> URI Class Initialized
+INFO - 2024-08-19 23:31:33 --> Router Class Initialized
+INFO - 2024-08-19 23:31:33 --> Output Class Initialized
+INFO - 2024-08-19 23:31:33 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:33 --> Input Class Initialized
+INFO - 2024-08-19 23:31:33 --> Language Class Initialized
+INFO - 2024-08-19 23:31:33 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:33 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:33 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:33 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:33 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:33 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:33 --> Email Class Initialized
+INFO - 2024-08-19 23:31:33 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:33 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:33 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:33 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:33 --> Table Class Initialized
+INFO - 2024-08-19 23:31:33 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:33 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:33 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:33 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:33 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:33 --> Model "User" initialized
+INFO - 2024-08-19 23:31:33 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:33 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:33 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:33 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2024-08-19 23:31:33 --> Severity: Warning --> hash(): Unknown hashing algorithm: SHA512/256 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 59
+INFO - 2024-08-19 23:31:33 --> Config Class Initialized
+INFO - 2024-08-19 23:31:33 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:33 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:33 --> URI Class Initialized
+INFO - 2024-08-19 23:31:33 --> Router Class Initialized
+INFO - 2024-08-19 23:31:33 --> Output Class Initialized
+INFO - 2024-08-19 23:31:33 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:33 --> Input Class Initialized
+INFO - 2024-08-19 23:31:33 --> Language Class Initialized
+INFO - 2024-08-19 23:31:33 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:33 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:33 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:33 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:33 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:33 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:33 --> Email Class Initialized
+INFO - 2024-08-19 23:31:33 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:33 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:33 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:33 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:33 --> Table Class Initialized
+INFO - 2024-08-19 23:31:33 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:33 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:33 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:33 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:33 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:33 --> Model "User" initialized
+INFO - 2024-08-19 23:31:33 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:33 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:33 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:33 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:33 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:33 --> Total execution time: 0.0055
+INFO - 2024-08-19 23:31:33 --> Config Class Initialized
+INFO - 2024-08-19 23:31:33 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:33 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:33 --> URI Class Initialized
+INFO - 2024-08-19 23:31:33 --> Router Class Initialized
+INFO - 2024-08-19 23:31:33 --> Output Class Initialized
+INFO - 2024-08-19 23:31:33 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:33 --> Input Class Initialized
+INFO - 2024-08-19 23:31:33 --> Language Class Initialized
+INFO - 2024-08-19 23:31:33 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:33 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:33 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:33 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:33 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:33 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:33 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:33 --> Email Class Initialized
+INFO - 2024-08-19 23:31:33 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:33 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:33 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:33 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:33 --> Table Class Initialized
+INFO - 2024-08-19 23:31:33 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:33 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:33 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:33 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:33 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:33 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:33 --> Model "User" initialized
+INFO - 2024-08-19 23:31:33 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:33 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:33 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:33 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:33 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:33 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:33 --> Total execution time: 0.0110
+INFO - 2024-08-19 23:31:34 --> Config Class Initialized
+INFO - 2024-08-19 23:31:34 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:34 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:34 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:34 --> URI Class Initialized
+INFO - 2024-08-19 23:31:34 --> Router Class Initialized
+INFO - 2024-08-19 23:31:34 --> Output Class Initialized
+INFO - 2024-08-19 23:31:34 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:34 --> Input Class Initialized
+INFO - 2024-08-19 23:31:34 --> Language Class Initialized
+ERROR - 2024-08-19 23:31:34 --> 404 Page Not Found: Main/assets
+INFO - 2024-08-19 23:31:35 --> Config Class Initialized
+INFO - 2024-08-19 23:31:35 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:35 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:35 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:35 --> URI Class Initialized
+INFO - 2024-08-19 23:31:35 --> Router Class Initialized
+INFO - 2024-08-19 23:31:35 --> Output Class Initialized
+INFO - 2024-08-19 23:31:35 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:35 --> Input Class Initialized
+INFO - 2024-08-19 23:31:35 --> Language Class Initialized
+ERROR - 2024-08-19 23:31:35 --> 404 Page Not Found: Main/assets
+INFO - 2024-08-19 23:31:40 --> Config Class Initialized
+INFO - 2024-08-19 23:31:40 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:40 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:40 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:40 --> URI Class Initialized
+INFO - 2024-08-19 23:31:40 --> Router Class Initialized
+INFO - 2024-08-19 23:31:40 --> Output Class Initialized
+INFO - 2024-08-19 23:31:40 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:40 --> Input Class Initialized
+INFO - 2024-08-19 23:31:40 --> Language Class Initialized
+INFO - 2024-08-19 23:31:40 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:40 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:40 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:40 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:40 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:40 --> Email Class Initialized
+INFO - 2024-08-19 23:31:40 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:40 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:40 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:40 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:40 --> Table Class Initialized
+INFO - 2024-08-19 23:31:40 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:40 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:40 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:40 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:40 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:40 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:40 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:40 --> Model "User" initialized
+INFO - 2024-08-19 23:31:40 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:40 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:40 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:40 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:40 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:40 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:40 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2024-08-19 23:31:40 --> Severity: Warning --> hash(): Unknown hashing algorithm: SHA512/256 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 59
+INFO - 2024-08-19 23:31:40 --> Config Class Initialized
+INFO - 2024-08-19 23:31:40 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:40 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:40 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:40 --> URI Class Initialized
+INFO - 2024-08-19 23:31:40 --> Router Class Initialized
+INFO - 2024-08-19 23:31:40 --> Output Class Initialized
+INFO - 2024-08-19 23:31:40 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:40 --> Input Class Initialized
+INFO - 2024-08-19 23:31:40 --> Language Class Initialized
+INFO - 2024-08-19 23:31:40 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:40 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:40 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:40 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:40 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:40 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:40 --> Email Class Initialized
+INFO - 2024-08-19 23:31:40 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:40 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:40 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:40 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:40 --> Table Class Initialized
+INFO - 2024-08-19 23:31:40 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:40 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:40 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:40 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:40 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:40 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:40 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:40 --> Model "User" initialized
+INFO - 2024-08-19 23:31:40 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:40 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:40 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:40 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:40 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:40 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:40 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:40 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:40 --> Total execution time: 0.0060
+INFO - 2024-08-19 23:31:45 --> Config Class Initialized
+INFO - 2024-08-19 23:31:45 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:45 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:45 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:45 --> URI Class Initialized
+INFO - 2024-08-19 23:31:45 --> Router Class Initialized
+INFO - 2024-08-19 23:31:45 --> Output Class Initialized
+INFO - 2024-08-19 23:31:45 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:45 --> Input Class Initialized
+INFO - 2024-08-19 23:31:45 --> Language Class Initialized
+INFO - 2024-08-19 23:31:45 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:45 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:45 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:45 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:45 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:45 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:45 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:45 --> Email Class Initialized
+INFO - 2024-08-19 23:31:45 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:45 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:45 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:45 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:45 --> Table Class Initialized
+INFO - 2024-08-19 23:31:45 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:45 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:45 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:45 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:45 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:45 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:45 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:45 --> Model "User" initialized
+INFO - 2024-08-19 23:31:45 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:45 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:45 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:45 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:45 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:45 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:45 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-08-19 23:31:45 --> Config Class Initialized
+INFO - 2024-08-19 23:31:45 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:45 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:45 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:45 --> URI Class Initialized
+INFO - 2024-08-19 23:31:45 --> Router Class Initialized
+INFO - 2024-08-19 23:31:45 --> Output Class Initialized
+INFO - 2024-08-19 23:31:45 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:45 --> Input Class Initialized
+INFO - 2024-08-19 23:31:45 --> Language Class Initialized
+INFO - 2024-08-19 23:31:45 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:45 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:45 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:45 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:45 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:45 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:45 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:45 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:45 --> Email Class Initialized
+INFO - 2024-08-19 23:31:45 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:45 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:45 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:45 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:45 --> Table Class Initialized
+INFO - 2024-08-19 23:31:45 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:45 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:45 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:45 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:31:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:45 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:45 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:45 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:45 --> Model "User" initialized
+INFO - 2024-08-19 23:31:45 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:45 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:45 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:45 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:45 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:45 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:45 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:31:45 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:45 --> Total execution time: 0.0103
+INFO - 2024-08-19 23:32:04 --> Config Class Initialized
+INFO - 2024-08-19 23:32:04 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:04 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:04 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:04 --> URI Class Initialized
+INFO - 2024-08-19 23:32:04 --> Router Class Initialized
+INFO - 2024-08-19 23:32:04 --> Output Class Initialized
+INFO - 2024-08-19 23:32:04 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:04 --> Input Class Initialized
+INFO - 2024-08-19 23:32:04 --> Language Class Initialized
+ERROR - 2024-08-19 23:32:04 --> 404 Page Not Found: Main/favicon.ico
+INFO - 2024-08-19 23:32:25 --> Config Class Initialized
+INFO - 2024-08-19 23:32:25 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:25 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:25 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:25 --> URI Class Initialized
+INFO - 2024-08-19 23:32:25 --> Router Class Initialized
+INFO - 2024-08-19 23:32:25 --> Output Class Initialized
+INFO - 2024-08-19 23:32:25 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:25 --> Input Class Initialized
+INFO - 2024-08-19 23:32:25 --> Language Class Initialized
+INFO - 2024-08-19 23:32:25 --> Loader Class Initialized
+INFO - 2024-08-19 23:32:25 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:32:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:32:25 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:32:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:32:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:32:25 --> Encryption Class Initialized
+INFO - 2024-08-19 23:32:25 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:32:25 --> Parser Class Initialized
+INFO - 2024-08-19 23:32:25 --> Email Class Initialized
+INFO - 2024-08-19 23:32:25 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:32:25 --> Jquery Class Initialized
+INFO - 2024-08-19 23:32:25 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:32:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:32:25 --> Pagination Class Initialized
+INFO - 2024-08-19 23:32:25 --> Table Class Initialized
+INFO - 2024-08-19 23:32:25 --> Trackback Class Initialized
+INFO - 2024-08-19 23:32:25 --> User Agent Class Initialized
+INFO - 2024-08-19 23:32:25 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:32:25 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:32:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:32:25 --> Cart Class Initialized
+INFO - 2024-08-19 23:32:25 --> Model "Sess" initialized
+INFO - 2024-08-19 23:32:25 --> Model "Msg" initialized
+INFO - 2024-08-19 23:32:25 --> Model "User" initialized
+INFO - 2024-08-19 23:32:25 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:32:25 --> Model "Orders" initialized
+INFO - 2024-08-19 23:32:25 --> Model "Finance" initialized
+INFO - 2024-08-19 23:32:25 --> Model "Customer" initialized
+INFO - 2024-08-19 23:32:25 --> Model "Products" initialized
+INFO - 2024-08-19 23:32:25 --> Controller Class Initialized
+INFO - 2024-08-19 23:32:25 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2024-08-19 23:32:25 --> Severity: Warning --> hash(): Unknown hashing algorithm: SHA512/256 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 59
+INFO - 2024-08-19 23:32:25 --> Config Class Initialized
+INFO - 2024-08-19 23:32:25 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:25 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:25 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:25 --> URI Class Initialized
+INFO - 2024-08-19 23:32:25 --> Router Class Initialized
+INFO - 2024-08-19 23:32:25 --> Output Class Initialized
+INFO - 2024-08-19 23:32:25 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:25 --> Input Class Initialized
+INFO - 2024-08-19 23:32:25 --> Language Class Initialized
+INFO - 2024-08-19 23:32:25 --> Loader Class Initialized
+INFO - 2024-08-19 23:32:25 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:32:25 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:32:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:32:25 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:32:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:32:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:32:25 --> Encryption Class Initialized
+INFO - 2024-08-19 23:32:25 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:32:25 --> Parser Class Initialized
+INFO - 2024-08-19 23:32:25 --> Email Class Initialized
+INFO - 2024-08-19 23:32:25 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:32:25 --> Jquery Class Initialized
+INFO - 2024-08-19 23:32:25 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:32:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:32:25 --> Pagination Class Initialized
+INFO - 2024-08-19 23:32:25 --> Table Class Initialized
+INFO - 2024-08-19 23:32:25 --> Trackback Class Initialized
+INFO - 2024-08-19 23:32:25 --> User Agent Class Initialized
+INFO - 2024-08-19 23:32:25 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:32:25 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:32:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:32:25 --> Cart Class Initialized
+INFO - 2024-08-19 23:32:25 --> Model "Sess" initialized
+INFO - 2024-08-19 23:32:25 --> Model "Msg" initialized
+INFO - 2024-08-19 23:32:25 --> Model "User" initialized
+INFO - 2024-08-19 23:32:25 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:32:25 --> Model "Orders" initialized
+INFO - 2024-08-19 23:32:25 --> Model "Finance" initialized
+INFO - 2024-08-19 23:32:25 --> Model "Customer" initialized
+INFO - 2024-08-19 23:32:25 --> Model "Products" initialized
+INFO - 2024-08-19 23:32:25 --> Controller Class Initialized
+INFO - 2024-08-19 23:32:25 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:32:25 --> Final output sent to browser
+DEBUG - 2024-08-19 23:32:25 --> Total execution time: 0.0093
+INFO - 2024-08-19 23:32:28 --> Config Class Initialized
+INFO - 2024-08-19 23:32:28 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:28 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:28 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:28 --> URI Class Initialized
+INFO - 2024-08-19 23:32:28 --> Router Class Initialized
+INFO - 2024-08-19 23:32:28 --> Output Class Initialized
+INFO - 2024-08-19 23:32:28 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:28 --> Input Class Initialized
+INFO - 2024-08-19 23:32:28 --> Language Class Initialized
+INFO - 2024-08-19 23:32:28 --> Loader Class Initialized
+INFO - 2024-08-19 23:32:28 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:32:28 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:32:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:32:28 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:32:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:32:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:32:28 --> Encryption Class Initialized
+INFO - 2024-08-19 23:32:28 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:32:28 --> Parser Class Initialized
+INFO - 2024-08-19 23:32:28 --> Email Class Initialized
+INFO - 2024-08-19 23:32:28 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:32:28 --> Jquery Class Initialized
+INFO - 2024-08-19 23:32:28 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:32:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:32:28 --> Pagination Class Initialized
+INFO - 2024-08-19 23:32:28 --> Table Class Initialized
+INFO - 2024-08-19 23:32:28 --> Trackback Class Initialized
+INFO - 2024-08-19 23:32:28 --> User Agent Class Initialized
+INFO - 2024-08-19 23:32:28 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:32:28 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:32:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:32:28 --> Cart Class Initialized
+INFO - 2024-08-19 23:32:28 --> Model "Sess" initialized
+INFO - 2024-08-19 23:32:28 --> Model "Msg" initialized
+INFO - 2024-08-19 23:32:28 --> Model "User" initialized
+INFO - 2024-08-19 23:32:28 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:32:28 --> Model "Orders" initialized
+INFO - 2024-08-19 23:32:28 --> Model "Finance" initialized
+INFO - 2024-08-19 23:32:28 --> Model "Customer" initialized
+INFO - 2024-08-19 23:32:28 --> Model "Products" initialized
+INFO - 2024-08-19 23:32:28 --> Controller Class Initialized
+INFO - 2024-08-19 23:32:28 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:32:28 --> Final output sent to browser
+DEBUG - 2024-08-19 23:32:28 --> Total execution time: 0.0094
+INFO - 2024-08-19 23:32:28 --> Config Class Initialized
+INFO - 2024-08-19 23:32:28 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:28 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:28 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:28 --> URI Class Initialized
+INFO - 2024-08-19 23:32:28 --> Router Class Initialized
+INFO - 2024-08-19 23:32:28 --> Output Class Initialized
+INFO - 2024-08-19 23:32:28 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:28 --> Input Class Initialized
+INFO - 2024-08-19 23:32:28 --> Language Class Initialized
+ERROR - 2024-08-19 23:32:28 --> 404 Page Not Found: Main/assets
+INFO - 2024-08-19 23:32:45 --> Config Class Initialized
+INFO - 2024-08-19 23:32:45 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:45 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:45 --> URI Class Initialized
+INFO - 2024-08-19 23:32:45 --> Router Class Initialized
+INFO - 2024-08-19 23:32:45 --> Output Class Initialized
+INFO - 2024-08-19 23:32:45 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:45 --> Input Class Initialized
+INFO - 2024-08-19 23:32:45 --> Language Class Initialized
+INFO - 2024-08-19 23:32:45 --> Loader Class Initialized
+INFO - 2024-08-19 23:32:45 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:32:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:32:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:32:45 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:32:45 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:32:45 --> Encryption Class Initialized
+INFO - 2024-08-19 23:32:45 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:32:45 --> Parser Class Initialized
+INFO - 2024-08-19 23:32:45 --> Email Class Initialized
+INFO - 2024-08-19 23:32:45 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:32:45 --> Jquery Class Initialized
+INFO - 2024-08-19 23:32:45 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:32:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:32:45 --> Pagination Class Initialized
+INFO - 2024-08-19 23:32:45 --> Table Class Initialized
+INFO - 2024-08-19 23:32:45 --> Trackback Class Initialized
+INFO - 2024-08-19 23:32:45 --> User Agent Class Initialized
+INFO - 2024-08-19 23:32:45 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:32:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:32:45 --> Cart Class Initialized
+INFO - 2024-08-19 23:32:45 --> Model "Sess" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Msg" initialized
+INFO - 2024-08-19 23:32:45 --> Model "User" initialized
+INFO - 2024-08-19 23:32:45 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:32:45 --> Model "Orders" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Finance" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Customer" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Products" initialized
+INFO - 2024-08-19 23:32:45 --> Controller Class Initialized
+INFO - 2024-08-19 23:32:45 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2024-08-19 23:32:45 --> Severity: Warning --> hash(): Unknown hashing algorithm: SHA512/256 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 59
+INFO - 2024-08-19 23:32:45 --> Config Class Initialized
+INFO - 2024-08-19 23:32:45 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:45 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:45 --> URI Class Initialized
+INFO - 2024-08-19 23:32:45 --> Router Class Initialized
+INFO - 2024-08-19 23:32:45 --> Output Class Initialized
+INFO - 2024-08-19 23:32:45 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:45 --> Input Class Initialized
+INFO - 2024-08-19 23:32:45 --> Language Class Initialized
+INFO - 2024-08-19 23:32:45 --> Loader Class Initialized
+INFO - 2024-08-19 23:32:45 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:32:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:32:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:32:45 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:32:45 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:32:45 --> Encryption Class Initialized
+INFO - 2024-08-19 23:32:45 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:32:45 --> Parser Class Initialized
+INFO - 2024-08-19 23:32:45 --> Email Class Initialized
+INFO - 2024-08-19 23:32:45 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:32:45 --> Jquery Class Initialized
+INFO - 2024-08-19 23:32:45 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:32:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:32:45 --> Pagination Class Initialized
+INFO - 2024-08-19 23:32:45 --> Table Class Initialized
+INFO - 2024-08-19 23:32:45 --> Trackback Class Initialized
+INFO - 2024-08-19 23:32:45 --> User Agent Class Initialized
+INFO - 2024-08-19 23:32:45 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:32:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:32:45 --> Cart Class Initialized
+INFO - 2024-08-19 23:32:45 --> Model "Sess" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Msg" initialized
+INFO - 2024-08-19 23:32:45 --> Model "User" initialized
+INFO - 2024-08-19 23:32:45 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:32:45 --> Model "Orders" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Finance" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Customer" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Products" initialized
+INFO - 2024-08-19 23:32:45 --> Controller Class Initialized
+INFO - 2024-08-19 23:32:45 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:32:45 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:32:45 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/main.php
+INFO - 2024-08-19 23:32:45 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:32:45 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:32:45 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:32:45 --> Final output sent to browser
+DEBUG - 2024-08-19 23:32:45 --> Total execution time: 0.0119
+INFO - 2024-08-19 23:32:45 --> Config Class Initialized
+INFO - 2024-08-19 23:32:45 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:45 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:45 --> URI Class Initialized
+INFO - 2024-08-19 23:32:45 --> Router Class Initialized
+INFO - 2024-08-19 23:32:45 --> Output Class Initialized
+INFO - 2024-08-19 23:32:45 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:45 --> Input Class Initialized
+INFO - 2024-08-19 23:32:45 --> Language Class Initialized
+INFO - 2024-08-19 23:32:45 --> Loader Class Initialized
+INFO - 2024-08-19 23:32:45 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:32:45 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:32:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:32:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:32:45 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:32:45 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:32:45 --> Encryption Class Initialized
+INFO - 2024-08-19 23:32:45 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:32:45 --> Parser Class Initialized
+INFO - 2024-08-19 23:32:45 --> Email Class Initialized
+INFO - 2024-08-19 23:32:45 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:32:45 --> Jquery Class Initialized
+INFO - 2024-08-19 23:32:45 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:32:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:32:45 --> Pagination Class Initialized
+INFO - 2024-08-19 23:32:45 --> Table Class Initialized
+INFO - 2024-08-19 23:32:45 --> Trackback Class Initialized
+INFO - 2024-08-19 23:32:45 --> User Agent Class Initialized
+INFO - 2024-08-19 23:32:45 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:32:45 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:32:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:32:45 --> Cart Class Initialized
+INFO - 2024-08-19 23:32:45 --> Model "Sess" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Msg" initialized
+INFO - 2024-08-19 23:32:45 --> Model "User" initialized
+INFO - 2024-08-19 23:32:45 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:32:45 --> Model "Orders" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Finance" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Customer" initialized
+INFO - 2024-08-19 23:32:45 --> Model "Products" initialized
+INFO - 2024-08-19 23:32:45 --> Controller Class Initialized
+INFO - 2024-08-19 23:32:45 --> Final output sent to browser
+DEBUG - 2024-08-19 23:32:45 --> Total execution time: 0.0056
+INFO - 2024-08-19 23:32:48 --> Config Class Initialized
+INFO - 2024-08-19 23:32:48 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:48 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:48 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:48 --> URI Class Initialized
+INFO - 2024-08-19 23:32:48 --> Router Class Initialized
+INFO - 2024-08-19 23:32:48 --> Output Class Initialized
+INFO - 2024-08-19 23:32:48 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:48 --> Input Class Initialized
+INFO - 2024-08-19 23:32:48 --> Language Class Initialized
+INFO - 2024-08-19 23:32:48 --> Loader Class Initialized
+INFO - 2024-08-19 23:32:48 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:32:48 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:32:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:32:48 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:32:48 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:32:48 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:32:48 --> Encryption Class Initialized
+INFO - 2024-08-19 23:32:48 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:32:48 --> Parser Class Initialized
+INFO - 2024-08-19 23:32:48 --> Email Class Initialized
+INFO - 2024-08-19 23:32:48 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:32:48 --> Jquery Class Initialized
+INFO - 2024-08-19 23:32:48 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:32:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:32:48 --> Pagination Class Initialized
+INFO - 2024-08-19 23:32:48 --> Table Class Initialized
+INFO - 2024-08-19 23:32:48 --> Trackback Class Initialized
+INFO - 2024-08-19 23:32:48 --> User Agent Class Initialized
+INFO - 2024-08-19 23:32:48 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:32:48 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:32:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:32:48 --> Cart Class Initialized
+INFO - 2024-08-19 23:32:48 --> Model "Sess" initialized
+INFO - 2024-08-19 23:32:48 --> Model "Msg" initialized
+INFO - 2024-08-19 23:32:48 --> Model "User" initialized
+INFO - 2024-08-19 23:32:48 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:32:48 --> Model "Orders" initialized
+INFO - 2024-08-19 23:32:48 --> Model "Finance" initialized
+INFO - 2024-08-19 23:32:48 --> Model "Customer" initialized
+INFO - 2024-08-19 23:32:48 --> Model "Products" initialized
+INFO - 2024-08-19 23:32:48 --> Controller Class Initialized
+ERROR - 2024-08-19 23:32:48 --> Severity: error --> Exception: Unable to locate the model you have specified: Alist /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Loader.php 350
+INFO - 2024-08-19 23:32:48 --> Config Class Initialized
+INFO - 2024-08-19 23:32:48 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:32:48 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:32:48 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:32:48 --> URI Class Initialized
+INFO - 2024-08-19 23:32:48 --> Router Class Initialized
+INFO - 2024-08-19 23:32:48 --> Output Class Initialized
+INFO - 2024-08-19 23:32:48 --> Security Class Initialized
+DEBUG - 2024-08-19 23:32:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:32:48 --> Input Class Initialized
+INFO - 2024-08-19 23:32:48 --> Language Class Initialized
+ERROR - 2024-08-19 23:32:48 --> 404 Page Not Found: Main/favicon.ico
+INFO - 2024-08-19 23:33:09 --> Config Class Initialized
+INFO - 2024-08-19 23:33:09 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:33:09 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:33:09 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:33:09 --> URI Class Initialized
+INFO - 2024-08-19 23:33:09 --> Router Class Initialized
+INFO - 2024-08-19 23:33:09 --> Output Class Initialized
+INFO - 2024-08-19 23:33:09 --> Security Class Initialized
+DEBUG - 2024-08-19 23:33:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:33:09 --> Input Class Initialized
+INFO - 2024-08-19 23:33:09 --> Language Class Initialized
+INFO - 2024-08-19 23:33:09 --> Loader Class Initialized
+INFO - 2024-08-19 23:33:09 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:33:09 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:33:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:33:09 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:33:09 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:33:09 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:33:09 --> Encryption Class Initialized
+INFO - 2024-08-19 23:33:09 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:33:09 --> Parser Class Initialized
+INFO - 2024-08-19 23:33:09 --> Email Class Initialized
+INFO - 2024-08-19 23:33:09 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:33:09 --> Jquery Class Initialized
+INFO - 2024-08-19 23:33:09 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:33:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:33:09 --> Pagination Class Initialized
+INFO - 2024-08-19 23:33:09 --> Table Class Initialized
+INFO - 2024-08-19 23:33:09 --> Trackback Class Initialized
+INFO - 2024-08-19 23:33:09 --> User Agent Class Initialized
+INFO - 2024-08-19 23:33:09 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:33:09 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:33:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:33:09 --> Cart Class Initialized
+INFO - 2024-08-19 23:33:09 --> Model "Sess" initialized
+INFO - 2024-08-19 23:33:09 --> Model "Msg" initialized
+INFO - 2024-08-19 23:33:09 --> Model "User" initialized
+INFO - 2024-08-19 23:33:09 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:33:09 --> Model "Orders" initialized
+INFO - 2024-08-19 23:33:09 --> Model "Finance" initialized
+INFO - 2024-08-19 23:33:09 --> Model "Customer" initialized
+INFO - 2024-08-19 23:33:09 --> Model "Products" initialized
+INFO - 2024-08-19 23:33:09 --> Controller Class Initialized
+ERROR - 2024-08-19 23:33:09 --> Severity: error --> Exception: Unable to locate the model you have specified: Alist /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Loader.php 350
+INFO - 2024-08-19 23:33:11 --> Config Class Initialized
+INFO - 2024-08-19 23:33:11 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:33:11 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:33:11 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:33:11 --> URI Class Initialized
+INFO - 2024-08-19 23:33:11 --> Router Class Initialized
+INFO - 2024-08-19 23:33:11 --> Output Class Initialized
+INFO - 2024-08-19 23:33:11 --> Security Class Initialized
+DEBUG - 2024-08-19 23:33:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:33:11 --> Input Class Initialized
+INFO - 2024-08-19 23:33:11 --> Language Class Initialized
+INFO - 2024-08-19 23:33:11 --> Loader Class Initialized
+INFO - 2024-08-19 23:33:11 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:33:11 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:33:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:33:11 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:33:11 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:33:11 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:33:11 --> Encryption Class Initialized
+INFO - 2024-08-19 23:33:11 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:33:11 --> Parser Class Initialized
+INFO - 2024-08-19 23:33:11 --> Email Class Initialized
+INFO - 2024-08-19 23:33:11 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:33:11 --> Jquery Class Initialized
+INFO - 2024-08-19 23:33:11 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:33:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:33:11 --> Pagination Class Initialized
+INFO - 2024-08-19 23:33:11 --> Table Class Initialized
+INFO - 2024-08-19 23:33:11 --> Trackback Class Initialized
+INFO - 2024-08-19 23:33:11 --> User Agent Class Initialized
+INFO - 2024-08-19 23:33:11 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:33:11 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:33:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:33:11 --> Cart Class Initialized
+INFO - 2024-08-19 23:33:11 --> Model "Sess" initialized
+INFO - 2024-08-19 23:33:11 --> Model "Msg" initialized
+INFO - 2024-08-19 23:33:11 --> Model "User" initialized
+INFO - 2024-08-19 23:33:11 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:33:11 --> Model "Orders" initialized
+INFO - 2024-08-19 23:33:11 --> Model "Finance" initialized
+INFO - 2024-08-19 23:33:11 --> Model "Customer" initialized
+INFO - 2024-08-19 23:33:11 --> Model "Products" initialized
+INFO - 2024-08-19 23:33:11 --> Controller Class Initialized
+ERROR - 2024-08-19 23:33:11 --> Severity: error --> Exception: Unable to locate the model you have specified: Alist /home/clanwebh/bscrm.tajtizoltan.hu/system/core/Loader.php 350
+INFO - 2024-08-19 23:33:22 --> Config Class Initialized
+INFO - 2024-08-19 23:33:22 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:33:22 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:33:22 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:33:22 --> URI Class Initialized
+INFO - 2024-08-19 23:33:22 --> Router Class Initialized
+INFO - 2024-08-19 23:33:22 --> Output Class Initialized
+INFO - 2024-08-19 23:33:22 --> Security Class Initialized
+DEBUG - 2024-08-19 23:33:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:33:22 --> Input Class Initialized
+INFO - 2024-08-19 23:33:22 --> Language Class Initialized
+INFO - 2024-08-19 23:33:22 --> Loader Class Initialized
+INFO - 2024-08-19 23:33:22 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:33:22 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:33:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:33:22 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:33:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:33:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:33:22 --> Encryption Class Initialized
+INFO - 2024-08-19 23:33:22 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:33:22 --> Parser Class Initialized
+INFO - 2024-08-19 23:33:22 --> Email Class Initialized
+INFO - 2024-08-19 23:33:22 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:33:22 --> Jquery Class Initialized
+INFO - 2024-08-19 23:33:22 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:33:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:33:22 --> Pagination Class Initialized
+INFO - 2024-08-19 23:33:22 --> Table Class Initialized
+INFO - 2024-08-19 23:33:22 --> Trackback Class Initialized
+INFO - 2024-08-19 23:33:22 --> User Agent Class Initialized
+INFO - 2024-08-19 23:33:22 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:33:22 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:33:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:33:22 --> Cart Class Initialized
+INFO - 2024-08-19 23:33:22 --> Model "Sess" initialized
+INFO - 2024-08-19 23:33:22 --> Model "Msg" initialized
+INFO - 2024-08-19 23:33:22 --> Model "User" initialized
+INFO - 2024-08-19 23:33:22 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:33:22 --> Model "Orders" initialized
+INFO - 2024-08-19 23:33:22 --> Model "Finance" initialized
+INFO - 2024-08-19 23:33:22 --> Model "Customer" initialized
+INFO - 2024-08-19 23:33:22 --> Model "Products" initialized
+INFO - 2024-08-19 23:33:22 --> Controller Class Initialized
+ERROR - 2024-08-19 23:33:22 --> Severity: Compile Error --> Default value for parameters with a class type hint can only be NULL /home/clanwebh/bscrm.tajtizoltan.hu/application/models/Alist.php 70
+INFO - 2024-08-19 23:34:30 --> Config Class Initialized
+INFO - 2024-08-19 23:34:30 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:30 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:30 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:30 --> URI Class Initialized
+INFO - 2024-08-19 23:34:30 --> Router Class Initialized
+INFO - 2024-08-19 23:34:30 --> Output Class Initialized
+INFO - 2024-08-19 23:34:30 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:30 --> Input Class Initialized
+INFO - 2024-08-19 23:34:30 --> Language Class Initialized
+INFO - 2024-08-19 23:34:30 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:30 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:30 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:30 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:30 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:30 --> Email Class Initialized
+INFO - 2024-08-19 23:34:30 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:30 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:30 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:30 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:30 --> Table Class Initialized
+INFO - 2024-08-19 23:34:30 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:30 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:30 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:30 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:30 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:30 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:30 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:30 --> Model "User" initialized
+INFO - 2024-08-19 23:34:30 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:30 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:30 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:30 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:30 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:30 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:30 --> Model "Alist" initialized
+INFO - 2024-08-19 23:34:30 --> Model "AForm" initialized
+INFO - 2024-08-19 23:34:30 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:30 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:30 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/admin/_list.php
+INFO - 2024-08-19 23:34:30 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:30 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:30 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:30 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:30 --> Total execution time: 0.0916
+INFO - 2024-08-19 23:34:30 --> Config Class Initialized
+INFO - 2024-08-19 23:34:30 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:30 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:30 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:30 --> URI Class Initialized
+INFO - 2024-08-19 23:34:30 --> Router Class Initialized
+INFO - 2024-08-19 23:34:30 --> Output Class Initialized
+INFO - 2024-08-19 23:34:30 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:30 --> Input Class Initialized
+INFO - 2024-08-19 23:34:30 --> Language Class Initialized
+INFO - 2024-08-19 23:34:30 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:30 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:30 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:30 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:30 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:30 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:30 --> Email Class Initialized
+INFO - 2024-08-19 23:34:30 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:30 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:30 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:30 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:30 --> Table Class Initialized
+INFO - 2024-08-19 23:34:30 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:30 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:30 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:30 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:30 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:30 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:30 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:30 --> Model "User" initialized
+INFO - 2024-08-19 23:34:30 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:30 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:30 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:30 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:30 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:30 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:30 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:30 --> Total execution time: 0.0066
+INFO - 2024-08-19 23:34:32 --> Config Class Initialized
+INFO - 2024-08-19 23:34:32 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:32 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:32 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:32 --> URI Class Initialized
+DEBUG - 2024-08-19 23:34:32 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:34:32 --> Router Class Initialized
+INFO - 2024-08-19 23:34:32 --> Output Class Initialized
+INFO - 2024-08-19 23:34:32 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:32 --> Input Class Initialized
+INFO - 2024-08-19 23:34:32 --> Language Class Initialized
+INFO - 2024-08-19 23:34:32 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:32 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:32 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:32 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:32 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:32 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:32 --> Email Class Initialized
+INFO - 2024-08-19 23:34:32 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:32 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:32 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:32 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:32 --> Table Class Initialized
+INFO - 2024-08-19 23:34:32 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:32 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:32 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:32 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:32 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:32 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:32 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:32 --> Model "User" initialized
+INFO - 2024-08-19 23:34:32 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:32 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:32 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:32 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:32 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:32 --> Controller Class Initialized
+ERROR - 2024-08-19 23:34:32 --> Severity: Warning --> Undefined array key 0 /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+ERROR - 2024-08-19 23:34:32 --> Severity: Warning --> Trying to access array offset on value of type null /home/clanwebh/bscrm.tajtizoltan.hu/application/models/User.php 93
+INFO - 2024-08-19 23:34:32 --> Config Class Initialized
+INFO - 2024-08-19 23:34:32 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:32 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:32 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:32 --> URI Class Initialized
+INFO - 2024-08-19 23:34:32 --> Router Class Initialized
+INFO - 2024-08-19 23:34:32 --> Output Class Initialized
+INFO - 2024-08-19 23:34:32 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:32 --> Input Class Initialized
+INFO - 2024-08-19 23:34:32 --> Language Class Initialized
+INFO - 2024-08-19 23:34:32 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:32 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:32 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:32 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:32 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:32 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:32 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:32 --> Email Class Initialized
+INFO - 2024-08-19 23:34:32 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:32 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:32 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:32 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:32 --> Table Class Initialized
+INFO - 2024-08-19 23:34:32 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:32 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:32 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:32 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:32 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:32 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:32 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:32 --> Model "User" initialized
+INFO - 2024-08-19 23:34:32 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:32 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:32 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:32 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:32 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:32 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:32 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:34:32 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:32 --> Total execution time: 0.0069
+INFO - 2024-08-19 23:34:35 --> Config Class Initialized
+INFO - 2024-08-19 23:34:35 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:35 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:35 --> URI Class Initialized
+INFO - 2024-08-19 23:34:35 --> Router Class Initialized
+INFO - 2024-08-19 23:34:35 --> Output Class Initialized
+INFO - 2024-08-19 23:34:35 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:35 --> Input Class Initialized
+INFO - 2024-08-19 23:34:35 --> Language Class Initialized
+INFO - 2024-08-19 23:34:35 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:35 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:35 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:35 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:35 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:35 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:35 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:35 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:35 --> Email Class Initialized
+INFO - 2024-08-19 23:34:35 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:35 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:35 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:35 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:35 --> Table Class Initialized
+INFO - 2024-08-19 23:34:35 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:35 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:35 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:35 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:35 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:35 --> Model "User" initialized
+INFO - 2024-08-19 23:34:35 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:35 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:35 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:35 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-08-19 23:34:35 --> Config Class Initialized
+INFO - 2024-08-19 23:34:35 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:35 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:35 --> URI Class Initialized
+INFO - 2024-08-19 23:34:35 --> Router Class Initialized
+INFO - 2024-08-19 23:34:35 --> Output Class Initialized
+INFO - 2024-08-19 23:34:35 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:35 --> Input Class Initialized
+INFO - 2024-08-19 23:34:35 --> Language Class Initialized
+INFO - 2024-08-19 23:34:35 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:35 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:35 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:35 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:35 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:35 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:35 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:35 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:35 --> Email Class Initialized
+INFO - 2024-08-19 23:34:35 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:35 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:35 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:35 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:35 --> Table Class Initialized
+INFO - 2024-08-19 23:34:35 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:35 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:35 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:35 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:35 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:35 --> Model "User" initialized
+INFO - 2024-08-19 23:34:35 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:35 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:35 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:35 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:35 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:35 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/main.php
+INFO - 2024-08-19 23:34:35 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:35 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:35 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:35 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:35 --> Total execution time: 0.0084
+INFO - 2024-08-19 23:34:35 --> Config Class Initialized
+INFO - 2024-08-19 23:34:35 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:35 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:35 --> URI Class Initialized
+INFO - 2024-08-19 23:34:35 --> Router Class Initialized
+INFO - 2024-08-19 23:34:35 --> Output Class Initialized
+INFO - 2024-08-19 23:34:35 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:35 --> Input Class Initialized
+INFO - 2024-08-19 23:34:35 --> Language Class Initialized
+INFO - 2024-08-19 23:34:35 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:35 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:35 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:35 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:35 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:35 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:35 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:35 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:35 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:35 --> Email Class Initialized
+INFO - 2024-08-19 23:34:35 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:35 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:35 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:35 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:35 --> Table Class Initialized
+INFO - 2024-08-19 23:34:35 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:35 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:35 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:35 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:35 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:35 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:35 --> Model "User" initialized
+INFO - 2024-08-19 23:34:35 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:35 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:35 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:35 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:35 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:35 --> Total execution time: 0.0054
+INFO - 2024-08-19 23:34:36 --> Config Class Initialized
+INFO - 2024-08-19 23:34:36 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:36 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:36 --> URI Class Initialized
+INFO - 2024-08-19 23:34:36 --> Router Class Initialized
+INFO - 2024-08-19 23:34:36 --> Output Class Initialized
+INFO - 2024-08-19 23:34:36 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:36 --> Input Class Initialized
+INFO - 2024-08-19 23:34:36 --> Language Class Initialized
+INFO - 2024-08-19 23:34:36 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:36 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:36 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:36 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:36 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:36 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:36 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:36 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:36 --> Email Class Initialized
+INFO - 2024-08-19 23:34:36 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:36 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:36 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:36 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:36 --> Table Class Initialized
+INFO - 2024-08-19 23:34:36 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:36 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:36 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:36 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:36 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:36 --> Model "User" initialized
+INFO - 2024-08-19 23:34:36 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:36 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:36 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/packages_list.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:36 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:36 --> Total execution time: 0.0073
+INFO - 2024-08-19 23:34:36 --> Config Class Initialized
+INFO - 2024-08-19 23:34:36 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:36 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:36 --> URI Class Initialized
+INFO - 2024-08-19 23:34:36 --> Router Class Initialized
+INFO - 2024-08-19 23:34:36 --> Output Class Initialized
+INFO - 2024-08-19 23:34:36 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:36 --> Input Class Initialized
+INFO - 2024-08-19 23:34:36 --> Language Class Initialized
+INFO - 2024-08-19 23:34:36 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:36 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:36 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:36 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:36 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:36 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:36 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:36 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:36 --> Email Class Initialized
+INFO - 2024-08-19 23:34:36 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:36 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:36 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:36 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:36 --> Table Class Initialized
+INFO - 2024-08-19 23:34:36 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:36 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:36 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:36 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:36 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:36 --> Model "User" initialized
+INFO - 2024-08-19 23:34:36 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:36 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:36 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:36 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:36 --> Total execution time: 0.0055
+INFO - 2024-08-19 23:34:36 --> Config Class Initialized
+INFO - 2024-08-19 23:34:36 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:36 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:36 --> URI Class Initialized
+INFO - 2024-08-19 23:34:36 --> Router Class Initialized
+INFO - 2024-08-19 23:34:36 --> Output Class Initialized
+INFO - 2024-08-19 23:34:36 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:36 --> Input Class Initialized
+INFO - 2024-08-19 23:34:36 --> Language Class Initialized
+INFO - 2024-08-19 23:34:36 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:36 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:36 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:36 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:36 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:36 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:36 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:36 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:36 --> Email Class Initialized
+INFO - 2024-08-19 23:34:36 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:36 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:36 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:36 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:36 --> Table Class Initialized
+INFO - 2024-08-19 23:34:36 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:36 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:36 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:36 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:36 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:36 --> Model "User" initialized
+INFO - 2024-08-19 23:34:36 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:36 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:36 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/summary_orders.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:36 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:36 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:36 --> Total execution time: 0.0080
+INFO - 2024-08-19 23:34:36 --> Config Class Initialized
+INFO - 2024-08-19 23:34:36 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:36 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:36 --> URI Class Initialized
+INFO - 2024-08-19 23:34:36 --> Router Class Initialized
+INFO - 2024-08-19 23:34:36 --> Output Class Initialized
+INFO - 2024-08-19 23:34:36 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:36 --> Input Class Initialized
+INFO - 2024-08-19 23:34:36 --> Language Class Initialized
+INFO - 2024-08-19 23:34:36 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:36 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:36 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:36 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:36 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:36 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:36 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:36 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:36 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:36 --> Email Class Initialized
+INFO - 2024-08-19 23:34:36 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:36 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:36 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:36 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:36 --> Table Class Initialized
+INFO - 2024-08-19 23:34:36 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:36 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:36 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:36 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:36 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:36 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:36 --> Model "User" initialized
+INFO - 2024-08-19 23:34:36 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:36 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:36 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:36 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:36 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:36 --> Total execution time: 0.0053
+INFO - 2024-08-19 23:34:37 --> Config Class Initialized
+INFO - 2024-08-19 23:34:37 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:37 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:37 --> URI Class Initialized
+INFO - 2024-08-19 23:34:37 --> Router Class Initialized
+INFO - 2024-08-19 23:34:37 --> Output Class Initialized
+INFO - 2024-08-19 23:34:37 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:37 --> Input Class Initialized
+INFO - 2024-08-19 23:34:37 --> Language Class Initialized
+INFO - 2024-08-19 23:34:37 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:37 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:37 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:37 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:37 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:37 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:37 --> Email Class Initialized
+INFO - 2024-08-19 23:34:37 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:37 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:37 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:37 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:37 --> Table Class Initialized
+INFO - 2024-08-19 23:34:37 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:37 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:37 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:37 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:37 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:37 --> Model "User" initialized
+INFO - 2024-08-19 23:34:37 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:37 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:37 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/orders_list.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:37 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:37 --> Total execution time: 0.0073
+INFO - 2024-08-19 23:34:37 --> Config Class Initialized
+INFO - 2024-08-19 23:34:37 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:37 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:37 --> URI Class Initialized
+INFO - 2024-08-19 23:34:37 --> Router Class Initialized
+INFO - 2024-08-19 23:34:37 --> Output Class Initialized
+INFO - 2024-08-19 23:34:37 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:37 --> Input Class Initialized
+INFO - 2024-08-19 23:34:37 --> Language Class Initialized
+INFO - 2024-08-19 23:34:37 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:37 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:37 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:37 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:37 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:37 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:37 --> Email Class Initialized
+INFO - 2024-08-19 23:34:37 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:37 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:37 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:37 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:37 --> Table Class Initialized
+INFO - 2024-08-19 23:34:37 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:37 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:37 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:37 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:37 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:37 --> Model "User" initialized
+INFO - 2024-08-19 23:34:37 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:37 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:37 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:37 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:37 --> Total execution time: 0.0059
+INFO - 2024-08-19 23:34:37 --> Config Class Initialized
+INFO - 2024-08-19 23:34:37 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:37 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:37 --> URI Class Initialized
+INFO - 2024-08-19 23:34:37 --> Router Class Initialized
+INFO - 2024-08-19 23:34:37 --> Output Class Initialized
+INFO - 2024-08-19 23:34:37 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:37 --> Input Class Initialized
+INFO - 2024-08-19 23:34:37 --> Language Class Initialized
+INFO - 2024-08-19 23:34:37 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:37 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:37 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:37 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:37 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:37 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:37 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:37 --> Email Class Initialized
+INFO - 2024-08-19 23:34:37 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:37 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:37 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:37 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:37 --> Table Class Initialized
+INFO - 2024-08-19 23:34:37 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:37 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:37 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:37 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:37 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:37 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:37 --> Model "User" initialized
+INFO - 2024-08-19 23:34:37 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:37 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:37 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:37 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/new_order.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:37 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:37 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:37 --> Total execution time: 0.0082
+INFO - 2024-08-19 23:34:38 --> Config Class Initialized
+INFO - 2024-08-19 23:34:38 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:38 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:38 --> URI Class Initialized
+INFO - 2024-08-19 23:34:38 --> Router Class Initialized
+INFO - 2024-08-19 23:34:38 --> Output Class Initialized
+INFO - 2024-08-19 23:34:38 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:38 --> Input Class Initialized
+INFO - 2024-08-19 23:34:38 --> Language Class Initialized
+INFO - 2024-08-19 23:34:38 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:38 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:38 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:38 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:38 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:38 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:38 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:38 --> Email Class Initialized
+INFO - 2024-08-19 23:34:38 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:38 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:38 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:38 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:38 --> Table Class Initialized
+INFO - 2024-08-19 23:34:38 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:38 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:38 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:38 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:38 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:38 --> Model "User" initialized
+INFO - 2024-08-19 23:34:38 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:38 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:38 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:38 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:38 --> Total execution time: 0.0044
+INFO - 2024-08-19 23:34:38 --> Config Class Initialized
+INFO - 2024-08-19 23:34:38 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:38 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:38 --> URI Class Initialized
+INFO - 2024-08-19 23:34:38 --> Router Class Initialized
+INFO - 2024-08-19 23:34:38 --> Output Class Initialized
+INFO - 2024-08-19 23:34:38 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:38 --> Input Class Initialized
+INFO - 2024-08-19 23:34:38 --> Language Class Initialized
+INFO - 2024-08-19 23:34:38 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:38 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:38 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:38 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:38 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:38 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:38 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:38 --> Email Class Initialized
+INFO - 2024-08-19 23:34:38 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:38 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:38 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:38 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:38 --> Table Class Initialized
+INFO - 2024-08-19 23:34:38 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:38 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:38 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:38 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:38 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:38 --> Model "User" initialized
+INFO - 2024-08-19 23:34:38 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:38 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:38 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:38 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:38 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:38 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/summary_orders.php
+INFO - 2024-08-19 23:34:38 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:38 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:38 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:38 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:38 --> Total execution time: 0.0072
+INFO - 2024-08-19 23:34:38 --> Config Class Initialized
+INFO - 2024-08-19 23:34:38 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:38 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:38 --> URI Class Initialized
+INFO - 2024-08-19 23:34:38 --> Router Class Initialized
+INFO - 2024-08-19 23:34:38 --> Output Class Initialized
+INFO - 2024-08-19 23:34:38 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:38 --> Input Class Initialized
+INFO - 2024-08-19 23:34:38 --> Language Class Initialized
+INFO - 2024-08-19 23:34:38 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:38 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:38 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:38 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:38 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:38 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:38 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:38 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:38 --> Email Class Initialized
+INFO - 2024-08-19 23:34:38 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:38 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:38 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:38 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:38 --> Table Class Initialized
+INFO - 2024-08-19 23:34:38 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:38 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:38 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:38 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:38 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:38 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:38 --> Model "User" initialized
+INFO - 2024-08-19 23:34:38 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:38 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:38 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:38 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:38 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:38 --> Total execution time: 0.0056
+INFO - 2024-08-19 23:34:39 --> Config Class Initialized
+INFO - 2024-08-19 23:34:39 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:39 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:39 --> URI Class Initialized
+INFO - 2024-08-19 23:34:39 --> Router Class Initialized
+INFO - 2024-08-19 23:34:39 --> Output Class Initialized
+INFO - 2024-08-19 23:34:39 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:39 --> Input Class Initialized
+INFO - 2024-08-19 23:34:39 --> Language Class Initialized
+INFO - 2024-08-19 23:34:39 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:39 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:39 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:39 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:39 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:39 --> Email Class Initialized
+INFO - 2024-08-19 23:34:39 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:39 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:39 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:39 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:39 --> Table Class Initialized
+INFO - 2024-08-19 23:34:39 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:39 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:39 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:39 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:39 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:39 --> Model "User" initialized
+INFO - 2024-08-19 23:34:39 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:39 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:39 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/orders_list.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:39 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:39 --> Total execution time: 0.0068
+INFO - 2024-08-19 23:34:39 --> Config Class Initialized
+INFO - 2024-08-19 23:34:39 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:39 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:39 --> URI Class Initialized
+INFO - 2024-08-19 23:34:39 --> Router Class Initialized
+INFO - 2024-08-19 23:34:39 --> Output Class Initialized
+INFO - 2024-08-19 23:34:39 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:39 --> Input Class Initialized
+INFO - 2024-08-19 23:34:39 --> Language Class Initialized
+INFO - 2024-08-19 23:34:39 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:39 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:39 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:39 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:39 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:39 --> Email Class Initialized
+INFO - 2024-08-19 23:34:39 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:39 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:39 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:39 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:39 --> Table Class Initialized
+INFO - 2024-08-19 23:34:39 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:39 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:39 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:39 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:39 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:39 --> Model "User" initialized
+INFO - 2024-08-19 23:34:39 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:39 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:39 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:39 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:39 --> Total execution time: 0.0097
+INFO - 2024-08-19 23:34:39 --> Config Class Initialized
+INFO - 2024-08-19 23:34:39 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:39 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:39 --> URI Class Initialized
+INFO - 2024-08-19 23:34:39 --> Router Class Initialized
+INFO - 2024-08-19 23:34:39 --> Output Class Initialized
+INFO - 2024-08-19 23:34:39 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:39 --> Input Class Initialized
+INFO - 2024-08-19 23:34:39 --> Language Class Initialized
+INFO - 2024-08-19 23:34:39 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:39 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:39 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:39 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:39 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:39 --> Email Class Initialized
+INFO - 2024-08-19 23:34:39 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:39 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:39 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:39 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:39 --> Table Class Initialized
+INFO - 2024-08-19 23:34:39 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:39 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:39 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:39 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:39 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:39 --> Model "User" initialized
+INFO - 2024-08-19 23:34:39 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:39 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:39 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/new_order.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:39 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:39 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:39 --> Total execution time: 0.0075
+INFO - 2024-08-19 23:34:39 --> Config Class Initialized
+INFO - 2024-08-19 23:34:39 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:39 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:39 --> URI Class Initialized
+INFO - 2024-08-19 23:34:39 --> Router Class Initialized
+INFO - 2024-08-19 23:34:39 --> Output Class Initialized
+INFO - 2024-08-19 23:34:39 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:39 --> Input Class Initialized
+INFO - 2024-08-19 23:34:39 --> Language Class Initialized
+INFO - 2024-08-19 23:34:39 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:39 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:39 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:39 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:39 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:39 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:39 --> Email Class Initialized
+INFO - 2024-08-19 23:34:39 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:39 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:39 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:39 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:39 --> Table Class Initialized
+INFO - 2024-08-19 23:34:39 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:39 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:39 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:39 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:39 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:39 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:39 --> Model "User" initialized
+INFO - 2024-08-19 23:34:39 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:39 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:39 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:39 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:39 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:39 --> Total execution time: 0.0086
+INFO - 2024-08-19 23:34:40 --> Config Class Initialized
+INFO - 2024-08-19 23:34:40 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:40 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:40 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:40 --> URI Class Initialized
+INFO - 2024-08-19 23:34:40 --> Router Class Initialized
+INFO - 2024-08-19 23:34:40 --> Output Class Initialized
+INFO - 2024-08-19 23:34:40 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:40 --> Input Class Initialized
+INFO - 2024-08-19 23:34:40 --> Language Class Initialized
+INFO - 2024-08-19 23:34:40 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:40 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:40 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:40 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:40 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:40 --> Email Class Initialized
+INFO - 2024-08-19 23:34:40 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:40 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:40 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:40 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:40 --> Table Class Initialized
+INFO - 2024-08-19 23:34:40 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:40 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:40 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:40 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:40 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:40 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:40 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:40 --> Model "User" initialized
+INFO - 2024-08-19 23:34:40 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:40 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:40 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:40 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:40 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:40 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:40 --> Model "Alist" initialized
+INFO - 2024-08-19 23:34:40 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:40 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:40 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/dynlist.php
+INFO - 2024-08-19 23:34:40 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:40 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:40 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:40 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:40 --> Total execution time: 0.0087
+INFO - 2024-08-19 23:34:40 --> Config Class Initialized
+INFO - 2024-08-19 23:34:40 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:40 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:40 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:40 --> URI Class Initialized
+INFO - 2024-08-19 23:34:40 --> Router Class Initialized
+INFO - 2024-08-19 23:34:40 --> Output Class Initialized
+INFO - 2024-08-19 23:34:40 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:40 --> Input Class Initialized
+INFO - 2024-08-19 23:34:40 --> Language Class Initialized
+INFO - 2024-08-19 23:34:40 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:40 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:40 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:40 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:40 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:40 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:40 --> Email Class Initialized
+INFO - 2024-08-19 23:34:40 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:40 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:40 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:40 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:40 --> Table Class Initialized
+INFO - 2024-08-19 23:34:40 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:40 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:40 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:40 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:40 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:40 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:40 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:40 --> Model "User" initialized
+INFO - 2024-08-19 23:34:40 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:40 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:40 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:40 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:40 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:40 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:40 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:40 --> Total execution time: 0.0052
+INFO - 2024-08-19 23:34:41 --> Config Class Initialized
+INFO - 2024-08-19 23:34:41 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:41 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:41 --> URI Class Initialized
+INFO - 2024-08-19 23:34:41 --> Router Class Initialized
+INFO - 2024-08-19 23:34:41 --> Output Class Initialized
+INFO - 2024-08-19 23:34:41 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:41 --> Input Class Initialized
+INFO - 2024-08-19 23:34:41 --> Language Class Initialized
+INFO - 2024-08-19 23:34:41 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:41 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:41 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:41 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:41 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:41 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:41 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:41 --> Email Class Initialized
+INFO - 2024-08-19 23:34:41 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:41 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:41 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:41 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:41 --> Table Class Initialized
+INFO - 2024-08-19 23:34:41 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:41 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:41 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:41 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:41 --> Model "User" initialized
+INFO - 2024-08-19 23:34:41 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:41 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Alist" initialized
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/dynlist.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:41 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:41 --> Total execution time: 0.0109
+INFO - 2024-08-19 23:34:41 --> Config Class Initialized
+INFO - 2024-08-19 23:34:41 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:41 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:41 --> URI Class Initialized
+INFO - 2024-08-19 23:34:41 --> Router Class Initialized
+INFO - 2024-08-19 23:34:41 --> Output Class Initialized
+INFO - 2024-08-19 23:34:41 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:41 --> Input Class Initialized
+INFO - 2024-08-19 23:34:41 --> Language Class Initialized
+INFO - 2024-08-19 23:34:41 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:41 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:41 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:41 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:41 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:41 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:41 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:41 --> Email Class Initialized
+INFO - 2024-08-19 23:34:41 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:41 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:41 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:41 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:41 --> Table Class Initialized
+INFO - 2024-08-19 23:34:41 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:41 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:41 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:41 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:41 --> Model "User" initialized
+INFO - 2024-08-19 23:34:41 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:41 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:41 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:41 --> Total execution time: 0.0054
+INFO - 2024-08-19 23:34:41 --> Config Class Initialized
+INFO - 2024-08-19 23:34:41 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:41 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:41 --> URI Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> No URI present. Default controller set.
+INFO - 2024-08-19 23:34:41 --> Router Class Initialized
+INFO - 2024-08-19 23:34:41 --> Output Class Initialized
+INFO - 2024-08-19 23:34:41 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:41 --> Input Class Initialized
+INFO - 2024-08-19 23:34:41 --> Language Class Initialized
+INFO - 2024-08-19 23:34:41 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:41 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:41 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:41 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:41 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:41 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:41 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:41 --> Email Class Initialized
+INFO - 2024-08-19 23:34:41 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:41 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:41 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:41 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:41 --> Table Class Initialized
+INFO - 2024-08-19 23:34:41 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:41 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:41 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:41 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:41 --> Model "User" initialized
+INFO - 2024-08-19 23:34:41 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:41 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/main.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:41 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:41 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:41 --> Total execution time: 0.0085
+INFO - 2024-08-19 23:34:41 --> Config Class Initialized
+INFO - 2024-08-19 23:34:41 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:41 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:41 --> URI Class Initialized
+INFO - 2024-08-19 23:34:41 --> Router Class Initialized
+INFO - 2024-08-19 23:34:41 --> Output Class Initialized
+INFO - 2024-08-19 23:34:41 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:41 --> Input Class Initialized
+INFO - 2024-08-19 23:34:41 --> Language Class Initialized
+INFO - 2024-08-19 23:34:41 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:41 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:41 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:41 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:41 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:41 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:41 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:41 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:41 --> Email Class Initialized
+INFO - 2024-08-19 23:34:41 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:41 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:41 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:41 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:41 --> Table Class Initialized
+INFO - 2024-08-19 23:34:41 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:41 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:41 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:41 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:41 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:41 --> Model "User" initialized
+INFO - 2024-08-19 23:34:41 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:41 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:41 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:41 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:41 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:41 --> Total execution time: 0.0051
+INFO - 2024-08-19 23:34:43 --> Config Class Initialized
+INFO - 2024-08-19 23:34:43 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:43 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:43 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:43 --> URI Class Initialized
+INFO - 2024-08-19 23:34:43 --> Router Class Initialized
+INFO - 2024-08-19 23:34:43 --> Output Class Initialized
+INFO - 2024-08-19 23:34:43 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:43 --> Input Class Initialized
+INFO - 2024-08-19 23:34:43 --> Language Class Initialized
+INFO - 2024-08-19 23:34:43 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:43 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:43 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:43 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:43 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:43 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:43 --> Email Class Initialized
+INFO - 2024-08-19 23:34:43 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:43 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:43 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:43 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:43 --> Table Class Initialized
+INFO - 2024-08-19 23:34:43 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:43 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:43 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:43 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:43 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:43 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:43 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:43 --> Model "User" initialized
+INFO - 2024-08-19 23:34:43 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:43 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:43 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:43 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:43 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:43 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:43 --> Model "Alist" initialized
+INFO - 2024-08-19 23:34:43 --> Model "AForm" initialized
+INFO - 2024-08-19 23:34:43 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:43 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:43 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/admin/_list.php
+INFO - 2024-08-19 23:34:43 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:43 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:43 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:43 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:43 --> Total execution time: 0.0093
+INFO - 2024-08-19 23:34:43 --> Config Class Initialized
+INFO - 2024-08-19 23:34:43 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:43 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:43 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:43 --> URI Class Initialized
+INFO - 2024-08-19 23:34:43 --> Router Class Initialized
+INFO - 2024-08-19 23:34:43 --> Output Class Initialized
+INFO - 2024-08-19 23:34:43 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:43 --> Input Class Initialized
+INFO - 2024-08-19 23:34:43 --> Language Class Initialized
+INFO - 2024-08-19 23:34:43 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:43 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:43 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:43 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:43 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:43 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:43 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:43 --> Email Class Initialized
+INFO - 2024-08-19 23:34:43 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:43 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:43 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:43 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:43 --> Table Class Initialized
+INFO - 2024-08-19 23:34:43 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:43 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:43 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:43 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:43 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:43 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:43 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:43 --> Model "User" initialized
+INFO - 2024-08-19 23:34:43 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:43 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:43 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:43 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:43 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:43 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:43 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:43 --> Total execution time: 0.0056
+INFO - 2024-08-19 23:34:46 --> Config Class Initialized
+INFO - 2024-08-19 23:34:46 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:46 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:46 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:46 --> URI Class Initialized
+INFO - 2024-08-19 23:34:46 --> Router Class Initialized
+INFO - 2024-08-19 23:34:46 --> Output Class Initialized
+INFO - 2024-08-19 23:34:46 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:46 --> Input Class Initialized
+INFO - 2024-08-19 23:34:46 --> Language Class Initialized
+INFO - 2024-08-19 23:34:46 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:46 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:46 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:46 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:46 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:46 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:46 --> Email Class Initialized
+INFO - 2024-08-19 23:34:46 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:46 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:46 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:46 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:46 --> Table Class Initialized
+INFO - 2024-08-19 23:34:46 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:46 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:46 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:46 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:46 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:46 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:46 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:46 --> Model "User" initialized
+INFO - 2024-08-19 23:34:46 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:46 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:46 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:46 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:46 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:46 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:46 --> Config Class Initialized
+INFO - 2024-08-19 23:34:46 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:46 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:46 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:46 --> URI Class Initialized
+INFO - 2024-08-19 23:34:46 --> Router Class Initialized
+INFO - 2024-08-19 23:34:46 --> Output Class Initialized
+INFO - 2024-08-19 23:34:46 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:46 --> Input Class Initialized
+INFO - 2024-08-19 23:34:46 --> Language Class Initialized
+INFO - 2024-08-19 23:34:46 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:46 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:46 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:46 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:46 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:46 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:46 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:46 --> Email Class Initialized
+INFO - 2024-08-19 23:34:46 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:46 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:46 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:46 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:46 --> Table Class Initialized
+INFO - 2024-08-19 23:34:46 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:46 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:46 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:46 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:46 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:46 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:46 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:46 --> Model "User" initialized
+INFO - 2024-08-19 23:34:46 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:46 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:46 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:46 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:46 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:46 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:46 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/login.php
+INFO - 2024-08-19 23:34:46 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:46 --> Total execution time: 0.0065
+INFO - 2024-08-19 23:34:49 --> Config Class Initialized
+INFO - 2024-08-19 23:34:49 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:49 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:49 --> URI Class Initialized
+INFO - 2024-08-19 23:34:49 --> Router Class Initialized
+INFO - 2024-08-19 23:34:49 --> Output Class Initialized
+INFO - 2024-08-19 23:34:49 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:49 --> Input Class Initialized
+INFO - 2024-08-19 23:34:49 --> Language Class Initialized
+INFO - 2024-08-19 23:34:49 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:49 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:49 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:49 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:49 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:49 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:49 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:49 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:49 --> Email Class Initialized
+INFO - 2024-08-19 23:34:49 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:49 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:49 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:49 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:49 --> Table Class Initialized
+INFO - 2024-08-19 23:34:49 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:49 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:49 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:49 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:49 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:49 --> Model "User" initialized
+INFO - 2024-08-19 23:34:49 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:49 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:49 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:49 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-08-19 23:34:49 --> Config Class Initialized
+INFO - 2024-08-19 23:34:49 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:49 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:49 --> URI Class Initialized
+INFO - 2024-08-19 23:34:49 --> Router Class Initialized
+INFO - 2024-08-19 23:34:49 --> Output Class Initialized
+INFO - 2024-08-19 23:34:49 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:49 --> Input Class Initialized
+INFO - 2024-08-19 23:34:49 --> Language Class Initialized
+INFO - 2024-08-19 23:34:49 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:49 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:49 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:49 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:49 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:49 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:49 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:49 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:49 --> Email Class Initialized
+INFO - 2024-08-19 23:34:49 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:49 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:49 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:49 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:49 --> Table Class Initialized
+INFO - 2024-08-19 23:34:49 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:49 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:49 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:49 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:49 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:49 --> Model "User" initialized
+INFO - 2024-08-19 23:34:49 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:49 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:49 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:49 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/head.php
+INFO - 2024-08-19 23:34:49 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/sidebar.php
+INFO - 2024-08-19 23:34:49 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/crm/main.php
+INFO - 2024-08-19 23:34:49 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/p_dashboard.php
+INFO - 2024-08-19 23:34:49 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/_global/foot.php
+INFO - 2024-08-19 23:34:49 --> File loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/views/index.php
+INFO - 2024-08-19 23:34:49 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:49 --> Total execution time: 0.0097
+INFO - 2024-08-19 23:34:49 --> Config Class Initialized
+INFO - 2024-08-19 23:34:49 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:34:49 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:34:49 --> URI Class Initialized
+INFO - 2024-08-19 23:34:49 --> Router Class Initialized
+INFO - 2024-08-19 23:34:49 --> Output Class Initialized
+INFO - 2024-08-19 23:34:49 --> Security Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:34:49 --> Input Class Initialized
+INFO - 2024-08-19 23:34:49 --> Language Class Initialized
+INFO - 2024-08-19 23:34:49 --> Loader Class Initialized
+INFO - 2024-08-19 23:34:49 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:34:49 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:34:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:34:49 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:34:49 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:34:49 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:34:49 --> Encryption Class Initialized
+INFO - 2024-08-19 23:34:49 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:34:49 --> Parser Class Initialized
+INFO - 2024-08-19 23:34:49 --> Email Class Initialized
+INFO - 2024-08-19 23:34:49 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:34:49 --> Jquery Class Initialized
+INFO - 2024-08-19 23:34:49 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:34:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:34:49 --> Pagination Class Initialized
+INFO - 2024-08-19 23:34:49 --> Table Class Initialized
+INFO - 2024-08-19 23:34:49 --> Trackback Class Initialized
+INFO - 2024-08-19 23:34:49 --> User Agent Class Initialized
+INFO - 2024-08-19 23:34:49 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:34:49 --> Config file loaded: /home/clanwebh/bscrm.tajtizoltan.hu/application/config/steam_api.php
+DEBUG - 2024-08-19 23:34:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:34:49 --> Cart Class Initialized
+INFO - 2024-08-19 23:34:49 --> Model "Sess" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Msg" initialized
+INFO - 2024-08-19 23:34:49 --> Model "User" initialized
+INFO - 2024-08-19 23:34:49 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:34:49 --> Model "Orders" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Finance" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Customer" initialized
+INFO - 2024-08-19 23:34:49 --> Model "Products" initialized
+INFO - 2024-08-19 23:34:49 --> Controller Class Initialized
+INFO - 2024-08-19 23:34:49 --> Final output sent to browser
+DEBUG - 2024-08-19 23:34:49 --> Total execution time: 0.0069
+INFO - 2024-08-19 23:35:57 --> Config Class Initialized
+INFO - 2024-08-19 23:35:57 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:35:57 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:35:57 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:35:57 --> URI Class Initialized
+INFO - 2024-08-19 23:35:57 --> Router Class Initialized
+INFO - 2024-08-19 23:35:57 --> Output Class Initialized
+INFO - 2024-08-19 23:35:57 --> Security Class Initialized
+DEBUG - 2024-08-19 23:35:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:35:57 --> Input Class Initialized
+INFO - 2024-08-19 23:35:57 --> Language Class Initialized
+INFO - 2024-08-19 23:35:57 --> Loader Class Initialized
+INFO - 2024-08-19 23:35:57 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:35:57 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:35:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:35:57 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:35:57 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:35:57 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:35:57 --> Encryption Class Initialized
+INFO - 2024-08-19 23:35:57 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:35:57 --> Parser Class Initialized
+INFO - 2024-08-19 23:35:57 --> Email Class Initialized
+INFO - 2024-08-19 23:35:57 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:35:57 --> Jquery Class Initialized
+INFO - 2024-08-19 23:35:57 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:35:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:35:57 --> Pagination Class Initialized
+INFO - 2024-08-19 23:35:57 --> Table Class Initialized
+INFO - 2024-08-19 23:35:57 --> Trackback Class Initialized
+INFO - 2024-08-19 23:35:57 --> User Agent Class Initialized
+INFO - 2024-08-19 23:35:57 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:35:57 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:35:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:35:57 --> Cart Class Initialized
+INFO - 2024-08-19 23:35:57 --> Model "Sess" initialized
+INFO - 2024-08-19 23:35:57 --> Model "Msg" initialized
+INFO - 2024-08-19 23:35:57 --> Model "User" initialized
+INFO - 2024-08-19 23:35:57 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:35:57 --> Model "Orders" initialized
+INFO - 2024-08-19 23:35:57 --> Model "Finance" initialized
+INFO - 2024-08-19 23:35:57 --> Model "Customer" initialized
+INFO - 2024-08-19 23:35:57 --> Model "Products" initialized
+INFO - 2024-08-19 23:35:57 --> Controller Class Initialized
+INFO - 2024-08-19 23:35:57 --> File loaded: G:\xampp\htdocs\bs\application\views\login.php
+INFO - 2024-08-19 23:35:57 --> Final output sent to browser
+DEBUG - 2024-08-19 23:35:57 --> Total execution time: 0.0942
+INFO - 2024-08-19 23:35:58 --> Config Class Initialized
+INFO - 2024-08-19 23:35:58 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:35:58 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:35:58 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:35:58 --> URI Class Initialized
+INFO - 2024-08-19 23:35:58 --> Router Class Initialized
+INFO - 2024-08-19 23:35:58 --> Output Class Initialized
+INFO - 2024-08-19 23:35:58 --> Security Class Initialized
+DEBUG - 2024-08-19 23:35:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:35:58 --> Input Class Initialized
+INFO - 2024-08-19 23:35:58 --> Language Class Initialized
+ERROR - 2024-08-19 23:35:58 --> 404 Page Not Found: Main/assets
+INFO - 2024-08-19 23:35:59 --> Config Class Initialized
+INFO - 2024-08-19 23:35:59 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:35:59 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:35:59 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:35:59 --> URI Class Initialized
+INFO - 2024-08-19 23:35:59 --> Router Class Initialized
+INFO - 2024-08-19 23:35:59 --> Output Class Initialized
+INFO - 2024-08-19 23:35:59 --> Security Class Initialized
+DEBUG - 2024-08-19 23:35:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:35:59 --> Input Class Initialized
+INFO - 2024-08-19 23:35:59 --> Language Class Initialized
+INFO - 2024-08-19 23:35:59 --> Loader Class Initialized
+INFO - 2024-08-19 23:35:59 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:35:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:35:59 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:35:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:35:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:35:59 --> Encryption Class Initialized
+INFO - 2024-08-19 23:35:59 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:35:59 --> Parser Class Initialized
+INFO - 2024-08-19 23:35:59 --> Email Class Initialized
+INFO - 2024-08-19 23:35:59 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:35:59 --> Jquery Class Initialized
+INFO - 2024-08-19 23:35:59 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:35:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:35:59 --> Pagination Class Initialized
+INFO - 2024-08-19 23:35:59 --> Table Class Initialized
+INFO - 2024-08-19 23:35:59 --> Trackback Class Initialized
+INFO - 2024-08-19 23:35:59 --> User Agent Class Initialized
+INFO - 2024-08-19 23:35:59 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:35:59 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:35:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:35:59 --> Cart Class Initialized
+INFO - 2024-08-19 23:35:59 --> Model "Sess" initialized
+INFO - 2024-08-19 23:35:59 --> Model "Msg" initialized
+INFO - 2024-08-19 23:35:59 --> Model "User" initialized
+INFO - 2024-08-19 23:35:59 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:35:59 --> Model "Orders" initialized
+INFO - 2024-08-19 23:35:59 --> Model "Finance" initialized
+INFO - 2024-08-19 23:35:59 --> Model "Customer" initialized
+INFO - 2024-08-19 23:35:59 --> Model "Products" initialized
+INFO - 2024-08-19 23:35:59 --> Controller Class Initialized
+INFO - 2024-08-19 23:35:59 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-08-19 23:35:59 --> Config Class Initialized
+INFO - 2024-08-19 23:35:59 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:35:59 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:35:59 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:35:59 --> URI Class Initialized
+INFO - 2024-08-19 23:35:59 --> Router Class Initialized
+INFO - 2024-08-19 23:35:59 --> Output Class Initialized
+INFO - 2024-08-19 23:35:59 --> Security Class Initialized
+DEBUG - 2024-08-19 23:35:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:35:59 --> Input Class Initialized
+INFO - 2024-08-19 23:35:59 --> Language Class Initialized
+INFO - 2024-08-19 23:35:59 --> Loader Class Initialized
+INFO - 2024-08-19 23:35:59 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:35:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:35:59 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:35:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:35:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:35:59 --> Encryption Class Initialized
+INFO - 2024-08-19 23:35:59 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:35:59 --> Parser Class Initialized
+INFO - 2024-08-19 23:35:59 --> Email Class Initialized
+INFO - 2024-08-19 23:35:59 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:35:59 --> Jquery Class Initialized
+INFO - 2024-08-19 23:35:59 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:35:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:35:59 --> Pagination Class Initialized
+INFO - 2024-08-19 23:35:59 --> Table Class Initialized
+INFO - 2024-08-19 23:35:59 --> Trackback Class Initialized
+INFO - 2024-08-19 23:35:59 --> User Agent Class Initialized
+INFO - 2024-08-19 23:35:59 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:35:59 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:35:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:35:59 --> Cart Class Initialized
+INFO - 2024-08-19 23:35:59 --> Model "Sess" initialized
+INFO - 2024-08-19 23:35:59 --> Model "Msg" initialized
+INFO - 2024-08-19 23:35:59 --> Model "User" initialized
+INFO - 2024-08-19 23:35:59 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:35:59 --> Model "Orders" initialized
+INFO - 2024-08-19 23:35:59 --> Model "Finance" initialized
+INFO - 2024-08-19 23:35:59 --> Model "Customer" initialized
+INFO - 2024-08-19 23:35:59 --> Model "Products" initialized
+INFO - 2024-08-19 23:35:59 --> Controller Class Initialized
+INFO - 2024-08-19 23:35:59 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/head.php
+INFO - 2024-08-19 23:35:59 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/sidebar.php
+INFO - 2024-08-19 23:35:59 --> File loaded: G:\xampp\htdocs\bs\application\views\crm/main.php
+INFO - 2024-08-19 23:35:59 --> File loaded: G:\xampp\htdocs\bs\application\views\p_dashboard.php
+INFO - 2024-08-19 23:35:59 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/foot.php
+INFO - 2024-08-19 23:35:59 --> File loaded: G:\xampp\htdocs\bs\application\views\index.php
+INFO - 2024-08-19 23:35:59 --> Final output sent to browser
+DEBUG - 2024-08-19 23:35:59 --> Total execution time: 0.0965
+INFO - 2024-08-19 23:35:59 --> Config Class Initialized
+INFO - 2024-08-19 23:35:59 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:35:59 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:35:59 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:35:59 --> URI Class Initialized
+INFO - 2024-08-19 23:35:59 --> Router Class Initialized
+INFO - 2024-08-19 23:35:59 --> Output Class Initialized
+INFO - 2024-08-19 23:35:59 --> Security Class Initialized
+DEBUG - 2024-08-19 23:35:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:35:59 --> Input Class Initialized
+INFO - 2024-08-19 23:35:59 --> Language Class Initialized
+INFO - 2024-08-19 23:35:59 --> Loader Class Initialized
+INFO - 2024-08-19 23:35:59 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:35:59 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:35:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:35:59 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:35:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:35:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:35:59 --> Encryption Class Initialized
+INFO - 2024-08-19 23:35:59 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:35:59 --> Parser Class Initialized
+INFO - 2024-08-19 23:35:59 --> Email Class Initialized
+INFO - 2024-08-19 23:35:59 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:35:59 --> Jquery Class Initialized
+INFO - 2024-08-19 23:35:59 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:35:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:35:59 --> Pagination Class Initialized
+INFO - 2024-08-19 23:35:59 --> Table Class Initialized
+INFO - 2024-08-19 23:35:59 --> Trackback Class Initialized
+INFO - 2024-08-19 23:35:59 --> User Agent Class Initialized
+INFO - 2024-08-19 23:35:59 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:00 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:00 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:00 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:00 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:00 --> Model "User" initialized
+INFO - 2024-08-19 23:36:00 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:00 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:00 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:00 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:00 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:00 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:00 --> Final output sent to browser
+DEBUG - 2024-08-19 23:36:00 --> Total execution time: 0.0782
+INFO - 2024-08-19 23:36:02 --> Config Class Initialized
+INFO - 2024-08-19 23:36:02 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:02 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:02 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:02 --> URI Class Initialized
+INFO - 2024-08-19 23:36:02 --> Router Class Initialized
+INFO - 2024-08-19 23:36:02 --> Output Class Initialized
+INFO - 2024-08-19 23:36:02 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:02 --> Input Class Initialized
+INFO - 2024-08-19 23:36:02 --> Language Class Initialized
+INFO - 2024-08-19 23:36:02 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:02 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:02 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:02 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:02 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:02 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:02 --> Email Class Initialized
+INFO - 2024-08-19 23:36:02 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:02 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:02 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:02 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:02 --> Table Class Initialized
+INFO - 2024-08-19 23:36:02 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:02 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:02 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:02 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:02 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:02 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:02 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:02 --> Model "User" initialized
+INFO - 2024-08-19 23:36:02 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:02 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:02 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:02 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:02 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:02 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:02 --> Model "Alist" initialized
+INFO - 2024-08-19 23:36:02 --> Model "AForm" initialized
+INFO - 2024-08-19 23:36:02 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/head.php
+INFO - 2024-08-19 23:36:02 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/sidebar.php
+INFO - 2024-08-19 23:36:02 --> File loaded: G:\xampp\htdocs\bs\application\views\admin/_list.php
+INFO - 2024-08-19 23:36:02 --> File loaded: G:\xampp\htdocs\bs\application\views\p_dashboard.php
+INFO - 2024-08-19 23:36:02 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/foot.php
+INFO - 2024-08-19 23:36:02 --> File loaded: G:\xampp\htdocs\bs\application\views\index.php
+INFO - 2024-08-19 23:36:02 --> Final output sent to browser
+DEBUG - 2024-08-19 23:36:02 --> Total execution time: 0.0942
+INFO - 2024-08-19 23:36:02 --> Config Class Initialized
+INFO - 2024-08-19 23:36:02 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:02 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:02 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:02 --> URI Class Initialized
+INFO - 2024-08-19 23:36:02 --> Router Class Initialized
+INFO - 2024-08-19 23:36:02 --> Output Class Initialized
+INFO - 2024-08-19 23:36:02 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:02 --> Input Class Initialized
+INFO - 2024-08-19 23:36:02 --> Language Class Initialized
+INFO - 2024-08-19 23:36:02 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:02 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:02 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:02 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:02 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:02 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:02 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:02 --> Email Class Initialized
+INFO - 2024-08-19 23:36:02 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:02 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:02 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:02 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:02 --> Table Class Initialized
+INFO - 2024-08-19 23:36:02 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:02 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:02 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:02 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:02 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:02 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:02 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:02 --> Model "User" initialized
+INFO - 2024-08-19 23:36:02 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:02 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:02 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:02 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:02 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:02 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:02 --> Final output sent to browser
+DEBUG - 2024-08-19 23:36:02 --> Total execution time: 0.0757
+INFO - 2024-08-19 23:36:03 --> Config Class Initialized
+INFO - 2024-08-19 23:36:03 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:03 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:03 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:03 --> URI Class Initialized
+INFO - 2024-08-19 23:36:03 --> Router Class Initialized
+INFO - 2024-08-19 23:36:03 --> Output Class Initialized
+INFO - 2024-08-19 23:36:03 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:03 --> Input Class Initialized
+INFO - 2024-08-19 23:36:03 --> Language Class Initialized
+INFO - 2024-08-19 23:36:03 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:03 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:03 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:03 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:03 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:03 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:03 --> Email Class Initialized
+INFO - 2024-08-19 23:36:03 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:03 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:03 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:03 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:03 --> Table Class Initialized
+INFO - 2024-08-19 23:36:03 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:03 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:03 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:03 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:03 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:03 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:03 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:03 --> Model "User" initialized
+INFO - 2024-08-19 23:36:03 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:03 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:03 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:03 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:03 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:03 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:03 --> Config Class Initialized
+INFO - 2024-08-19 23:36:03 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:03 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:03 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:03 --> URI Class Initialized
+INFO - 2024-08-19 23:36:03 --> Router Class Initialized
+INFO - 2024-08-19 23:36:03 --> Output Class Initialized
+INFO - 2024-08-19 23:36:03 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:03 --> Input Class Initialized
+INFO - 2024-08-19 23:36:03 --> Language Class Initialized
+INFO - 2024-08-19 23:36:03 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:03 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:03 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:03 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:03 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:03 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:03 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:03 --> Email Class Initialized
+INFO - 2024-08-19 23:36:03 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:03 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:03 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:03 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:03 --> Table Class Initialized
+INFO - 2024-08-19 23:36:03 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:03 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:03 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:03 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:03 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:03 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:03 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:03 --> Model "User" initialized
+INFO - 2024-08-19 23:36:03 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:03 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:03 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:03 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:03 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:03 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:03 --> File loaded: G:\xampp\htdocs\bs\application\views\login.php
+INFO - 2024-08-19 23:36:03 --> Final output sent to browser
+DEBUG - 2024-08-19 23:36:03 --> Total execution time: 0.0767
+INFO - 2024-08-19 23:36:12 --> Config Class Initialized
+INFO - 2024-08-19 23:36:12 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:12 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:12 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:12 --> URI Class Initialized
+INFO - 2024-08-19 23:36:12 --> Router Class Initialized
+INFO - 2024-08-19 23:36:12 --> Output Class Initialized
+INFO - 2024-08-19 23:36:12 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:12 --> Input Class Initialized
+INFO - 2024-08-19 23:36:12 --> Language Class Initialized
+INFO - 2024-08-19 23:36:12 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:12 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:12 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:12 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:12 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:12 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:12 --> Email Class Initialized
+INFO - 2024-08-19 23:36:12 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:12 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:12 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:12 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:12 --> Table Class Initialized
+INFO - 2024-08-19 23:36:12 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:12 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:12 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:12 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:12 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:12 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:12 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:12 --> Model "User" initialized
+INFO - 2024-08-19 23:36:12 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:12 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:12 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:12 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:12 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:12 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:12 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-08-19 23:36:12 --> Config Class Initialized
+INFO - 2024-08-19 23:36:12 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:12 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:12 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:12 --> URI Class Initialized
+INFO - 2024-08-19 23:36:12 --> Router Class Initialized
+INFO - 2024-08-19 23:36:12 --> Output Class Initialized
+INFO - 2024-08-19 23:36:12 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:12 --> Input Class Initialized
+INFO - 2024-08-19 23:36:12 --> Language Class Initialized
+INFO - 2024-08-19 23:36:12 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:12 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:12 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:12 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:12 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:12 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:12 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:12 --> Email Class Initialized
+INFO - 2024-08-19 23:36:12 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:12 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:12 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:12 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:12 --> Table Class Initialized
+INFO - 2024-08-19 23:36:12 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:12 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:12 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:12 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:12 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:12 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:12 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:12 --> Model "User" initialized
+INFO - 2024-08-19 23:36:12 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:12 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:12 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:12 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:12 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:12 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:12 --> File loaded: G:\xampp\htdocs\bs\application\views\login.php
+INFO - 2024-08-19 23:36:12 --> Final output sent to browser
+DEBUG - 2024-08-19 23:36:12 --> Total execution time: 0.0807
+INFO - 2024-08-19 23:36:24 --> Config Class Initialized
+INFO - 2024-08-19 23:36:24 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:24 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:24 --> URI Class Initialized
+INFO - 2024-08-19 23:36:24 --> Router Class Initialized
+INFO - 2024-08-19 23:36:24 --> Output Class Initialized
+INFO - 2024-08-19 23:36:24 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:24 --> Input Class Initialized
+INFO - 2024-08-19 23:36:24 --> Language Class Initialized
+INFO - 2024-08-19 23:36:24 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:24 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:24 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:24 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:24 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:24 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:24 --> Email Class Initialized
+INFO - 2024-08-19 23:36:24 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:24 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:24 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:24 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:24 --> Table Class Initialized
+INFO - 2024-08-19 23:36:24 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:24 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:24 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:24 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:24 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:24 --> Model "User" initialized
+INFO - 2024-08-19 23:36:24 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:24 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:24 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-08-19 23:36:24 --> Config Class Initialized
+INFO - 2024-08-19 23:36:24 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:24 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:24 --> URI Class Initialized
+INFO - 2024-08-19 23:36:24 --> Router Class Initialized
+INFO - 2024-08-19 23:36:24 --> Output Class Initialized
+INFO - 2024-08-19 23:36:24 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:24 --> Input Class Initialized
+INFO - 2024-08-19 23:36:24 --> Language Class Initialized
+INFO - 2024-08-19 23:36:24 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:24 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:24 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:24 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:24 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:24 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:24 --> Email Class Initialized
+INFO - 2024-08-19 23:36:24 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:24 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:24 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:24 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:24 --> Table Class Initialized
+INFO - 2024-08-19 23:36:24 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:24 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:24 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:24 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:24 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:24 --> Model "User" initialized
+INFO - 2024-08-19 23:36:24 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:24 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:24 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:24 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/head.php
+INFO - 2024-08-19 23:36:24 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/sidebar.php
+INFO - 2024-08-19 23:36:24 --> File loaded: G:\xampp\htdocs\bs\application\views\crm/main.php
+INFO - 2024-08-19 23:36:24 --> File loaded: G:\xampp\htdocs\bs\application\views\p_dashboard.php
+INFO - 2024-08-19 23:36:24 --> File loaded: G:\xampp\htdocs\bs\application\views\_global/foot.php
+INFO - 2024-08-19 23:36:24 --> File loaded: G:\xampp\htdocs\bs\application\views\index.php
+INFO - 2024-08-19 23:36:24 --> Final output sent to browser
+DEBUG - 2024-08-19 23:36:24 --> Total execution time: 0.0848
+INFO - 2024-08-19 23:36:24 --> Config Class Initialized
+INFO - 2024-08-19 23:36:24 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:36:24 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:36:24 --> URI Class Initialized
+INFO - 2024-08-19 23:36:24 --> Router Class Initialized
+INFO - 2024-08-19 23:36:24 --> Output Class Initialized
+INFO - 2024-08-19 23:36:24 --> Security Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:36:24 --> Input Class Initialized
+INFO - 2024-08-19 23:36:24 --> Language Class Initialized
+INFO - 2024-08-19 23:36:24 --> Loader Class Initialized
+INFO - 2024-08-19 23:36:24 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:36:24 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:36:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:36:24 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:36:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:36:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:36:24 --> Encryption Class Initialized
+INFO - 2024-08-19 23:36:24 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:36:24 --> Parser Class Initialized
+INFO - 2024-08-19 23:36:24 --> Email Class Initialized
+INFO - 2024-08-19 23:36:24 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:36:24 --> Jquery Class Initialized
+INFO - 2024-08-19 23:36:24 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:36:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:36:24 --> Pagination Class Initialized
+INFO - 2024-08-19 23:36:24 --> Table Class Initialized
+INFO - 2024-08-19 23:36:24 --> Trackback Class Initialized
+INFO - 2024-08-19 23:36:24 --> User Agent Class Initialized
+INFO - 2024-08-19 23:36:24 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:36:24 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:36:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:36:24 --> Cart Class Initialized
+INFO - 2024-08-19 23:36:24 --> Model "Sess" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Msg" initialized
+INFO - 2024-08-19 23:36:24 --> Model "User" initialized
+INFO - 2024-08-19 23:36:24 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:36:24 --> Model "Orders" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Finance" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Customer" initialized
+INFO - 2024-08-19 23:36:24 --> Model "Products" initialized
+INFO - 2024-08-19 23:36:24 --> Controller Class Initialized
+INFO - 2024-08-19 23:36:24 --> Final output sent to browser
+DEBUG - 2024-08-19 23:36:24 --> Total execution time: 0.0867

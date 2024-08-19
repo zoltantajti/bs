@@ -11,10 +11,10 @@ if($_SERVER['HTTP_HOST'] == "localhost" || $_SERVER['HTTP_HOST'] == "dayz24.loca
 	$acc['pass'] = "";
 	$acc['db'] = 'viki_bs';
 }else{
-	$acc['host'] = "";
-	$acc['user'] = "";
-	$acc['pass'] = "";
-	$acc['db'] = '';
+	$acc['host'] = "localhost";
+	$acc['user'] = "clanwebh_wp170";
+	$acc['pass'] = "Sm@!pq7z55";
+	$acc['db'] = 'clanwebh_bscrm';
 }
 
 
