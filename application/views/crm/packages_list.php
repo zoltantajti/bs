@@ -9,9 +9,10 @@
                 <div class="card-body text-center">
                     <?=($package['receivedAt']) ? '<i class="fa-sharp fa-solid fa-cart-circle-check fa-3x"></i>' : '<i class="fa-sharp fa-solid fa-cart-circle-arrow-down fa-3x"></i>'?><br/>
                     <br/>
-                    Csomag: <b><?=$package['packageID']?></b><br/>
-                    Beküldve: <b><?=str_replace('-','.',$package['createdAt'])?></b><br/>
-                    Átvéve: <b><?=($package['receivedAt']) ? str_replace('-','.',$package['receivedAt']) : ' - '?></b><br/>
+                    Csomag:<br/><b><?=$package['packageID']?></b><br/>
+                    Beküldve: <br/><b><?=str_replace('-','.',$package['createdAt'])?></b>
+                    <hr/>
+                    Átvéve: <br/><b><?=($package['receivedAt']) ? str_replace('-','.',$package['receivedAt']) : ' - '?></b><br/>
                     <br/>
                     <a href="packages/<?=$package['packageID']?>" class="btn btn-outline-dark stretched-link">Részletek</a>
                 </div>

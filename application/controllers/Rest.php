@@ -100,6 +100,7 @@ class Rest extends CI_Controller {
             $this->db->insert('customers',array('name' => $customerName, 'sellerID' => $this->Sess->get('id','user'),'postcode' => $postCode,'city' => $city,'address' => $addr,'phone' => $phone)); 
         };
         $cID = $this->db->select('id')->from('customers')->where('name',$customerName)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0]['id'];
+        $cName = $this->db->select('name')->from('customers')->where('name',$customerName)->where('sellerID',$this->Sess->get('id','user'))->get()->result_array()[0]['name'];
         
         //handle pay values
         $totalPay = 0;
@@ -123,6 +124,9 @@ class Rest extends CI_Controller {
                 "cost" => $v['options']['Cost'],
                 "qty" => $v['qty']
             ];
+            if($cName == "Saját megrendelés"){
+                $item['price'] = $item['cost'];
+            }
             array_push($cartItems,$item);
         };
         $data = array(
@@ -137,7 +141,10 @@ class Rest extends CI_Controller {
             "totalCost" => $totalCost,
             "totalProfit" => $totalProfit
         );
-
+        if($cName == "Saját megrendelés"){
+            $data['totalPay'] = $data['totalCost'];
+            $data['totalProfit'] = 0;
+        }
         $this->db->insert('orders',$data);
         $this->cart->destroy();
 

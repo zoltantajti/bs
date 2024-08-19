@@ -44,7 +44,11 @@
                 </tr>
                 </thead>
                 <tbody>
-                <?php foreach($inOrders as $k=>$v){?>
+                <?php 
+                $total = 0;
+                $cost = 0;
+                $profit = 0;
+                foreach($inOrders as $k=>$v){?>
                 <tr>
                     <td><a href="order/<?=$v['id']?>"><i class="fa-sharp fa-thin fa-folder-open"></i></a></td>
                     <td><?=$v['id']?> <i>(<?=$this->Orders->getStatus($v['status'])?>)</i></td>
@@ -67,7 +71,28 @@
                     </div>
                     </td>
                 </tr>
-                <?php }; ?>
+                <?php 
+                    $total += $v['totalPay'];
+                    $cost += $v['totalCost'];
+                    $profit += $v['totalProfit'];
+                    }; 
+                if($this->Finance->calculatePoints($cost) < 100) {
+                ?>
+                <tr>
+                    <td class="bg-body-secondary"></td>
+                    <td class="bg-body-secondary" colspan="2">Postaköltség</td>
+                    <td class="bg-body-secondary"colspan="1"></td>
+                    <td class="bg-body-secondary">750 Ft</td>
+                    <td class="bg-body-secondary" colspan="2"></td>
+                </tr>
+                <?php $cost += 750; $profit -= 750; }; ?>
+                <tr>
+                    <td></td>
+                    <td colspan="1"><b>Összesen:</b> <?=number_format($total,0,""," ")?> Ft</td>
+                    <td colspan="1"><b>Fizetendő:</b> <?=number_format($cost,0,""," ")?> Ft</td>
+                    <td colspan="2"><b>Profit:</b> <?=number_format($profit,0,""," ")?> Ft</td>
+                    <td colspan="2"><b>Pontok:</b> <?=$this->Finance->calculatePoints($cost)?></td>
+                </tr>
                 </tbody>
             </table>
         </div>

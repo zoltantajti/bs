@@ -51,6 +51,6 @@ class Finance extends CI_Model
 
     public function calculatePoints($amount){
         $points = ceil($amount / 200);
-        return $points;
+        return $points - 1;
     }
 }
