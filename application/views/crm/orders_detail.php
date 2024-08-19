@@ -128,6 +128,13 @@
             <div class="col-md-1 hv-65-gray pt-1 pb-1 mb-1 bb-1-solid bb-dark-75 text-right"></div>
         </div>  
         <?php }; }; ?>
+        <div class="row">
+            <div class="col ms-auto" style="text-align:right;">
+                Végösszeg: <b id="cartTotal">0</b><b> Ft</b><br/>
+                Kiadás: <b id="costTotal">0</b><b> Ft</b><br/>
+                Profit: <b id="profitTotal">0</b><b> Ft</b><br/>
+            </div>
+        </div>
     </form>
 </div>
 <datalist id="products"><?php foreach($this->db->select('prodCode')->from('products')->order_by('prodCode','ASC')->get()->result_array() as $c){?><option><?=$c['prodCode']?></option><?php }; ?></datalist>

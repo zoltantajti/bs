@@ -267,3 +267,5 @@ const ajax = (type, url, data) => {return new Promise((resolve,reject) => {$.aja
 const formatNumber = (number) => {return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");}
 class Product{constructor(code,name,price,cost,qty){this.code = code;this.name = name;this.price = price;this.cost = cost;this.qty = qty;this.profit = (price - cost) * qty;}}
 jQuery.fn.center = function () {this.css("position","absolute");this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) + $(window).scrollTop()) + "px");this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + $(window).scrollLeft()) + "px");return this;}
+const filterCustomerTable = () => {let customer = $("#filterCustomer").val().toLowerCase();$("table tbody tr").each(function(){let _c = $(this).find("td:eq(2)").text().toLowerCase();(_c.indexOf(customer) > -1 || "" == customer) ? $(this).show(): $(this).hide()})}
+$("#filterCustomer").keyup(function(){filterCustomerTable();});

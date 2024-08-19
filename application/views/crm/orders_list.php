@@ -8,7 +8,9 @@
                 <thead>
                 <tr>
                     <th colspan="2">AZONOSÍTÓ</th>
-                    <th>Megrendelő</th>
+                    <th class="text-center">
+                        <input type="text" id="filterCustomer" class="form-control-filter" placeholder="Megrendelő"/>
+                    </th>
                     <th>Fizetendő</th>
                     <th>Kiadás</th>
                     <th>Profit</th>

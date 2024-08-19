@@ -48,4 +48,9 @@ class Finance extends CI_Model
         };
         return array('income' => $income, 'outcome' => $outcome, 'profit' => $profit);
     }
+
+    public function calculatePoints($amount){
+        $points = ceil($amount / 200);
+        return $points;
+    }
 }

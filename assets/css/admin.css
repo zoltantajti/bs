@@ -176,3 +176,24 @@ datalist option {
   .disabled{
     cursor: not-allowed;
   }
+
+
+.form-control-filter{
+    display: block;
+    box-sizing: border-box;
+    max-width: 125px;
+    background-color: transparent !important;
+    border: 1px solid transparent;
+    border-bottom: 1px solid rgba(255,255,255,0.25);
+    color: red;
+    font-weight: bold;
+}
+.form-control-filter:focus{
+    border: 1px solid transparent !important;
+    border-bottom: 1px solid rgba(255,255,255,0.25);
+    outline: none !important; 
+}
+.form-control-filter::placeholder{
+    font-weight: bold;
+    color: #000;
+}

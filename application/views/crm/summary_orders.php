@@ -38,14 +38,20 @@
             <table class="table">
                 <thead>
                     <tr>
-                        <th>Befolyó összeg:</th>
-                        <th><?=number_format($income,0,""," ")?> Ft</th>
-                        <th>Kifizetendő összeg:</th>
-                        <th><?=number_format($outcome,0,""," ")?> Ft</th>
-                        <th>Profit:</th>
-                        <th><?=number_format($profit,0,""," ")?> Ft</th>
+                        <th>Befolyó összeg</th>
+                        <th>Kifizetendő összeg</th>
+                        <th>Profit</th>
+                        <th>Pont</th>
                     </tr>
                 </thead>
+                <tbody>
+                    <tr>
+                        <td><?=number_format($income,0,""," ")?> Ft</td>
+                        <td><?=number_format($outcome,0,""," ")?> Ft</td>
+                        <td><?=number_format($profit,0,""," ")?> Ft</td>
+                        <td><?=$this->Finance->calculatePoints($outcome)?></td>
+                    </tr>
+                </tbody>
             </table>
             <button type="button" role="button" class="btn btn-outline-success" onClick="submitOrder();">
                 <i class="fa-sharp fa-solid fa-cart-circle-check"></i>
