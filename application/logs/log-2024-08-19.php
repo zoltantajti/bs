@@ -41948,3 +41948,73 @@ INFO - 2024-08-19 23:23:34 --> Model "Products" initialized
 INFO - 2024-08-19 23:23:34 --> Controller Class Initialized
 INFO - 2024-08-19 23:23:34 --> Final output sent to browser
 DEBUG - 2024-08-19 23:23:34 --> Total execution time: 0.0975
+INFO - 2024-08-19 23:31:56 --> Config Class Initialized
+INFO - 2024-08-19 23:31:56 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:56 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:56 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:56 --> URI Class Initialized
+INFO - 2024-08-19 23:31:56 --> Router Class Initialized
+INFO - 2024-08-19 23:31:56 --> Output Class Initialized
+INFO - 2024-08-19 23:31:56 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:56 --> Input Class Initialized
+INFO - 2024-08-19 23:31:56 --> Language Class Initialized
+INFO - 2024-08-19 23:31:56 --> Loader Class Initialized
+INFO - 2024-08-19 23:31:56 --> Helper loaded: typography_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: captcha_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: date_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: form_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: email_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: inflector_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: number_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: html_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: cookie_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: url_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: array_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: security_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: string_helper
+INFO - 2024-08-19 23:31:56 --> Helper loaded: text_helper
+DEBUG - 2024-08-19 23:31:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-08-19 23:31:56 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-08-19 23:31:56 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2024-08-19 23:31:56 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2024-08-19 23:31:56 --> Encryption Class Initialized
+INFO - 2024-08-19 23:31:56 --> Form Validation Class Initialized
+INFO - 2024-08-19 23:31:56 --> Parser Class Initialized
+INFO - 2024-08-19 23:31:56 --> Email Class Initialized
+INFO - 2024-08-19 23:31:56 --> Image Lib Class Initialized
+INFO - 2024-08-19 23:31:56 --> Jquery Class Initialized
+INFO - 2024-08-19 23:31:56 --> Javascript Class Initialized and loaded. Driver used: jquery
+INFO - 2024-08-19 23:31:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-08-19 23:31:56 --> Pagination Class Initialized
+INFO - 2024-08-19 23:31:56 --> Table Class Initialized
+INFO - 2024-08-19 23:31:56 --> Trackback Class Initialized
+INFO - 2024-08-19 23:31:56 --> User Agent Class Initialized
+INFO - 2024-08-19 23:31:56 --> XML-RPC Class Initialized
+DEBUG - 2024-08-19 23:31:56 --> Config file loaded: G:\xampp\htdocs\bs\application\config/steam_api.php
+DEBUG - 2024-08-19 23:31:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-08-19 23:31:56 --> Cart Class Initialized
+INFO - 2024-08-19 23:31:56 --> Model "Sess" initialized
+INFO - 2024-08-19 23:31:56 --> Model "Msg" initialized
+INFO - 2024-08-19 23:31:56 --> Model "User" initialized
+INFO - 2024-08-19 23:31:56 --> Database Driver Class Initialized
+INFO - 2024-08-19 23:31:56 --> Model "Orders" initialized
+INFO - 2024-08-19 23:31:56 --> Model "Finance" initialized
+INFO - 2024-08-19 23:31:56 --> Model "Customer" initialized
+INFO - 2024-08-19 23:31:56 --> Model "Products" initialized
+INFO - 2024-08-19 23:31:56 --> Controller Class Initialized
+INFO - 2024-08-19 23:31:56 --> File loaded: G:\xampp\htdocs\bs\application\views\login.php
+INFO - 2024-08-19 23:31:56 --> Final output sent to browser
+DEBUG - 2024-08-19 23:31:56 --> Total execution time: 0.0897
+INFO - 2024-08-19 23:31:57 --> Config Class Initialized
+INFO - 2024-08-19 23:31:57 --> Hooks Class Initialized
+DEBUG - 2024-08-19 23:31:57 --> UTF-8 Support Enabled
+INFO - 2024-08-19 23:31:57 --> Utf8 Class Initialized
+INFO - 2024-08-19 23:31:57 --> URI Class Initialized
+INFO - 2024-08-19 23:31:57 --> Router Class Initialized
+INFO - 2024-08-19 23:31:57 --> Output Class Initialized
+INFO - 2024-08-19 23:31:57 --> Security Class Initialized
+DEBUG - 2024-08-19 23:31:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-19 23:31:57 --> Input Class Initialized
+INFO - 2024-08-19 23:31:57 --> Language Class Initialized
+ERROR - 2024-08-19 23:31:57 --> 404 Page Not Found: Main/assets
